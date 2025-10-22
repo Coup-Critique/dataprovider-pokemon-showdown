@@ -45,6 +45,7 @@
   gen9blankcanvasrandombattle: "[Gen 9] Blank Canvas Random Battle",
   gen9blankcanvasexpanded: "[Gen 9] Blank Canvas Expanded",
   gen9chatbats: "[Gen 9] ChatBats",
+  gen9legendszaou: "[Gen 9] Legends Z-A OU",
   gen5pokebilitiesrandombattle: "[Gen 5] Pokebilities Random Battle",
   gen7uu: "[Gen 7] UU",
   gen8zu: "[Gen 8] ZU",
