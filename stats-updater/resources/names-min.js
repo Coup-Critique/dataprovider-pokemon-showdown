@@ -21,6 +21,8 @@
   gen9vgc2025regi: "[Gen 9] VGC 2025 Reg I",
   gen9vgc2025regj: "[Gen 9] VGC 2025 Reg J",
   gen9vgc2025regjbo3: "[Gen 9] VGC 2025 Reg J (Bo3)",
+  gen9vgc2026regf: "[Gen 9] VGC 2026 Reg F",
+  gen9vgc2026regfbo3: "[Gen 9] VGC 2026 Reg F (Bo3)",
   gen91v1: "[Gen 9] 1v1",
   gen92v2doubles: "[Gen 9] 2v2 Doubles",
   gen9ubersuu: "[Gen 9] Ubers UU",
@@ -45,7 +47,8 @@
   gen9blankcanvasexpanded: "[Gen 9] Blank Canvas Expanded",
   gen9chatbats: "[Gen 9] ChatBats",
   gen9legendszaou: "[Gen 9] Legends Z-A OU",
-  gen5pokebilitiesrandombattle: "[Gen 5] Pokebilities Random Battle",
+  gen9forceofthefallenrandomroulette:
+    "[Gen 9] Force of the Fallen Random Roulette",
   gen8uu: "[Gen 8] UU",
   gen8ou: "[Gen 8] OU",
   gen7ou: "[Gen 7] OU",
