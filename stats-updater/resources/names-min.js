@@ -43,8 +43,8 @@
   gen8nationaldexru: "[Gen 8] National Dex RU",
   gen8nationaldexdoubles: "[Gen 8] National Dex Doubles",
   gen8dlc1nationaldexag: "[Gen 8 DLC 1] National Dex AG",
-  gen9blankcanvasrandombattle: "[Gen 9] Blank Canvas Random Battle",
-  gen9blankcanvasexpanded: "[Gen 9] Blank Canvas Expanded",
+  gen9spookymodrandombattle: "[Gen 9] spookymod Random Battle",
+  gen9spookymod: "[Gen 9] spookymod",
   gen9chatbats: "[Gen 9] ChatBats",
   gen9legendszaou: "[Gen 9] Legends Z-A OU",
   gen9forceofthefallenrandomroulette:
