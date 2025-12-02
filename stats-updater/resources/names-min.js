@@ -16,8 +16,6 @@
   gen9vgc2023regc: "[Gen 9] VGC 2023 Reg C",
   gen9vgc2023regd: "[Gen 9] VGC 2023 Reg D",
   gen9vgc2024regg: "[Gen 9] VGC 2024 Reg G",
-  gen9vgc2025regh: "[Gen 9] VGC 2025 Reg H",
-  gen9vgc2025reghbo3: "[Gen 9] VGC 2025 Reg H (Bo3)",
   gen9vgc2025regi: "[Gen 9] VGC 2025 Reg I",
   gen9vgc2025regj: "[Gen 9] VGC 2025 Reg J",
   gen9vgc2025regjbo3: "[Gen 9] VGC 2025 Reg J (Bo3)",
