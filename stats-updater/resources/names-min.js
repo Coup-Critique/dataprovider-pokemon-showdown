@@ -22,7 +22,7 @@
   gen9vgc2026regf: "[Gen 9] VGC 2026 Reg F",
   gen9vgc2026regfbo3: "[Gen 9] VGC 2026 Reg F (Bo3)",
   gen91v1: "[Gen 9] 1v1",
-  gen92v2: "[Gen 9] 2v2",
+  gen92v2doubles: "[Gen 9] 2v2 Doubles",
   gen9ubersuu: "[Gen 9] Ubers UU",
   gen9zu: "[Gen 9] ZU",
   gen9lcuu: "[Gen 9] LC UU",
