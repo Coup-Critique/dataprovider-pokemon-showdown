@@ -160,9 +160,9 @@
 		"teraBan": true
 	},
 	{
-		"name": "VGC 2025 RJ",
-		"shortName": "VGC RJ",
-		"usageName": "vgc2025regj",
+		"name": "VGC 2026 RF",
+		"shortName": "VGC RF",
+		"usageName": "vgc2026regf",
 		"playable": true,
 		"official": true,
 		"main": true,
@@ -173,9 +173,9 @@
 		]
 	},
 	{
-		"name": "VGC 2025 RH",
-		"shortName": "VGC RH",
-		"usageName": "vgc2025regh",
+		"name": "VGC 2025 RJ",
+		"shortName": "VGC RJ",
+		"usageName": "vgc2025regj",
 		"playable": true,
 		"official": true,
 		"main": false,
@@ -186,13 +186,25 @@
 		]
 	},
 	{
-		"name": "BSS 2025 RI",
-		"shortName": "BSS RJ",
-		"usageName": "bssregj",
+		"name": "BSS 2026 RF",
+		"shortName": "BSS RF",
+		"usageName": "bssregf",
 		"official": true,
 		"main": true,
 		"playable": true,
 		"sortOrder": 2,
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "BSS 2025 RJ",
+		"shortName": "BSS RJ",
+		"usageName": "bssregj",
+		"official": true,
+		"main": false,
+		"playable": true,
+		"sortOrder": 4,
 		"gen": [
 			9
 		]
