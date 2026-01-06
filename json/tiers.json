@@ -173,9 +173,9 @@
 		]
 	},
 	{
-		"name": "VGC 2025 RJ",
-		"shortName": "VGC RJ",
-		"usageName": "vgc2025regj",
+		"name": "VGC 2025 RI",
+		"shortName": "VGC RI",
+		"usageName": "vgc2025regi",
 		"playable": true,
 		"official": true,
 		"main": false,
@@ -198,9 +198,9 @@
 		]
 	},
 	{
-		"name": "BSS 2025 RJ",
-		"shortName": "BSS RJ",
-		"usageName": "bssregj",
+		"name": "BSS 2025 RI",
+		"shortName": "BSS RI",
+		"usageName": "bssregi",
 		"official": true,
 		"main": false,
 		"playable": true,
