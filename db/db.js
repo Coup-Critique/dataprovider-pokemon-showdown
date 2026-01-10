@@ -11,7 +11,7 @@ require("dotenv").config();
  *           noOverrideColumns: string[]  }} options
  * Options parameters :
  * - identifier : column name that will have the identifier role (check row's existance)
- * - hasGen : data do have gen ? (special processing)
+ * - hasGen : does data have gen ? (special processing)
  * - replaceColumns : columns name that must be replaced by other precised
  * - relations : column mapping across tables
  * - noOverideColumns : columns that mustn't be updated

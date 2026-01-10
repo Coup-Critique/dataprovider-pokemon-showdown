@@ -1,6 +1,11 @@
 const { loadResource, JSON: _JSON } = require("../libs/fileLoader");
 const { knex, insertOrUpdate, resultRecords } = require("./db");
-const pokemons = loadResource(_JSON, "pokemons.json");
+const pokemons = loadResource(_JSON, "pokemons.json").map((pokemon) => {
+  if (pokemon.type === "???") {
+    pokemon.type = "Unknown";
+  }
+  return pokemon;
+});
 
 const originalPokemons = JSON.stringify(pokemons);
 

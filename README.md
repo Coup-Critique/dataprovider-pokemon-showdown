@@ -22,3 +22,12 @@ wget https://raw.githubusercontent.com/ii02735/dataprovider-pokemon-showdown/mai
 ```
 
 - By downloading them manually (point and click)
+
+## Install
+
+```sh
+cp .env.dist .env
+npm install
+node dataToJson.js
+node usage-stats.js update
+```

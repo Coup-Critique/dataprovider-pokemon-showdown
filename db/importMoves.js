@@ -1,6 +1,11 @@
 const { loadResource, JSON } = require("../libs/fileLoader");
 const { knex, insertOrUpdate, resultRecords } = require("./db");
-const moves = loadResource(JSON, "moves.json");
+const moves = loadResource(JSON, "moves.json").map((move) => {
+  if (move.type === "???") {
+    move.type = "Unknown";
+  }
+  return move;
+});
 
 Promise.all(
   insertOrUpdate(knex, "move", moves, {

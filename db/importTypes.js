@@ -2,7 +2,12 @@ const { loadResource, JSON } = require("../libs/fileLoader");
 const { knex } = require("./db");
 let typesWeaknesses = {};
 let records = { table: "type", CREATED: 0, UPDATED: 0 };
-const objects = loadResource(JSON, "types.json");
+const objects = loadResource(JSON, "types.json").map((type) => {
+  if (type.name === "???") {
+    type.name = "Unknown";
+  }
+  return type;
+});
 
 Promise.all(
   objects.map(async (object) => {

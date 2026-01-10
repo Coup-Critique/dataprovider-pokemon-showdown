@@ -19,3 +19,5 @@ execution.log
 !package*.json
 .env
 Smogon-Stats-Viewer
+logs/*
+!logs/.gitkeep

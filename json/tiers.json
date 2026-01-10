@@ -32,7 +32,13 @@
 		"rank": 4,
 		"sortOrder": 5,
 		"parent": "UnderUsed",
-		"gen": [5, 6, 7, 8, 9]
+		"gen": [
+			5,
+			6,
+			7,
+			8,
+			9
+		]
 	},
 	{
 		"name": "RarelyUsed",
@@ -41,7 +47,13 @@
 		"usageName": "ru",
 		"rank": 5,
 		"sortOrder": 6,
-		"gen": [5, 6, 7, 8, 9]
+		"gen": [
+			5,
+			6,
+			7,
+			8,
+			9
+		]
 	},
 	{
 		"name": "NeverUsed BorderLine",
@@ -80,11 +92,19 @@
 	{
 		"name": "ZeroUsed",
 		"shortName": "ZU",
-		"playable": true,
+		"playable": false,
 		"usageName": "zu",
 		"rank": 8,
-		"sortOrder": 9,
-		"gen": [7, 8, 9]
+		"sortOrder": 9
+	},
+	{
+		"name": "ZeroUsed BorderLine",
+		"shortName": "ZUBL",
+		"usageName": "zubl",
+		"playable": false,
+		"rank": 7,
+		"sortOrder": 8,
+		"parent": "PU"
 	},
 	{
 		"name": "Not Fully Evolved",
@@ -92,7 +112,7 @@
 		"usageName": "nfe",
 		"rank": 99,
 		"sortOrder": 99,
-		"playable": true
+		"playable": false
 	},
 	{
 		"name": "Little Cup",
@@ -117,55 +137,77 @@
 		"playable": true,
 		"rank": 1,
 		"sortOrder": 101,
-		"gen": [4, 6, 7, 8, 9]
+		"gen": [
+			4,
+			6,
+			7,
+			8,
+			9
+		]
 	},
 	{
 		"name": "Monotype",
 		"shortName": "Mono",
 		"usageName": "monotype",
 		"playable": true,
-		"gen": [5, 6, 7, 8, 9],
+		"gen": [
+			5,
+			6,
+			7,
+			8,
+			9
+		],
 		"teraBan": true
 	},
 	{
-		"name": "VGC 2023 s1",
-		"shortName": "VGCs1",
-		"usageName": "vgc2023series1",
-		"playable": false,
-		"official": true,
-		"isDouble": true,
-		"sortOrder": 3,
-		"gen": [9]
-	},
-	{
-		"name": "VGC 2023 s2",
-		"shortName": "VGC",
-		"usageName": "vgc2023series2",
+		"name": "VGC 2026 RF",
+		"shortName": "VGC RF",
+		"usageName": "vgc2026regf",
 		"playable": true,
 		"official": true,
 		"main": true,
 		"isDouble": true,
 		"sortOrder": 1,
-		"gen": [9]
+		"gen": [
+			9
+		]
 	},
 	{
-		"name": "BSS 2023 s1",
-		"shortName": "BSSs1",
-		"usageName": "battlestadiumsinglesseries1",
+		"name": "VGC 2025 RI",
+		"shortName": "VGC RI",
+		"usageName": "vgc2025regi",
+		"playable": true,
 		"official": true,
-		"playable": false,
-		"sortOrder": 4,
-		"gen": [9]
+		"main": false,
+		"isDouble": true,
+		"sortOrder": 3,
+		"gen": [
+			9
+		]
 	},
 	{
-		"name": "BSS 2023 s2",
-		"shortName": "BSS",
-		"usageName": "battlestadiumsinglesseries2",
+		"name": "BSS 2026 RF",
+		"shortName": "BSS RF",
+		"usageName": "bssregf",
 		"official": true,
 		"main": true,
 		"playable": true,
 		"sortOrder": 2,
-		"gen": [9]
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "BSS 2025 RI",
+		"shortName": "BSS RI",
+		"usageName": "bssregi",
+		"official": true,
+		"main": false,
+		"playable": true,
+		"sortOrder": 4,
+		"gen": [
+			9
+		]
 	},
 	{
 		"name": "VGC 2022 s12",
@@ -176,7 +218,9 @@
 		"main": true,
 		"isDouble": true,
 		"sortOrder": 100,
-		"gen": [8]
+		"gen": [
+			8
+		]
 	},
 	{
 		"name": "BSS 2022 s12",
@@ -186,15 +230,26 @@
 		"main": true,
 		"playable": true,
 		"sortOrder": 101,
-		"gen": [8]
+		"gen": [
+			8
+		]
 	},
 	{
 		"name": "1v1",
 		"shortName": "1v1",
-		"playable": true,
+		"playable": false,
 		"maxPokemon": 3,
 		"usageName": "1v1",
-		"gen": [2, 3, 4, 5, 6, 7, 8, 9]
+		"gen": [
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		]
 	},
 	{
 		"name": "Doubles OU",
@@ -202,7 +257,13 @@
 		"playable": true,
 		"usageName": "doublesou",
 		"isDouble": true,
-		"gen": [5, 6, 7, 8, 9]
+		"gen": [
+			5,
+			6,
+			7,
+			8,
+			9
+		]
 	},
 	{
 		"name": "Untiered",

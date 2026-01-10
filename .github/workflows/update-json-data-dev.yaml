@@ -14,7 +14,7 @@ jobs: #this section contains the tasks / jobs that must be executed
       LAST_GEN: 9
     steps:
       - name: set timezone
-        uses: szenius/set-timezone@v1.0
+        uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Europe/Paris"
       - name: checkout on main
@@ -23,21 +23,21 @@ jobs: #this section contains the tasks / jobs that must be executed
           ref: ${{ github.read_ref }} # will checkout on th desired branch
 
       - name: "NodeJS setup"
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "20"
 
-      - name: Update pokemon-showdown data
-        run: npm ci && npm run clone-showdown
+      - name: Install NPM dependencies
+        run: npm i # using npm i instead of npm ci, in order to update the made NPM dependency
 
       - name: Update pokemons' usages
-        run: USAGE_PATH='usages' npm run generate-stats
+        run: npm run generate-stats
+
+      - name: Update JSON files
+        run: node dataToJson.js
 
       - name: Store last hash commit
         run: echo "old_hash=$(git log -n 1 --pretty=format:"%H")" >> $GITHUB_ENV
-
-      - name: Commit differences # commit if differences are tracked after updates (previous step)
-        run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add json usages

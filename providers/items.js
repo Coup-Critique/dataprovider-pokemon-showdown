@@ -1,6 +1,6 @@
 const { loadResource, LIBS, DEX } = require("../libs/fileLoader");
 const { LAST_GEN, range, isStandard } = loadResource(LIBS, "util");
-const { Dex } = loadResource(DEX);
+const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 let itemsCollection = range(1, LAST_GEN).map((gen) => ({
   usageName: "noitem",
   name: "No Item",

@@ -1,12 +1,12 @@
-const { loadResource, LIBS, DEX } = require("../libs/fileLoader");
+const { loadResource, LIBS } = require("../libs/fileLoader");
 const { removeParenthesis, LAST_GEN, isStandard } = loadResource(LIBS, "util");
-const { Dex } = loadResource(DEX);
+const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 let pokemonTier = [];
 
 const makePokemonTierObject = ({ name, tier, doubleTiers }, gen) => ({
   pokemon: name,
-  technically: tier.startsWith("("),
-  tier: removeParenthesis(tier),
+  technically: tier.includes("ZUBL") ?? tier.startsWith("("),
+  tier: removeParenthesis(tier.replace("ZUBL", "PU")),
   doubleTiers,
   gen,
 });

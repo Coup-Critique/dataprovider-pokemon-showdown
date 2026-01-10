@@ -25,6 +25,11 @@ jobs: #this section contains the tasks / jobs that must be executed
           use_github_release_notes: true
           tag_prefix: v
 
+      - name: "NodeJS setup"
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
       - name: Change version into package.json
         run: >
           sed -i 's/"version": ".*"/"version": "${{ steps.release.outputs.version }}"/g' package.json
@@ -52,44 +57,4 @@ jobs: #this section contains the tasks / jobs that must be executed
           ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no
           "cd ${{ secrets.REMOTE_PATH }}/ && 
            git fetch &&
-           git reset --hard origin/main"
-           
-  update_db:
-    needs: [update_server]
-    runs-on: ubuntu-latest
-    environment: production
-    steps:
-      
-      - name: checkout on main
-        uses: actions/checkout@main
-        with:
-          ref: ${{ github.read_ref }}
-          
-      - name: Setup SSH connection
-        run: >
-          echo "${{ secrets.PRIVATE_KEY }}" > ./private_key && chmod 600 ./private_key &&
-          echo '#!/bin/sh' >> ./passphrase_script.sh &&
-          echo "echo ${{ secrets.PASSPHRASE }}" >> ./passphrase_script.sh &&
-          chmod +x ./passphrase_script.sh
-
-      - run: ssh-agent -a $SSH_AUTH_SOCK > /dev/null
-      - run: DISPLAY=1 SSH_ASKPASS="./passphrase_script.sh" ssh-add ./private_key < /dev/null
-      
-      - name: update tags
-        run: >
-           ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no 
-           "cd ${{ secrets.REMOTE_PATH }} &&
-            nq -c node db/importTags.js"
-            
-      - name: update tiers
-        run: >
-           ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no 
-           "cd ${{ secrets.REMOTE_PATH }} &&
-            nq -c node db/importTiers.js"
-               
-      - name: update pokemonTiers
-        run: >
-           ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no 
-           "cd ${{ secrets.REMOTE_PATH }} &&
-            nq -c node db/importPokemonTier.js"
-
+           git reset --hard origin/main && npm ci"

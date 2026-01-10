@@ -57,6 +57,8 @@ const fs = require("fs");
         const pokedata = JSON.parse(fs.readFileSync(pathPokedataFile));
         let rank = 1;
         for (const [pokemonUsageName, usageData] of Object.entries(pokedata)) {
+          const keyTierUsage = pokemonUsageName + tierId;
+
           const pokemonRow = await knex("pokemon")
             .select(["id", "name"])
             .where({
@@ -75,7 +77,7 @@ const fs = require("fs");
             },
             "id"
           );
-          insertedTierUsageId[pokemonUsageName + tierId] = insertedTierRow[0];
+          insertedTierUsageId[keyTierUsage] = insertedTierRow[0];
           for (const [property, tableName] of [
             ["abilities", "ability"],
             ["items", "item"],
@@ -89,7 +91,7 @@ const fs = require("fs");
                 .first();
               if (!entityRow) continue;
               await knex(`usage_${tableName}`).insert({
-                tierUsageId: insertedTierUsageId[pokemonUsageName + tierId],
+                tierUsageId: insertedTierUsageId[keyTierUsage],
                 [`${tableName}Id`]: entityRow.id,
                 percent: entityData.usage,
               });
@@ -107,8 +109,25 @@ const fs = require("fs");
               .first();
             if (!entityRow) continue;
             await knex(`usageMove`).insert({
-              tierUsageId: insertedTierUsageId[pokemonUsageName + tierId],
+              tierUsageId: insertedTierUsageId[keyTierUsage],
               [`moveId`]: entityRow.id,
+              percent: entityData.usage,
+            });
+          }
+
+          // Special case for tera types
+
+          for (const entityData of usageData["teratypes"]) {
+            const entityRow = await knex("type")
+              .where({
+                name: entityData.name,
+                gen,
+              })
+              .first();
+            if (!entityRow) continue;
+            await knex(`usageTera`).insert({
+              tierUsageId: insertedTierUsageId[keyTierUsage],
+              [`typeId`]: entityRow.id,
               percent: entityData.usage,
             });
           }
@@ -121,7 +140,7 @@ const fs = require("fs");
               .first();
             if (!entityRow) continue;
             await knex("usageSpread").insert({
-              tierUsageId: insertedTierUsageId[pokemonUsageName + tierId],
+              tierUsageId: insertedTierUsageId[keyTierUsage],
               natureId: entityRow.id,
               evs: entityData.evs,
               percent: entityData.usage,
@@ -158,6 +177,8 @@ const fs = require("fs");
           counters: "eff",
         };
         for (const [pokemonUsageName, usageData] of Object.entries(pokedata)) {
+          const keyTierUsage = pokemonUsageName + tierId;
+
           const pokemonRow = await knex("pokemon")
             .where({
               usageName: pokemonUsageName,
@@ -168,8 +189,8 @@ const fs = require("fs");
 
           // If tierUsageId couldn't be found, it means that it has been ignored
           // because its usage is less than 1%
-          if (!insertedTierUsageId[pokemonUsageName + tierId]) continue;
-          const tierUsageId = insertedTierUsageId[pokemonUsageName + tierId];
+          if (!insertedTierUsageId[keyTierUsage]) continue;
+          const tierUsageId = insertedTierUsageId[keyTierUsage];
           for (const [property, tableName] of [
             ["teammates", "teamMate"],
             ["counters", "pokemonCheck"],
@@ -183,11 +204,18 @@ const fs = require("fs");
                 .first();
 
               if (!entityRow) continue;
-              await knex(tableName).insert({
+              const dataToInsert = {
                 tierUsageId,
                 pokemonId: entityRow.id,
                 percent: entityData[percentProperty[property]],
-              });
+              };
+
+              if ("pokemonCheck" === tableName) {
+                dataToInsert.tierUsage = dataToInsert.tierUsageId;
+                delete dataToInsert.tierUsageId;
+              }
+
+              await knex(tableName).insert(dataToInsert);
             }
           }
         }

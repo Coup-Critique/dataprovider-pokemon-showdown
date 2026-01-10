@@ -1,19 +1,20 @@
 {
   "name": "api-pokemon-showdown",
-  "version": "v2.8.14",
+  "version": "v2.9.13",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "build": "./build",
-    "postbuild": "node dataToJson.js",
     "prepare": "husky install",
-    "generate-stats": "smogon-stats-viewer update && smogon-stats-viewer --clear upgrade 2 && smogon-stats-viewer check",
-    "clone-showdown": "rm -rf pokemon-showdown && git clone https://github.com/smogon/pokemon-showdown && rm -rf pokemon-showdown-client && git clone https://github.com/zarel/pokemon-showdown-client && npm run build"
+    "install": "./post-install",
+    "generate-stats": "node usage-stats.js update && node usage-stats.js --clear upgrade 2 && node usage-stats.js check"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GeoDaz/api-pokemon-showdown.git"
+  },
+  "bin": {
+    "usage-stats": "usage-stats.js"
   },
   "author": "GeoDaz",
   "license": "ISC",
@@ -25,12 +26,17 @@
     "axios": "^0.26.0",
     "bluebird": "^3.7.2",
     "cli-progress": "^3.10.0",
+    "commander": "^11.0.0",
+    "csv-parse": "^5.5.3",
+    "discord.js": "^14.14.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.1",
+    "fast-csv": "^5.0.0",
     "knex": "^1.0.3",
     "mysql": "^2.18.1",
     "objection": "^3.0.1",
-    "smogon-stats-viewer": "^0.4.38"
+    "pino": "^8.18.0",
+    "pino-pretty": "^10.3.1"
   },
   "devDependencies": {
     "@vscode/sqlite3": "^5.0.8",

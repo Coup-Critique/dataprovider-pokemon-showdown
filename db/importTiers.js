@@ -40,7 +40,7 @@ tiers = tiers.concat(
 Promise.all(
   insertOrUpdate(knex, "tier", tiers, {
     hasGen: true,
-    identifier: "short_name",
+    identifier: "usage_name",
     replaceColumns: {
       parent: "parent_id",
       shortName: "short_name",

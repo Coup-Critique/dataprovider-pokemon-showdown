@@ -1,11 +1,12 @@
-const { loadResource, LIBS, DEX } = require("../libs/fileLoader");
+const { loadResource, LIBS } = require("../libs/fileLoader");
 const { LAST_GEN, isStandard, range } = loadResource(LIBS, "util");
-const { Dex } = loadResource(DEX);
+const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 
-const makeAbilityObject = ({ id: usageName, name }, gen) => ({
+const makeAbilityObject = ({ id: usageName, name, flags }, gen) => ({
   usageName,
   name,
   gen,
+  flags,
 });
 
 let abilities = range(1, LAST_GEN).map((gen) => ({

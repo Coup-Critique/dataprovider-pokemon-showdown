@@ -14,10 +14,9 @@ jobs: #this section contains the tasks / jobs that must be executed
     environment: production
     env:
       LAST_GEN: 9
-      POKEMON_SHOWDOWN_REPO: "pokemon-showdown"
     steps:
       - name: set timezone
-        uses: szenius/set-timezone@v1.0
+        uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Europe/Paris"
       - name: checkout on main
@@ -26,15 +25,18 @@ jobs: #this section contains the tasks / jobs that must be executed
           ref: ${{ github.read_ref }} # will checkout on th desired branch
 
       - name: "NodeJS setup"
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "20"
 
-      - name: Update pokemon-showdown data
-        run: npm ci && npm run clone-showdown
+      - name: Install NPM dependencies
+        run: npm i && npm update pokemon-showdown
 
       - name: Update pokemons' usages
-        run: USAGE_PATH='usages' npm run generate-stats
+        run: npm run generate-stats
+
+      - name: Update JSON files
+        run: node dataToJson.js
 
       - name: Store last hash commit
         run: echo "old_hash=$(git log -n 1 --pretty=format:"%H")" >> $GITHUB_ENV
@@ -43,7 +45,7 @@ jobs: #this section contains the tasks / jobs that must be executed
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add json usages
+          git add json usages package-lock.json
           git diff --staged --quiet || git commit -am "JSON files updated" && git push https://ii02735:${{ secrets.GITHUB_TOKEN }}@github.com/ii02735/dataprovider-pokemon-showdown.git main
           echo "new_hash=$(git log -n 1 --pretty=format:"%H")" >> $GITHUB_ENV
 

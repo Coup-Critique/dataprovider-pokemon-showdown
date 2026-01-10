@@ -1,10 +1,10 @@
-const { loadResource, DEX, PROVIDER } = require("../libs/fileLoader");
+const { loadResource, PROVIDER } = require("../libs/fileLoader");
 const { LAST_GEN } = require("../libs/util");
-const { Dex } = loadResource(DEX);
+const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 /**
  * Will be used to determine the moves belonging to each pokemon
  */
-const DexSearch = require("../pokemon-showdown-client/js/battle-dex-search.js");
+const DexSearch = require("../pokemon-showdown-client/play.pokemonshowdown.com/js/battle-dex-search.js");
 const pokemons = loadResource(PROVIDER, "pokemon");
 const searchEngine = new DexSearch();
 

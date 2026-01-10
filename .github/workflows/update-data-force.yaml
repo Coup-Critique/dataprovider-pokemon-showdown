@@ -30,7 +30,7 @@ jobs:
           "cd ${{ secrets.REMOTE_PATH }}/ && 
            git pull https://ii02735:${{ secrets.GITHUB_TOKEN }}@github.com/ii02735/dataprovider-pokemon-showdown.git main"
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Update tags
         if: "${{ github.event.inputs.entity == 'tags' || github.event.inputs.entity == 'all' }}"

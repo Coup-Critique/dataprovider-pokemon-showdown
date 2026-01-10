@@ -77,6 +77,21 @@ const fs = require("fs");
         }
       }
 
+      for (const entityData of usageData["teratypes"]) {
+        const entityRow = await knex("type")
+          .where({
+            name: entityData.name,
+            gen,
+          })
+          .first();
+        if (!entityRow) continue;
+        await knex(`usageTera`).insert({
+          tierUsageId: insertedTierUsageId[keyTierUsage],
+          [`typeId`]: entityRow.id,
+          percent: entityData.usage,
+        });
+      }
+
       for (const entityData of usageData["spreads"]) {
         const entityRow = await knex("nature")
           .where({ name: entityData["nature"] })

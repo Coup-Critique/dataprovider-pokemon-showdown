@@ -201,7 +201,7 @@
 	"Stakeout": "Filature",
 	"Water Bubble": "Aquabulle",
 	"Steelworker": "Expert Acier",
-	"Berserk": "Dracolère",
+	"Berserk": "Folle Furie",
 	"Slush Rush": "Chasse-Neige",
 	"Long Reach": "Longue Portée",
 	"Liquid Voice": "Hydrata-Son",
@@ -298,5 +298,14 @@
 	"Zero to Hero": "Supermutation",
 	"Thermal Exchange": "Thermodynamique",
 	"Wind Power": "Turbine Éolienne",
-	"Vessel of Ruin": "Urne du Fléau"
+	"Vessel of Ruin": "Urne du Fléau",
+	"Mind's Eye": "Oeil Révélateur",
+	"Supersweet Syrup": "Nectar Mielleux",
+	"Hospitality": "Aux Petits Soins",
+	"Toxic Chain": "Chaîne Toxique",
+	"Embody Aspect": "Force Mémorielle",
+	"Embody Aspect (Teal)": "Force Mémorielle (Turquoise)",
+	"Embody Aspect (Wellspring)": "Force Mémorielle (du Puits)",
+	"Embody Aspect (Hearthflame)": "Force Mémorielle (du Fourneau)",
+	"Embody Aspect (Cornerstone)": "Force Mémorielle (de la Pierre)"
 }

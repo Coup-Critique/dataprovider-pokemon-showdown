@@ -1,6 +1,5 @@
-const { DEX, loadResource } = require("../libs/fileLoader");
 const { LAST_GEN, isStandard } = require("../libs/util");
-const { Dex } = loadResource(DEX);
+const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 let movesCollection = [];
 
 const makeMoveObject = (rawObject, gen) => ({
@@ -13,6 +12,8 @@ const makeMoveObject = (rawObject, gen) => ({
   pp: rawObject.pp,
   accuracy: rawObject.accuracy,
   type: rawObject.type,
+  priority: rawObject.priority,
+  flags: rawObject.flags,
   gen,
 });
 
