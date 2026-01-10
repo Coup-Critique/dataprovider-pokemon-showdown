@@ -6,24 +6,23 @@ const gen = LAST_GEN;
 // Choose latest data folder
 const fs = require("fs");
 
-(async () => {
+const importOfficialUsages = async (tierName) => {
   try {
-    const VGCRow = await knex("tier")
-      .whereLike({ usageName: "vgc%", gen })
-      .orWhereLike({ usageName: "bss%", gen })
+    const rowTier = await knex("tier")
+      .whereLike({ usageName: `${tierName}%`, gen })
       .first(["id", "ladderRef"]);
-    if (!VGCRow) {
-      console.log(`The VGC tier for gen ${gen} cannot be found`);
+    if (!rowTier) {
+      console.log(`The ${tierName} for gen ${gen} cannot be found`);
       return;
     }
-    const tierId = VGCRow.id;
+    const tierId = rowTier.id;
     // Clear usages
-    console.log(`Clearing old VGC usages...`);
+    console.log(`Clearing old ${tierName} usages...`);
     const rowTierUsages = await knex("tierUsage").where({
-      tierId: VGCRow.id,
+      tierId: rowTier.id,
     });
     if (!rowTierUsages) {
-      console.log("No VGC tier_usages found");
+      console.log(`No ${tierName} tier_usages found`);
       return;
     }
     for (const rowTierUsage of rowTierUsages)
@@ -33,7 +32,7 @@ const fs = require("fs");
     let insertedTierUsageId = {};
     const year = folderUsage.split("/").pop().split("-")[0];
     const pathPokedataFile = `${folderUsage}/formats/gen${gen + "vgc" + year}/${
-      VGCRow.ladder_ref
+      rowTier.ladder_ref
     }/pokedata.json`;
     console.log(`Loading ${pathPokedataFile}...`);
     if (!fs.existsSync(pathPokedataFile)) {
@@ -142,4 +141,9 @@ const fs = require("fs");
   } finally {
     knex.destroy();
   }
+};
+
+(async () => {
+  await importOfficialUsages("vgc");
+  await importOfficialUsages("bss");
 })();
