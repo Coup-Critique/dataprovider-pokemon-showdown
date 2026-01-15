@@ -12,6 +12,7 @@ const natures = loadResource(PROVIDER, "natures");
 const pokemons = loadResource(PROVIDER, "pokemon");
 const pokemonTier = loadResource(PROVIDER, "pokemonTier");
 const types = loadResource(PROVIDER, "types");
+const officialUsages = loadResource(PROVIDER, "officialUsages");
 
 writeFile("abilities", abilities);
 
@@ -28,3 +29,5 @@ writeFile("learns", learns);
 writeFile("natures", natures);
 
 writeFile("pokemonTier", pokemonTier);
+
+writeFile("officialUsages", officialUsages);

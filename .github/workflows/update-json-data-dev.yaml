@@ -152,4 +152,4 @@ jobs: #this section contains the tasks / jobs that must be executed
           (ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no 
           "cd ${{ secrets.REMOTE_PATH }} &&
            nq -c node db/importUsages.js &&
-           nq -c node db/importUsagesVGC.js") || echo "No changes for usages"
+           nq -c node db/importOfficialUsages.js") || echo "No changes for usages"
