@@ -11,8 +11,13 @@ const officialTiersMapping = {
   BSS: "bss", // battle stadium singles
 };
 
+const wait = async (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const getPikalyticsTierUrl = (tierName, period) =>
   `https://www.pikalytics.com/api/l/${period}/home${officialTiersMapping[tierName]}-1760`;
+
+const getPikalyticsPokemonDataUrl = (tierName, period, pokemonName) =>
+  `https://www.pikalytics.com/api/p/${period}/home${officialTiersMapping[tierName]}-1760/${pokemonName}`;
 
 const ensureDir = (dirPath) => {
   if (!fs.existsSync(dirPath)) {
@@ -34,75 +39,80 @@ getEligibleTiers = () => {
   });
 };
 
-getOfficialUsages = async () => {
-  const results = [];
+(async () => {
   const periods = Array.isArray(months) ? months : [];
 
   const eligibleTiers = getEligibleTiers();
 
-  await Promise.all(
-    periods.map(async (period) => {
-      const officialsDir = path.join(
-        __dirname,
-        "..",
-        "usages",
-        "months",
-        period,
-        "officials"
-      );
-      ensureDir(officialsDir);
+  for (const period of periods) {
+    const officialsDir = path.join(
+      __dirname,
+      "..",
+      "usages",
+      "months",
+      period,
+      "officials"
+    );
+    ensureDir(officialsDir);
 
-      return await Promise.all(
-        eligibleTiers.map(async (tier) => {
-          const tierKey = getTierKey(tier);
-          if (!tierKey) {
-            console.error({
-              period,
-              tier: tier.usageName,
-              message: "Tier non trouvé",
-            });
-            return;
-          }
+    for (const tier of eligibleTiers) {
+      const tierKey = getTierKey(tier);
+      if (!tierKey) {
+        console.error({
+          period,
+          tier: tier.usageName,
+          error: "Tier non trouvé",
+        });
+        continue;
+      }
 
-          const url = getPikalyticsTierUrl(tierKey, period);
-          let response = null;
-          let payload = [];
-          try {
-            response = await fetch(url);
-            payload = await response.json();
-          } catch (error) {
-            console.error({
-              url,
-              period,
-              tier: tier.usageName,
-              message: "Erreur lors de la récupération des données",
-              error: error.message,
-              response,
-            });
-            return;
-          }
+      const url = getPikalyticsTierUrl(tierKey, period);
+      let response = null;
+      let payload = [];
+      try {
+        response = await fetch(url);
+        payload = await response.json();
+      } catch (error) {
+        console.error("failed for tier " + tierKey + " on period " + period);
+        continue;
+      }
+      console.log("run " + tierKey + " on period " + period);
 
-          const top100 = payload.slice(0, 100);
-          const filePath = path.join(officialsDir, `${tier.usageName}.json`);
-          fs.writeFileSync(filePath, JSON.stringify(top100, null, 2));
-
-          console.log({
+      const top100 = payload.slice(0, 100);
+      const pokemonData = [];
+      for (const pokemon of top100) {
+        const url = getPikalyticsPokemonDataUrl(tierKey, period, pokemon.name);
+        await wait(1000);
+        let response = null;
+        let payload = null;
+        try {
+          response = await fetch(url);
+          payload = await response.json();
+          pokemonData.push(payload);
+        } catch (error) {
+          console.error({
             url,
-            success: true,
             period,
+            pokemon: pokemon.name,
             tier: tier.usageName,
-            filePath,
-            count: top100.length,
+            error: error.message,
+            response,
           });
-          return;
-        })
-      );
-    })
-  );
+          continue;
+        }
+      }
 
-  return results;
-};
+      const filePath = path.join(officialsDir, `${tier.usageName}.json`);
+      fs.writeFileSync(filePath, JSON.stringify(pokemonData, null, 2));
 
-getOfficialUsages();
-
-module.exports = getOfficialUsages;
+      console.log({
+        url,
+        success: true,
+        period,
+        tier: tier.usageName,
+        filePath,
+        count: top100.length,
+      });
+    }
+  }
+})();

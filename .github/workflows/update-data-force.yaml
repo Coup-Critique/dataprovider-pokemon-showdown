@@ -108,4 +108,4 @@ jobs:
           ssh -p ${{ secrets.PORT }} ${{ secrets.USERNAME }}@${{ secrets.HOST }} -o StrictHostKeyChecking=no 
           "cd ${{ secrets.REMOTE_PATH }} &&
            nq -c node db/importUsages.js &&
-           nq -c node db/importUsagesVGC.js"
+           nq -c node db/importOfficialUsages.js"
