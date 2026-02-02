@@ -157,4 +157,8 @@
   gen9legendszaou: "[Gen 9] Legends Z-A OU",
   gen9bssfactorybo3: "[Gen 9] BSS Factory (Bo3)",
   gen3adv200doubles: "[Gen 3] ADV 200 Doubles",
+  gen9flipped: "[Gen 9] Flipped",
+  gen9stabmonsmixandmega: "[Gen 9] STABmons Mix and Mega",
+  gen9sixbysixrandombattle: "[Gen 9] Six by Six Random Battle",
+  gen9sixbysix: "[Gen 9] Six by Six",
 };
