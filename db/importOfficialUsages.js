@@ -20,14 +20,13 @@ const getTierByName = async (tierName) => {
 const saveTierUsage = async (
   tierId,
   pokemonId,
-  percent,
   rank,
   provider = "showdown"
 ) => {
   return await knex("tierUsage").insert({
     tierId,
     pokemonId,
-    percent,
+    percent: null,
     rank,
     provider,
   });
@@ -161,16 +160,9 @@ const processPokemonsTierUsages = async (gen, tier, officialData) => {
       continue;
     }
 
-    // Calculer le pourcentage d'utilisation basé sur le ranking
-    // Pour l'instant on utilise un calcul simple, à ajuster selon vos besoins
-    const usage = 100 / pokemonData.ranking;
-
-    if (usage < 1) break;
-
     const newUsage = await saveTierUsage(
       tier.id,
       pokemon.id,
-      usage,
       pokemonData.ranking,
       "home"
     );
