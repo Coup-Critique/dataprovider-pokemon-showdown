@@ -164,8 +164,8 @@
 		"shortName": "VGC RF",
 		"usageName": "vgc2026regf",
 		"playable": true,
-		"official": true,
-		"main": true,
+		"official": false,
+		"main": false,
 		"isDouble": true,
 		"sortOrder": 1,
 		"gen": [
@@ -173,12 +173,12 @@
 		]
 	},
 	{
-		"name": "VGC 2025 RI",
+		"name": "VGC 2026 RI",
 		"shortName": "VGC RI",
-		"usageName": "vgc2025regi",
+		"usageName": "vgc2026regi",
 		"playable": true,
 		"official": true,
-		"main": false,
+		"main": true,
 		"isDouble": true,
 		"sortOrder": 3,
 		"gen": [
@@ -190,7 +190,7 @@
 		"shortName": "BSS RF",
 		"usageName": "bssregf",
 		"official": true,
-		"main": true,
+		"main": false,
 		"playable": true,
 		"sortOrder": 2,
 		"gen": [
@@ -198,11 +198,11 @@
 		]
 	},
 	{
-		"name": "BSS 2025 RI",
+		"name": "BSS 2026 RI",
 		"shortName": "BSS RI",
 		"usageName": "bssregi",
 		"official": true,
-		"main": false,
+		"main": true,
 		"playable": true,
 		"sortOrder": 4,
 		"gen": [
