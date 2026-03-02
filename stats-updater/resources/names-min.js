@@ -161,4 +161,9 @@
   gen9stabmonsmixandmega: "[Gen 9] STABmons Mix and Mega",
   gen9sixbysixrandombattle: "[Gen 9] Six by Six Random Battle",
   gen9sixbysix: "[Gen 9] Six by Six",
+  gen9linked: "[Gen 9] Linked",
+  gen9pokebilitiesaaa: "[Gen 9] Pokebilities AAA",
+  gen94v4doublesuu: "[Gen 9] 4v4 Doubles UU",
+  gen6megasrevisitedrandombattle: "[Gen 6] Megas Revisited Random Battle",
+  gen6megasrevisited: "[Gen 6] Megas Revisited",
 };
