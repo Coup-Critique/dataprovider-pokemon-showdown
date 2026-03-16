@@ -166,4 +166,8 @@
   gen94v4doublesuu: "[Gen 9] 4v4 Doubles UU",
   gen6megasrevisitedrandombattle: "[Gen 6] Megas Revisited Random Battle",
   gen6megasrevisited: "[Gen 6] Megas Revisited",
+  gen9vgc2026regibo3: "[Gen 9] VGC 2026 Reg I (Bo3)",
+  gen9godlygiftrandombattle: "[Gen 9] Godly Gift Random Battle",
+  gen3hoennstadium: "[Gen 3] Hoenn Stadium",
+  gen1stadiumrentals: "[Gen 1] Stadium Rentals",
 };
