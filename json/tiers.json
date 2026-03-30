@@ -160,19 +160,6 @@
 		"teraBan": true
 	},
 	{
-		"name": "VGC 2026 RF",
-		"shortName": "VGC RF",
-		"usageName": "vgc2026regf",
-		"playable": true,
-		"official": false,
-		"main": false,
-		"isDouble": true,
-		"sortOrder": 1,
-		"gen": [
-			9
-		]
-	},
-	{
 		"name": "VGC 2026 RI",
 		"shortName": "VGC RI",
 		"usageName": "vgc2026regi",
@@ -181,18 +168,6 @@
 		"main": true,
 		"isDouble": true,
 		"sortOrder": 3,
-		"gen": [
-			9
-		]
-	},
-	{
-		"name": "BSS 2026 RF",
-		"shortName": "BSS RF",
-		"usageName": "bssregf",
-		"official": true,
-		"main": false,
-		"playable": true,
-		"sortOrder": 2,
 		"gen": [
 			9
 		]
