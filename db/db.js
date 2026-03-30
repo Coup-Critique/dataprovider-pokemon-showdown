@@ -61,6 +61,12 @@ module.exports.insertOrUpdate = (
       //console.log(entry)
     }
 
+    for (const [key, value] of Object.entries(entry)) {
+      if (value !== null && typeof value === "object") {
+        entry[key] = JSON.stringify(value);
+      }
+    }
+
     try {
       const identifierRow = identifier
         ? { [identifier]: entry[identifier] }
