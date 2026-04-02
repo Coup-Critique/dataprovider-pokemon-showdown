@@ -170,4 +170,9 @@
   gen9godlygiftrandombattle: "[Gen 9] Godly Gift Random Battle",
   gen3hoennstadium: "[Gen 3] Hoenn Stadium",
   gen1stadiumrentals: "[Gen 1] Stadium Rentals",
+  gen9livepatchbattlesver100: "[Gen 9] Live Patch Battles Ver 1.0.0",
+  gen9champoinsou: "[Gen 9] Champoins OU",
+  gen9staaabmons: "[Gen 9] STAAABmons",
+  gen9monocolor: "[Gen 9] Monocolor",
+  gen3frlgou: "[Gen 3] FRLG OU",
 };
