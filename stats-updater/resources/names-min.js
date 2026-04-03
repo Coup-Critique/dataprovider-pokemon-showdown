@@ -175,4 +175,7 @@
   gen9staaabmons: "[Gen 9] STAAABmons",
   gen9monocolor: "[Gen 9] Monocolor",
   gen3frlgou: "[Gen 3] FRLG OU",
+  gen9regenerationrandombattle: "[Gen 9] ReGeneration Random Battle",
+  gen5almostanyability: "[Gen 5] Almost Any Ability",
+  gen9regeneration: "[Gen 9] ReGeneration",
 };
