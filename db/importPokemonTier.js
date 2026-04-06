@@ -1,9 +1,9 @@
-const { loadResource, JSON, LIBS } = require("../libs/fileLoader");
+const { loadResource, LIBS } = require("../libs/fileLoader");
 const { knex } = require("./db");
 const csv = require("fast-csv");
 const fs = require("fs");
 const importResult = require("../importResult")("import_pokemon_tier");
-const pokemonTiers = loadResource(JSON, "pokemonTier.json");
+const pokemonTiers = loadResource("JSON", "pokemonTier.json");
 const { removeParenthesis } = loadResource(LIBS, "util");
 const importResultFile = "./logs/pokemon_tier_import_result.csv";
 
@@ -42,7 +42,16 @@ knex("pokemon")
       .then((tiers) => {
         Promise.all(
           pokemonTiers.map(
-            ({ pokemon: name, tier: short_name, gen, technically }, i) => {
+            (
+              {
+                pokemon: name,
+                tier: short_name,
+                gen,
+                technically,
+                regulations,
+              },
+              i
+            ) => {
               return new Promise((resolve, reject) => {
                 knex("pokemon")
                   .where({ name, gen })
@@ -72,7 +81,11 @@ knex("pokemon")
                     }
 
                     knex("pokemon")
-                      .update({ tierId, technically })
+                      .update({
+                        tierId,
+                        technically,
+                        regulations: JSON.stringify(regulations),
+                      })
                       .where({ id: rowPokemon.id, gen })
                       .then(() => {
                         resolve();

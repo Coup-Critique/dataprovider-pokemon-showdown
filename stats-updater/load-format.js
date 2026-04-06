@@ -136,12 +136,26 @@ class FormatLoader {
           }
 
           let pokeData = {};
+          let chaosData = null;
+          try {
+            chaosData = JSON.parse(moveset);
+          } catch (e) {
+            chaosData = null;
+          }
 
-          Parser.parsePokemonUsageData(moveset, ranks, leads, (pokemon) => {
-            let poke = pokemon.id;
-            delete pokemon.id;
-            pokeData[poke] = pokemon;
-          });
+          if (chaosData && chaosData.data) {
+            Parser.parseChaosJson(chaosData, leads, (pokemon) => {
+              let poke = pokemon.id;
+              delete pokemon.id;
+              pokeData[poke] = pokemon;
+            });
+          } else {
+            Parser.parsePokemonUsageData(moveset, ranks, leads, (pokemon) => {
+              let poke = pokemon.id;
+              delete pokemon.id;
+              pokeData[poke] = pokemon;
+            });
+          }
 
           FileSystem.writeFileSync(
             Path.resolve(this.path, "" + this.cuts[this.curr], "pokedata.json"),
@@ -178,11 +192,11 @@ class FormatLoader {
             wget(
               Smogon_Stats_URL +
                 this.month +
-                "/moveset/" +
+                "/chaos/" +
                 this.format +
                 "-" +
                 cutline +
-                ".txt",
+                ".json",
               (data3, err3) => {
                 return callback(data1, data2, data3, err1 || err2 || err3);
               }

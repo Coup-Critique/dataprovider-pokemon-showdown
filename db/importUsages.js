@@ -15,7 +15,9 @@ const getDataFilePath = (gen, tierUsageName, ladderRef = LADDER_REF) => {
 };
 
 const getTiersByGen = async (gen) => {
-  return await knex("tier").where({ gen }).whereNotNull("usageName");
+  return await knex("tier")
+    .where({ gen, playable: true })
+    .whereNotNull("usageName");
 };
 
 const saveTierUsage = async (

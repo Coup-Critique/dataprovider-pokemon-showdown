@@ -1,13 +1,46 @@
 const { loadResource, LIBS } = require("../libs/fileLoader");
 const { removeParenthesis, LAST_GEN, isStandard } = loadResource(LIBS, "util");
 const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
+
+Dex.includeFormats();
+
+const vgcFormatsByGen = {};
+Dex.formats
+  .all()
+  .filter((f) => f.id.includes("vgc") && !f.id.endsWith("bo3"))
+  .forEach((f) => {
+    const match = f.id.match(/^gen(\d+)/);
+    if (!match) return;
+    const gen = Number(match[1]);
+    (vgcFormatsByGen[gen] ??= []).push({
+      id: f.id,
+      mod: f.mod,
+      ruleTable: Dex.formats.getRuleTable(f),
+    });
+  });
+
+const isLegalInFormat = (pokemonId, { mod, ruleTable }) => {
+  const species = Dex.mod(mod).species.get(pokemonId);
+  if (species.isNonstandard === "Past") return false;
+  return !ruleTable.isBannedSpecies(species);
+};
+
+const getVGCLegal = (pokemonId, gen) =>
+  Object.fromEntries(
+    (vgcFormatsByGen[gen] ?? []).map((f) => [
+      f.id.replace(/gen\d+/, "").replace(/202\d/, ""),
+      isLegalInFormat(pokemonId, f),
+    ])
+  );
+
 let pokemonTier = [];
 
-const makePokemonTierObject = ({ name, tier, doubleTiers }, gen) => ({
-  pokemon: name,
-  technically: tier.includes("ZUBL") ?? tier.startsWith("("),
-  tier: removeParenthesis(tier.replace("ZUBL", "PU")),
-  doubleTiers,
+const makePokemonTierObject = (pokemon, gen) => ({
+  pokemon: pokemon.name,
+  technically: pokemon.tier.startsWith("("),
+  tier: removeParenthesis(pokemon.tier),
+  doubleTiers: pokemon.doubleTiers,
+  regulations: getVGCLegal(pokemon.id, gen),
   gen,
 });
 

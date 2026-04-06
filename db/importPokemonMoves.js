@@ -59,9 +59,9 @@ progressBar.start(learns.length, 0);
               })
               .first(["id"]);
             if (!moveRow) {
-              console.log(
-                `Move ${move} en génération ${object.gen} introuvable`
-              );
+              // console.log(
+              //   `Move ${move} en génération ${object.gen} introuvable`
+              // );
               continue;
             }
           }

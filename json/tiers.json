@@ -1,5 +1,61 @@
 [
 	{
+		"name": "Untiered",
+		"shortName": "Untiered",
+		"usageName": "untiered",
+		"playable": false
+	},
+	{
+		"name": "Champions Duo Règlement M-A",
+		"shortName": "Duo RMA",
+		"usageName": "championsduoregma",
+		"playable": true,
+		"official": true,
+		"main": true,
+		"isDouble": true,
+		"sortOrder": 1,
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "Champions Solo Règlement M-A",
+		"shortName": "Solo RMA",
+		"usageName": "championssoloregma",
+		"official": true,
+		"main": true,
+		"playable": true,
+		"sortOrder": 2,
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "VGC 2026 RI",
+		"shortName": "VGC RI",
+		"usageName": "vgc2026regi",
+		"playable": false,
+		"official": true,
+		"main": true,
+		"isDouble": true,
+		"sortOrder": 3,
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "BSS 2026 RI",
+		"shortName": "BSS RI",
+		"usageName": "bssregi",
+		"official": true,
+		"main": true,
+		"playable": false,
+		"sortOrder": 4,
+		"gen": [
+			9
+		]
+	},
+	{
 		"name": "OverUsed",
 		"shortName": "OU",
 		"playable": true,
@@ -33,6 +89,7 @@
 		"sortOrder": 5,
 		"parent": "UnderUsed",
 		"gen": [
+			3,
 			5,
 			6,
 			7,
@@ -48,6 +105,7 @@
 		"rank": 5,
 		"sortOrder": 6,
 		"gen": [
+			3,
 			5,
 			6,
 			7,
@@ -90,14 +148,6 @@
 		"sortOrder": 8
 	},
 	{
-		"name": "ZeroUsed",
-		"shortName": "ZU",
-		"playable": false,
-		"usageName": "zu",
-		"rank": 8,
-		"sortOrder": 9
-	},
-	{
 		"name": "ZeroUsed BorderLine",
 		"shortName": "ZUBL",
 		"usageName": "zubl",
@@ -105,6 +155,14 @@
 		"rank": 7,
 		"sortOrder": 8,
 		"parent": "PU"
+	},
+	{
+		"name": "ZeroUsed",
+		"shortName": "ZU",
+		"playable": false,
+		"usageName": "zu",
+		"rank": 8,
+		"sortOrder": 9
 	},
 	{
 		"name": "Not Fully Evolved",
@@ -160,32 +218,7 @@
 		"teraBan": true
 	},
 	{
-		"name": "VGC 2026 RI",
-		"shortName": "VGC RI",
-		"usageName": "vgc2026regi",
-		"playable": true,
-		"official": true,
-		"main": true,
-		"isDouble": true,
-		"sortOrder": 3,
-		"gen": [
-			9
-		]
-	},
-	{
-		"name": "BSS 2026 RI",
-		"shortName": "BSS RI",
-		"usageName": "bssregi",
-		"official": true,
-		"main": true,
-		"playable": true,
-		"sortOrder": 4,
-		"gen": [
-			9
-		]
-	},
-	{
-		"name": "VGC 2022 s12",
+		"name": "VGC 2022",
 		"shortName": "VGC",
 		"usageName": "vgc2022",
 		"playable": true,
@@ -198,9 +231,9 @@
 		]
 	},
 	{
-		"name": "BSS 2022 s12",
+		"name": "BSS 2022",
 		"shortName": "BSS",
-		"usageName": "battlestadiumsingles",
+		"usageName": "bss2022",
 		"official": true,
 		"main": true,
 		"playable": true,
@@ -241,8 +274,28 @@
 		]
 	},
 	{
-		"name": "Untiered",
-		"shortName": "Untiered",
-		"playable": false
+		"name": "VGC 2019",
+		"shortName": "VGC",
+		"usageName": "vgc2019",
+		"playable": true,
+		"official": true,
+		"main": true,
+		"isDouble": true,
+		"sortOrder": 200,
+		"gen": [
+			7
+		]
+	},
+	{
+		"name": "BSS 2019",
+		"shortName": "BSS",
+		"usageName": "bss2019",
+		"official": true,
+		"main": true,
+		"playable": true,
+		"sortOrder": 201,
+		"gen": [
+			7
+		]
 	}
 ]

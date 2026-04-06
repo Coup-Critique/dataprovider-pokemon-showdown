@@ -8,6 +8,30 @@ const Http = require("https");
 const Parser = require(Path.resolve(__dirname, "parse-file.js"));
 const Loader = require(Path.resolve(__dirname, "load-format.js"));
 
+const tiers = require(Path.resolve(__dirname, "..", "json", "tiers.json"));
+const LAST_GEN = Number(process.env.LAST_GEN);
+
+function getValidFormatIds() {
+  const ids = new Set();
+  for (const { usageName, gen } of tiers) {
+    if (!usageName) continue;
+    const gens = Array.isArray(gen)
+      ? gen
+      : Array.from({ length: LAST_GEN }, (_, i) => i + 1);
+    for (const g of gens) {
+      ids.add(`gen${g}${usageName}`);
+    }
+  }
+  return ids;
+}
+
+function filterFormats(formats) {
+  const validIds = getValidFormatIds();
+  return Object.fromEntries(
+    Object.entries(formats).filter(([id]) => validIds.has(id))
+  );
+}
+
 const Smogon_Stats_URL = "https://www.smogon.com/stats/";
 
 function wget(url, callback) {
@@ -52,7 +76,7 @@ exports.loadMonth = function (month, callback) {
       Path.resolve(...path, "months", month, "formats.json"),
       JSON.stringify(data)
     );
-    let loader = new Loader(month, data, callback);
+    let loader = new Loader(month, filterFormats(data), callback);
     loader.start();
   });
 };
@@ -67,7 +91,7 @@ exports.checkMonth = function (month, callback) {
   } catch (err) {
     return callback(err);
   }
-  let loader = new Loader(month, data, callback);
+  let loader = new Loader(month, filterFormats(data), callback);
   loader.start();
 };
 

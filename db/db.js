@@ -72,9 +72,16 @@ module.exports.insertOrUpdate = (
         ? { [identifier]: entry[identifier] }
         : { name: entry.name };
 
-      const row = await knex(tableName)
+      let row = await knex(tableName)
         .where(hasGen ? { ...identifierRow, gen: entry.gen } : identifierRow)
         .first(["id"]);
+
+      if (!row && identifier && entry[identifier] != null) {
+        const nameRow = { name: entry.name };
+        row = await knex(tableName)
+          .where(hasGen ? { ...nameRow, gen: entry.gen } : nameRow)
+          .first(["id"]);
+      }
       if (row && row.id) {
         if (noOverrideColumns.length > 0) {
           for (const column of noOverrideColumns) {
