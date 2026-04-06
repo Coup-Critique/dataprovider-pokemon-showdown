@@ -3,6 +3,10 @@
 		"name": "Smogon"
 	},
 	{
+		"name": "Pokémon Champions",
+		"shortName" : "Champions"
+	},
+	{
 		"name": "Battle Stadium Singles",
 		"shortName" : "BSS"
 	},
