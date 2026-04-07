@@ -85,6 +85,7 @@ knex("pokemon")
                         tierId,
                         technically,
                         regulations: JSON.stringify(regulations),
+                        champions: isChampions(regulations),
                       })
                       .where({ id: rowPokemon.id, gen })
                       .then(() => {
@@ -144,3 +145,9 @@ knex("pokemon")
           });
       });
   });
+
+function isChampions(regulations) {
+  return Object.entries(regulations).some(
+    ([key, value]) => key.includes("champion") && value === true
+  );
+}
