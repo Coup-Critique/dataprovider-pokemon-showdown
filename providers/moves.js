@@ -1,6 +1,5 @@
 const { LAST_GEN, isStandard } = require("../libs/util");
 const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
-let movesCollection = [];
 
 const makeMoveObject = (rawObject, gen) => ({
   usageName: rawObject.id,
@@ -17,19 +16,19 @@ const makeMoveObject = (rawObject, gen) => ({
   gen,
 });
 
+let movesCollection = [];
 for (let gen = 1; gen <= LAST_GEN; gen++) {
   const movesFromShowdown = Dex.mod(`gen${gen}`)
     .moves.all()
-    .filter((move) => isStandard(move, gen, move.num > 0));
-  for (const moveFromShowdown of movesFromShowdown) {
-    if (/Hidden Power (\w+)/.test(moveFromShowdown.name)) {
-      moveFromShowdown.name = `Hidden Power [${moveFromShowdown.type}]`;
-      moveFromShowdown.id = (
-        "HiddenPower" + moveFromShowdown.type
-      ).toLowerCase();
-    }
-    movesCollection.push(makeMoveObject(moveFromShowdown, gen));
-  }
+    .filter((move) => isStandard(move, gen, move.num > 0))
+    .map((move) => {
+      if (/Hidden Power (\w+)/.test(move.name)) {
+        move.name = `Hidden Power [${move.type}]`;
+        move.id = ("hiddenpower" + move.type).toLowerCase();
+      }
+      return makeMoveObject(move, gen);
+    });
+  movesCollection.push(...movesFromShowdown);
 }
 
 module.exports = movesCollection;
