@@ -5,6 +5,7 @@ const fs = require("fs");
 const tiers = loadResource("JSON", "tiers.json");
 
 const gen = LAST_GEN;
+let isChampions = false;
 
 const getDataFilePath = (tierUsageName) => {
   return `${folderUsage}/officials/${tierUsageName}.json`;
@@ -59,6 +60,7 @@ const getEntityByUsageName = async (tableName, gen, usageName) => {
 };
 
 const getPokemonByUsageName = async (gen, usageName) => {
+  if (isChampions && usageName === "Floette") usageName = "Floette-Eternal";
   return await getEntityByUsageName("pokemon", gen, usageName);
 };
 
@@ -260,6 +262,7 @@ const importOfficialUsages = async (tierName) => {
         tier?.gen?.includes(Number(gen))
       ) {
         console.log(`Importing ${tier.usageName}...`);
+        isChampions = !!tier.champions;
         await importOfficialUsages(tier.usageName);
       }
     }
