@@ -4,30 +4,30 @@
 const path = require("path");
 const { loadResource, LIBS, PROVIDER } = require("./libs/fileLoader");
 const { writeFile } = loadResource(LIBS, "util");
-const abilities = loadResource(PROVIDER, "abilities");
-const items = loadResource(PROVIDER, "items");
-const learns = loadResource(PROVIDER, "learns");
-const moves = loadResource(PROVIDER, "moves");
-const natures = loadResource(PROVIDER, "natures");
-const pokemons = loadResource(PROVIDER, "pokemon");
-const pokemonTier = loadResource(PROVIDER, "pokemonTier");
-const types = loadResource(PROVIDER, "types");
-const officialUsages = loadResource(PROVIDER, "officialUsages");
 
-writeFile("abilities", abilities);
+const providers = {
+  abilities: () => loadResource(PROVIDER, "abilities"),
+  pokemons: () => loadResource(PROVIDER, "pokemon"),
+  items: () => loadResource(PROVIDER, "items"),
+  types: () => loadResource(PROVIDER, "types"),
+  moves: () => loadResource(PROVIDER, "moves"),
+  learns: () => loadResource(PROVIDER, "learns"),
+  natures: () => loadResource(PROVIDER, "natures"),
+  pokemonTier: () => loadResource(PROVIDER, "pokemonTier"),
+  officialUsages: () => loadResource(PROVIDER, "officialUsages"),
+};
 
-writeFile("pokemons", pokemons);
+const args = process.argv.slice(2);
+const targets = args.length > 0 ? args : Object.keys(providers);
 
-writeFile("items", items);
-
-writeFile("types", types);
-
-writeFile("moves", moves);
-
-writeFile("learns", learns);
-
-writeFile("natures", natures);
-
-writeFile("pokemonTier", pokemonTier);
-
-writeFile("officialUsages", officialUsages);
+for (const name of targets) {
+  if (!providers[name]) {
+    console.error(
+      `Unknown provider: "${name}". Available: ${Object.keys(providers).join(
+        ", "
+      )}`
+    );
+    process.exit(1);
+  }
+  writeFile(name, providers[name]());
+}

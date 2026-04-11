@@ -1,23 +1,24 @@
 const path = require("path");
 const fs = require("fs");
-const { execSync } = require("child_process");
 const { loadResource, LIBS } = require("../libs/fileLoader");
 const { LAST_GEN } = loadResource(LIBS, "util");
 const months = require("../usages/months.json").list || [];
 const tiers = require("../json/tiers.json");
 
 const officialTiersMapping = {
-  VGC: "bsd", // battle stadium double
-  BSS: "bss", // battle stadium singles
+  championsvgc: "championspreview", // champions double
+  championsbss: "championsbss", // champions singles
+  VGC: "homebsd", // battle stadium double
+  BSS: "homebss", // battle stadium singles
 };
 
 const wait = async (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const getPikalyticsTierUrl = (tierName, period) =>
-  `https://www.pikalytics.com/api/l/${period}/home${officialTiersMapping[tierName]}-1760`;
+  `https://www.pikalytics.com/api/l/${period}/${officialTiersMapping[tierName]}-1760`;
 
 const getPikalyticsPokemonDataUrl = (tierName, period, pokemonName) =>
-  `https://www.pikalytics.com/api/p/${period}/home${officialTiersMapping[tierName]}-1760/${pokemonName}`;
+  `https://www.pikalytics.com/api/p/${period}/${officialTiersMapping[tierName]}-1760/${pokemonName}`;
 
 const ensureDir = (dirPath) => {
   if (!fs.existsSync(dirPath)) {
@@ -26,6 +27,12 @@ const ensureDir = (dirPath) => {
 };
 
 const getTierKey = ({ name = "", usageName = "" }) => {
+  if (name.includes("Champions Duo") || usageName.includes("championsvgc")) {
+    return "championsvgc";
+  }
+  if (name.includes("Champions Solo") || usageName.includes("championsbss")) {
+    return false;
+  }
   if (name.includes("VGC") || usageName.includes("vgc")) return "VGC";
   if (name.includes("BSS") || usageName.includes("bss")) return "BSS";
   return null;

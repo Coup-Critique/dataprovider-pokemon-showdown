@@ -5,10 +5,17 @@ const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 Dex.includeFormats();
 
 const vgcFormatsByGen = {};
+console.log(Dex.formats.all().map((f) => f.id));
+
 Dex.formats
   .all()
-  .filter((f) => f.id.includes("vgc") && !f.id.endsWith("bo3"))
+  .filter(
+    (f) =>
+      (f.id.includes("vgc") || f.id.includes("champions")) &&
+      !f.id.endsWith("bo3")
+  )
   .forEach((f) => {
+    console.log(f.id);
     const match = f.id.match(/^gen(\d+)/);
     if (!match) return;
     const gen = Number(match[1]);

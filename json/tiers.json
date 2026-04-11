@@ -8,9 +8,10 @@
 	{
 		"name": "Champions Duo Règlement M-A",
 		"shortName": "Duo RMA",
-		"usageName": "championsduoregma",
+		"usageName": "championsvgc2026regma",
 		"playable": true,
 		"official": true,
+		"champions": true,
 		"main": true,
 		"isDouble": true,
 		"sortOrder": 1,
@@ -21,11 +22,23 @@
 	{
 		"name": "Champions Solo Règlement M-A",
 		"shortName": "Solo RMA",
-		"usageName": "championssoloregma",
+		"usageName": "championsbssregma",
+		"champions": true,
 		"official": true,
 		"main": true,
 		"playable": true,
 		"sortOrder": 2,
+		"gen": [
+			9
+		]
+	},
+	{
+		"name": "OU Champions",
+		"shortName": "OU CHP",
+		"usageName": "championsou",
+		"champions": true,
+		"playable": true,
+		"sortOrder": 0,
 		"gen": [
 			9
 		]
