@@ -313,12 +313,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "20.000",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -540,7 +540,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -635,7 +635,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -937,7 +937,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -1294,7 +1294,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -1500,7 +1500,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -1651,7 +1651,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -1830,7 +1830,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2242,7 +2242,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2421,7 +2421,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2724,7 +2724,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -3042,7 +3042,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -4296,12 +4296,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "12.602",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       }
     ],
@@ -5644,7 +5644,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -8158,12 +8158,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "22.488",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -8567,7 +8567,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -8813,7 +8813,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -9144,7 +9144,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -9379,7 +9379,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -9558,7 +9558,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -9861,7 +9861,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -10179,7 +10179,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -11616,7 +11616,7 @@
             "item_us": "Mystic_Water"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -12201,12 +12201,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "16.912",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -12805,7 +12805,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -12983,7 +12983,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -13520,7 +13520,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13754,7 +13754,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -14167,7 +14167,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -14234,7 +14234,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -14412,7 +14412,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -15487,7 +15487,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -17062,7 +17062,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -19217,7 +19217,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -20029,12 +20029,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "16.854",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -20453,7 +20453,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -20923,7 +20923,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -21130,7 +21130,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -23282,7 +23282,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -23555,7 +23555,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -24295,7 +24295,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -25134,7 +25134,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -26571,7 +26571,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -26930,7 +26930,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -27905,12 +27905,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "15.652",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -28272,7 +28272,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -28479,7 +28479,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -30276,7 +30276,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -30674,7 +30674,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -32451,7 +32451,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -33887,7 +33887,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -36323,7 +36323,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -37676,7 +37676,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -39932,12 +39932,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "13.613",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -40317,7 +40317,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -40384,7 +40384,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -40771,7 +40771,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -40894,7 +40894,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -43882,12 +43882,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "13.483",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -44016,7 +44016,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -44319,7 +44319,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -45715,7 +45715,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -46112,7 +46112,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -47568,7 +47568,7 @@
     ]
   },
   {
-    "name": "Floette-Eternal",
+    "name": "Floette",
     "abilities": [
       {
         "ability": "Flower Veil",
@@ -47819,7 +47819,7 @@
       "spd": 98,
       "spe": 52
     },
-    "name_trans": "Floette-Eternal",
+    "name_trans": "Floette",
     "l": "en",
     "format": "championstournaments",
     "teams": [
@@ -47970,7 +47970,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48065,7 +48065,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48187,7 +48187,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48365,7 +48365,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -48571,7 +48571,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48722,7 +48722,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48901,7 +48901,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -49135,7 +49135,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -49314,7 +49314,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -49548,7 +49548,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -49615,7 +49615,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -49793,7 +49793,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50111,7 +50111,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50150,7 +50150,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50328,7 +50328,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50646,7 +50646,7 @@
             "item_us": "Mystic_Water"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50685,7 +50685,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -50864,7 +50864,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -51183,7 +51183,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -51277,7 +51277,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -51656,12 +51656,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "20.886",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -52055,7 +52055,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -52150,7 +52150,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -52991,7 +52991,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -53528,7 +53528,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -54784,7 +54784,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -54962,7 +54962,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -55708,7 +55708,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -62930,7 +62930,7 @@
             "item_us": "Black_Glasses"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -63910,7 +63910,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69723,7 +69723,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -70437,7 +70437,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -71293,12 +71293,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "22.936",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -71395,7 +71395,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -71573,7 +71573,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -72041,7 +72041,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -72108,7 +72108,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -72286,7 +72286,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -72877,7 +72877,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -73357,7 +73357,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -73535,7 +73535,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -77004,12 +77004,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "19.417",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -77228,7 +77228,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -77295,7 +77295,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -77502,7 +77502,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -77984,7 +77984,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -79062,7 +79062,7 @@
         "tournamentId": "69c84a6036f5b5c303dc05f6",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -79353,7 +79353,7 @@
             "item_us": "Leftovers"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -79896,7 +79896,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -82480,12 +82480,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "23.457",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -82603,7 +82603,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83071,7 +83071,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83315,7 +83315,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83493,7 +83493,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -84777,12 +84777,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "19.753",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -84881,7 +84881,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -85931,7 +85931,7 @@
         "tournamentId": "69c84a6036f5b5c303dc05f6",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -86635,7 +86635,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -90305,7 +90305,7 @@
             "item_us": "Mystic_Water"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -91019,7 +91019,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -91912,7 +91912,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -93025,7 +93025,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -95121,7 +95121,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -103800,7 +103800,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -105529,12 +105529,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "44.444",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -105830,7 +105830,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -106366,7 +106366,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -106725,7 +106725,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -106904,7 +106904,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -107263,7 +107263,7 @@
         "tournamentId": "69c2f79ed478313a15a32094",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -112220,7 +112220,7 @@
             "item_us": "Black_Glasses"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -113318,7 +113318,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -113675,7 +113675,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -114971,12 +114971,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "19.512",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -115056,7 +115056,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -115235,7 +115235,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -115857,7 +115857,7 @@
             "item_us": "Leftovers"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -120767,12 +120767,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "21.212",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -121213,7 +121213,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -121569,7 +121569,7 @@
         "tournamentId": "69c8294d36f5b5c303dc036e",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -125064,12 +125064,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "23.077",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -125171,7 +125171,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -125349,7 +125349,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -129336,12 +129336,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "10.000",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       }
     ],
@@ -129758,7 +129758,7 @@
             "item_us": "Occa_Berry"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -136445,12 +136445,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "18.750",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -136681,7 +136681,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -140425,12 +140425,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "16.667",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -143482,12 +143482,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "22.222",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -143612,7 +143612,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -147254,7 +147254,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette-Eternal",
+            "name": "Floette",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -150208,12 +150208,12 @@
     "spreads": [],
     "team": [
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "40.000",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       },
       {
@@ -150847,12 +150847,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
+        "pokemon": "Floette",
         "percent": "20.000",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette-Eternal",
+        "pokemon_trans": "Floette",
         "l": "en"
       }
     ],
