@@ -178,4 +178,10 @@
   gen9regenerationrandombattle: "[Gen 9] ReGeneration Random Battle",
   gen5almostanyability: "[Gen 5] Almost Any Ability",
   gen9regeneration: "[Gen 9] ReGeneration",
+  gen9championsou: "[Gen 9 Champions] OU",
+  gen9championsbssregma: "[Gen 9 Champions] BSS Reg M-A",
+  gen9championsvgc2026regma: "[Gen 9 Champions] VGC 2026 Reg M-A",
+  gen9championsvgc2026regmabo3: "[Gen 9 Champions] VGC 2026 Reg M-A (Bo3)",
+  gen9championscustomgame: "[Gen 9 Champions] Custom Game",
+  gen9championsdraft: "[Gen 9 Champions] Draft",
 };
