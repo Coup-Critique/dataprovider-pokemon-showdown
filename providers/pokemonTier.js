@@ -11,7 +11,9 @@ Dex.formats
   .all()
   .filter(
     (f) =>
-      (f.id.includes("vgc") || f.id.includes("champions")) &&
+      (f.id.includes("vgc") ||
+        f.id.includes("bss") ||
+        f.id.includes("champions")) &&
       !f.id.endsWith("bo3")
   )
   .forEach((f) => {

@@ -74,10 +74,12 @@ const importAbilities = async (gen, usageData, tierUsageId) => {
       abilityData.ability
     );
     if (!ability) continue;
+    const percent = parseFloat(abilityData.percent);
+    if (isNaN(percent) || percent < 1) continue;
     await knex("usage_ability").insert({
       tierUsageId,
       abilityId: ability.id,
-      percent: parseFloat(abilityData.percent),
+      percent,
     });
   }
 };
@@ -86,10 +88,12 @@ const importItems = async (gen, usageData, tierUsageId) => {
   for (const itemData of usageData.items || []) {
     const item = await getEntityByUsageName("item", gen, itemData.item);
     if (!item) continue;
+    const percent = parseFloat(itemData.percent);
+    if (isNaN(percent) || percent < 1) continue;
     await knex("usage_item").insert({
       tierUsageId,
       itemId: item.id,
-      percent: parseFloat(itemData.percent),
+      percent,
     });
   }
 };
@@ -98,10 +102,12 @@ const importMoves = async (gen, usageData, tierUsageId) => {
   for (const moveData of usageData.moves || []) {
     const move = await getEntityByUsageName("move", gen, moveData.move);
     if (!move) continue;
+    const percent = parseFloat(moveData.percent);
+    if (isNaN(percent) || percent < 1) continue;
     await knex("usage_move").insert({
       tierUsageId,
       moveId: move.id,
-      percent: parseFloat(moveData.percent),
+      percent,
     });
   }
 };
@@ -111,10 +117,12 @@ const importTeraTypes = async (gen, usageData, tierUsageId) => {
     if (!teraData.teratype) continue;
     const tera = await getEntityByName("type", gen, teraData.teratype);
     if (!tera) continue;
+    const percent = parseFloat(teraData.percent);
+    if (isNaN(percent) || percent < 1) continue;
     await knex("usageTera").insert({
       tierUsageId,
       typeId: tera.id,
-      percent: parseFloat(teraData.percent),
+      percent,
     });
   }
 };
@@ -123,11 +131,13 @@ const importSpreads = async (usageData, tierUsageId) => {
   for (const spreadData of usageData.spreads || []) {
     const nature = await getNatureByName(spreadData.nature);
     if (!nature) continue;
+    const percent = parseFloat(spreadData.percent);
+    if (isNaN(percent) || percent < 1) continue;
     await knex("usageSpread").insert({
       tierUsageId,
       natureId: nature.id,
       evs: spreadData.evs,
-      percent: parseFloat(spreadData.percent),
+      percent,
     });
   }
 };
@@ -136,13 +146,13 @@ const importTeammates = async (gen, usageData, tierUsageId) => {
   for (const teammateData of usageData.team || []) {
     const pokemon = await getPokemonByUsageName(gen, teammateData.pokemon);
     if (!pokemon) continue;
-    const dataToInsert = {
+    const percent = parseFloat(teammateData.percent);
+    if (isNaN(percent) || percent < 1) continue;
+    await knex("teamMate").insert({
       tierUsageId,
       pokemonId: pokemon.id,
-      percent: parseFloat(teammateData.percent || 0),
-    };
-
-    await knex("teamMate").insert(dataToInsert);
+      percent,
+    });
   }
 };
 

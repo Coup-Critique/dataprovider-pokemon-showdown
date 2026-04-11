@@ -6,7 +6,7 @@ const months = require("../usages/months.json").list || [];
 const tiers = require("../json/tiers.json");
 
 const officialTiersMapping = {
-  championsvgc: "championspreview", // champions double
+  championsvgc: "championstournaments", // champions double
   championsbss: "championsbss", // champions singles
   VGC: "homebsd", // battle stadium double
   BSS: "homebss", // battle stadium singles
@@ -30,11 +30,11 @@ const getTierKey = ({ name = "", usageName = "" }) => {
   if (name.includes("Champions Duo") || usageName.includes("championsvgc")) {
     return "championsvgc";
   }
-  if (name.includes("Champions Solo") || usageName.includes("championsbss")) {
-    return false;
-  }
-  if (name.includes("VGC") || usageName.includes("vgc")) return "VGC";
-  if (name.includes("BSS") || usageName.includes("bss")) return "BSS";
+  // if (name.includes('Champions Solo') || usageName.includes('championsbss')) {
+  // 	return null;
+  // }
+  // if (name.includes('VGC') || usageName.includes('vgc')) return 'VGC';
+  // if (name.includes('BSS') || usageName.includes('bss')) return 'BSS';
   return null;
 };
 
