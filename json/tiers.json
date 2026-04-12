@@ -38,7 +38,7 @@
 		"usageName": "championsou",
 		"champions": true,
 		"playable": true,
-		"sortOrder": 0,
+		"sortOrder": 101,
 		"gen": [
 			9
 		]
