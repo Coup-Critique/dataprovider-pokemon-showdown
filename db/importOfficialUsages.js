@@ -37,7 +37,7 @@ const clearTierUsages = async (gen, tier) => {
   console.log(`Clearing usages in gen ${gen} for tier ${tier.name}...`);
   const usages = await knex("tierUsage").where({
     tierId: tier.id,
-    provider: "home",
+    provider: tier.champions ? "champions" : "home",
   });
   if (!usages) return;
   for (const usage of usages) {
@@ -176,7 +176,7 @@ const processPokemonsTierUsages = async (gen, tier, officialData) => {
       tier.id,
       pokemon.id,
       pokemonData.ranking,
-      "home"
+      tier.champions ? "champions" : "home"
     );
     const tierUsageId = newUsage[0];
 

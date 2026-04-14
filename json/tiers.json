@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Champions Duo Règlement M-A",
-		"shortName": "Duo RMA",
+		"shortName": "Champions Duo",
 		"usageName": "championsvgc2026regma",
 		"playable": true,
 		"official": true,
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Champions Solo Règlement M-A",
-		"shortName": "Solo RMA",
+		"shortName": "Champions Solo",
 		"usageName": "championsbssregma",
 		"champions": true,
 		"official": true,
