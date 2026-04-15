@@ -59,26 +59,34 @@ progressBar.start(learns.length, 0);
               })
               .first(["id"]);
             if (!moveRow) {
-              // console.log(
-              //   `Move ${move} en génération ${object.gen} introuvable`
-              // );
               continue;
             }
           }
 
           moveIds.push(moveRow.id);
 
+          const championsLoss = object.championsLoss?.includes(move) ?? false;
+          const championsAdd = object.championsAdd?.includes(move) ?? false;
+
           try {
             await knex("pokemonMove").insert({
               pokemonId: pokemonRow.id,
               moveId: moveRow.id,
               gen: object.gen,
+              championsLoss,
+              championsAdd,
             });
             INSERTED++;
           } catch (e) {
-            // Already inserted learn
-            if (e.code === "ER_DUP_ENTRY") continue;
-            else throw new Error(e);
+            if (e.code === "ER_DUP_ENTRY") {
+              await knex("pokemonMove")
+                .where({
+                  pokemonId: pokemonRow.id,
+                  moveId: moveRow.id,
+                  gen: object.gen,
+                })
+                .update({ championsLoss, championsAdd });
+            } else throw new Error(e);
           }
         }
 
