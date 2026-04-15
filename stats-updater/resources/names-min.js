@@ -184,4 +184,6 @@
   gen9championsvgc2026regmabo3: "[Gen 9 Champions] VGC 2026 Reg M-A (Bo3)",
   gen9championscustomgame: "[Gen 9 Champions] Custom Game",
   gen9championsdraft: "[Gen 9 Champions] Draft",
+  gen9godlygiftvg2024reggbo3: "[Gen 9] Godly Gift VG 2024 Reg G (Bo3)",
+  gen9pokebilitiesbh: "[Gen 9] Pokebilities BH",
 };
