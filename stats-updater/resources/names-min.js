@@ -186,4 +186,6 @@
   gen9championsdraft: "[Gen 9 Champions] Draft",
   gen9godlygiftvg2024reggbo3: "[Gen 9] Godly Gift VG 2024 Reg G (Bo3)",
   gen9pokebilitiesbh: "[Gen 9] Pokebilities BH",
+  gen9ccapm2025randombattle: "[Gen 9] CCAPM2025 Random Battle",
+  gen9ccapm2025: "[Gen 9] CCAPM2025",
 };
