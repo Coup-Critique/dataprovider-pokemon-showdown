@@ -22,12 +22,13 @@ const saveTierUsage = async (
   tierId,
   pokemonId,
   rank,
+  percent,
   provider = "showdown"
 ) => {
   return await knex("tierUsage").insert({
     tierId,
     pokemonId,
-    percent: null,
+    percent: percent || null,
     rank,
     provider,
   });
@@ -176,6 +177,7 @@ const processPokemonsTierUsages = async (gen, tier, officialData) => {
       tier.id,
       pokemon.id,
       pokemonData.ranking,
+      pokemonData.percent,
       tier.champions ? "champions" : "home"
     );
     const tierUsageId = newUsage[0];
