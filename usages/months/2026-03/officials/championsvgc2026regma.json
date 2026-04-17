@@ -371,12 +371,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "23.137",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -574,7 +574,7 @@
             "item_us": "Shuca_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -1111,7 +1111,7 @@
             "item_us": "Garchompite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -1524,7 +1524,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -1799,7 +1799,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2280,7 +2280,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2638,7 +2638,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -2817,7 +2817,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -3231,7 +3231,7 @@
             "item_us": "Soft_Sand"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -3354,7 +3354,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -3740,7 +3740,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -3891,7 +3891,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -4070,7 +4070,7 @@
       },
       {
         "question": "What are the best teammates for Incineroar?",
-        "answer": "Incineroar synergizes well with Sinistcha (38.930%), Sneasler (38.720%), Garchomp (36.831%), Floette (23.137%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Incineroar synergizes well with Sinistcha (38.930%), Sneasler (38.720%), Garchomp (36.831%), Floette-Eternal (23.137%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Incineroar?",
@@ -4410,12 +4410,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "18.345",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -4930,7 +4930,7 @@
             "item_us": "Shuca_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -5412,7 +5412,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -5826,7 +5826,7 @@
             "item_us": "Garchompite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -6460,7 +6460,7 @@
         "tournamentId": "69c44a46d478313a15a329c7",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -6902,7 +6902,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -7355,7 +7355,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -7534,7 +7534,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -7976,7 +7976,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -8469,12 +8469,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "22.188",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -9360,7 +9360,7 @@
             "item_us": "Garchompite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -9994,7 +9994,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -10228,7 +10228,7 @@
             "item_us": "Soft_Sand"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -10351,7 +10351,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -11247,7 +11247,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -11426,7 +11426,7 @@
         "tournamentId": "69c454a036f5b5c303dbd7eb",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -11841,7 +11841,7 @@
             "item_us": "Bright_Powder"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -11964,7 +11964,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -12410,12 +12410,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "26.728",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -12976,7 +12976,7 @@
             "item_us": "Garchompite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13211,7 +13211,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13429,7 +13429,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13608,7 +13608,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13843,7 +13843,7 @@
             "item_us": "Soft_Sand"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -13994,7 +13994,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -14325,7 +14325,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -14531,7 +14531,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -14682,7 +14682,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -14861,7 +14861,7 @@
         "tournamentId": "69c454a036f5b5c303dbd7eb",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -15096,7 +15096,7 @@
             "item_us": "Bright_Powder"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -15634,7 +15634,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -16117,7 +16117,7 @@
       },
       {
         "question": "What are the best teammates for Sinistcha?",
-        "answer": "Sinistcha synergizes well with Incineroar (61.782%), Sneasler (43.214%), Tyranitar (27.144%), Floette (26.728%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Sinistcha synergizes well with Incineroar (61.782%), Sneasler (43.214%), Tyranitar (27.144%), Floette-Eternal (26.728%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Sinistcha?",
@@ -16401,12 +16401,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "17.360",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -16751,7 +16751,7 @@
             "item_us": "Shuca_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -17053,7 +17053,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -17742,7 +17742,7 @@
         "tournamentId": "69c44a46d478313a15a329c7",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -18364,7 +18364,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -18722,7 +18722,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -19259,7 +19259,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -19353,7 +19353,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -19560,7 +19560,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -19711,7 +19711,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -20373,12 +20373,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "20.201",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -20988,7 +20988,7 @@
         "tournamentId": "69c44a46d478313a15a329c7",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -21251,7 +21251,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -21524,7 +21524,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -21787,7 +21787,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -22145,7 +22145,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -22239,7 +22239,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -22418,7 +22418,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -24886,7 +24886,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -26444,7 +26444,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -28553,7 +28553,7 @@
             "item_us": "Shuca_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -29726,7 +29726,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -32347,37 +32347,3610 @@
       "fairy"
     ],
     "stats": {
-      "hp": 54,
-      "atk": 45,
-      "def": 47,
-      "spa": 75,
-      "spd": 98,
-      "spe": 52
+      "hp": 74,
+      "atk": 65,
+      "def": 67,
+      "spa": 125,
+      "spd": 128,
+      "spe": 92
     },
-    "name_trans": "Floette",
+    "name_trans": "Floette-Eternal",
     "l": "en",
     "format": "championstournaments",
-    "teams": [],
+    "teams": [
+      {
+        "author": "Arekusabi",
+        "event": "69c721f436f5b5c303dbf53c",
+        "source": "limitless",
+        "tournamentId": "69c721f436f5b5c303dbf53c",
+        "pokemon": [
+          {
+            "name": "Charizard",
+            "item": "Charizardite Y",
+            "ability": "Drought",
+            "moves": [
+              {
+                "name": "Heat Crash",
+                "type": "fire"
+              },
+              {
+                "name": "Weather Ball",
+                "type": "normal"
+              },
+              {
+                "name": "Solar Beam",
+                "type": "grass"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "item_us": "Charizardite_Y"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Shuca Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Shuca_Berry"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Fairy Aura",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c721f436f5b5c303dbf53c/player/arekusabi/teamlist",
+        "ranking": 3,
+        "record": "13 - 2 - 0",
+        "authorId": "arekusabi"
+      },
+      {
+        "author": "HahaDeiv",
+        "event": "69da6b3548d465883f70f9c8",
+        "source": "limitless",
+        "tournamentId": "69da6b3548d465883f70f9c8",
+        "pokemon": [
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Maushold",
+            "item": "Chople Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Delphox",
+            "item": "Delphoxite",
+            "ability": "Blaze",
+            "moves": [
+              {
+                "name": "Heat Wave",
+                "type": "fire"
+              },
+              {
+                "name": "Psychic",
+                "type": "psychic"
+              },
+              {
+                "name": "Encore",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Psychic"
+            ],
+            "item_us": "Delphoxite"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69da6b3548d465883f70f9c8/player/hahadeiv/teamlist",
+        "ranking": 8,
+        "record": "11 - 0 - 0",
+        "authorId": "hahadeiv"
+      },
+      {
+        "author": "Desu",
+        "event": "69c721f436f5b5c303dbf53c",
+        "source": "limitless",
+        "tournamentId": "69c721f436f5b5c303dbf53c",
+        "pokemon": [
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Corviknight",
+            "item": "Leftovers",
+            "ability": "Mirror Armor",
+            "moves": [
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Brave Bird",
+                "type": "flying"
+              },
+              {
+                "name": "Roost",
+                "type": "flying"
+              },
+              {
+                "name": "Bulk Up",
+                "type": "fighting"
+              }
+            ],
+            "types": [
+              "Flying",
+              "Steel"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Garchomp",
+            "item": "Garchompite",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Stomping Tantrum",
+                "type": "ground"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "Garchompite"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Draining Kiss",
+                "type": "fairy"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Sneasler",
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Coaching",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Sitrus Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Sitrus_Berry"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c721f436f5b5c303dbf53c/player/desu/teamlist",
+        "ranking": 10,
+        "record": "12 - 3 - 0",
+        "authorId": "desu"
+      },
+      {
+        "author": "Magnetman",
+        "event": "69c84a6036f5b5c303dc05f6",
+        "source": "limitless",
+        "tournamentId": "69c84a6036f5b5c303dc05f6",
+        "pokemon": [
+          {
+            "name": "Excadrill",
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "moves": [
+              {
+                "name": "High Horsepower",
+                "type": "ground"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              }
+            ],
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Tyranitar",
+            "item": "Tyranitarite",
+            "ability": "Sand Stream",
+            "moves": [
+              {
+                "name": "Knock Off",
+                "type": "dark"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Low Kick",
+                "type": "fighting"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "item_us": "Tyranitarite"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Leftovers",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Strength Sap",
+                "type": "grass"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Rotom-Wash",
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "moves": [
+              {
+                "name": "Thunderbolt",
+                "type": "electric"
+              },
+              {
+                "name": "Hydro Pump",
+                "type": "water"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Will-O-Wisp",
+                "type": "fire"
+              }
+            ],
+            "types": [
+              "Electric",
+              "Water"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c84a6036f5b5c303dc05f6/player/magnetman/teamlist",
+        "ranking": 13,
+        "record": "11 - 1 - 0",
+        "authorId": "magnetman"
+      },
+      {
+        "author": "Striider",
+        "event": "69c8294d36f5b5c303dc036e",
+        "source": "limitless",
+        "tournamentId": "69c8294d36f5b5c303dc036e",
+        "pokemon": [
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Gengar",
+            "item": "Gengarite",
+            "ability": "Cursed Body",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Perish Song",
+                "type": "normal"
+              },
+              {
+                "name": "Sludge Bomb",
+                "type": "poison"
+              },
+              {
+                "name": "Shadow Ball",
+                "type": "ghost"
+              }
+            ],
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "item_us": "Gengarite"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Politoed",
+            "item": "Sitrus Berry",
+            "ability": "Drizzle",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Perish Song",
+                "type": "normal"
+              },
+              {
+                "name": "Muddy Water",
+                "type": "water"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Water"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Whimsicott",
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Fake Tears",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Fairy"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Kommo-O",
+            "item": "Dragon Fang",
+            "ability": "Overcoat",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Clanging Scales",
+                "type": "dragon"
+              },
+              {
+                "name": "Aura Sphere",
+                "type": "fighting"
+              },
+              {
+                "name": "Draco Meteor",
+                "type": "dragon"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Fighting"
+            ],
+            "item_us": "Dragon_Fang"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c8294d36f5b5c303dc036e/player/striider/teamlist",
+        "ranking": 15,
+        "record": "11 - 2 - 0",
+        "authorId": "striider"
+      },
+      {
+        "author": "noLife",
+        "event": "69c44a46d478313a15a329c7",
+        "source": "limitless",
+        "tournamentId": "69c44a46d478313a15a329c7",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Draining Kiss",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Rotom-Heat",
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Thunderbolt",
+                "type": "electric"
+              },
+              {
+                "name": "Overheat",
+                "type": "fire"
+              },
+              {
+                "name": "Electroweb",
+                "type": "electric"
+              }
+            ],
+            "types": [
+              "Electric",
+              "Fire"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              },
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c44a46d478313a15a329c7/player/nolife/teamlist",
+        "ranking": 17,
+        "record": "11 - 2 - 0",
+        "authorId": "nolife"
+      },
+      {
+        "author": "sempra",
+        "event": "69c721f436f5b5c303dbf53c",
+        "source": "limitless",
+        "tournamentId": "69c721f436f5b5c303dbf53c",
+        "pokemon": [
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              },
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Maushold",
+            "item": "Chople Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c721f436f5b5c303dbf53c/player/sempra/teamlist",
+        "ranking": 20,
+        "record": "11 - 2 - 0",
+        "authorId": "sempra"
+      },
+      {
+        "author": "Wb_vg",
+        "event": "69c6a52bd478313a15a33fd4",
+        "source": "limitless",
+        "tournamentId": "69c6a52bd478313a15a33fd4",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Talonflame",
+            "item": "Focus Sash",
+            "ability": "Gale Wings",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Brave Bird",
+                "type": "flying"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Primarina",
+            "item": "Fairy Feather",
+            "ability": "Liquid Voice",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Hyper Voice",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Water",
+              "Fairy"
+            ],
+            "item_us": "Fairy_Feather"
+          },
+          {
+            "name": "Maushold",
+            "item": "Lum Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              },
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Lum_Berry"
+          },
+          {
+            "name": "Garchomp",
+            "item": "White Herb",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dragon Claw",
+                "type": "dragon"
+              },
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Stomping Tantrum",
+                "type": "ground"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Sitrus_Berry"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c6a52bd478313a15a33fd4/player/wb_vg/teamlist",
+        "ranking": 21,
+        "record": "11 - 3 - 0",
+        "authorId": "wb_vg"
+      },
+      {
+        "author": "Riot",
+        "event": "69c721f436f5b5c303dbf53c",
+        "source": "limitless",
+        "tournamentId": "69c721f436f5b5c303dbf53c",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Darkest Lariat",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Occa Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Strength Sap",
+                "type": "grass"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Occa_Berry"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Kleavor",
+            "item": "Focus Sash",
+            "ability": "Sharpness",
+            "moves": [
+              {
+                "name": "Stone Axe",
+                "type": "rock"
+              },
+              {
+                "name": "X-Scissor",
+                "type": "bug"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Bug",
+              "Rock"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c721f436f5b5c303dbf53c/player/riot/teamlist",
+        "ranking": 24,
+        "record": "11 - 3 - 0",
+        "authorId": "riot"
+      },
+      {
+        "author": "DidiLaMalice",
+        "event": "69c721f436f5b5c303dbf53c",
+        "source": "limitless",
+        "tournamentId": "69c721f436f5b5c303dbf53c",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Shuca Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Will-O-Wisp",
+                "type": "fire"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Shuca_Berry"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Sitrus Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              },
+              {
+                "name": "Life Dew",
+                "type": "water"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Scizor",
+            "item": "Scizorite",
+            "ability": "Technician",
+            "moves": [
+              {
+                "name": "Bullet Punch",
+                "type": "steel"
+              },
+              {
+                "name": "Bug Bite",
+                "type": "bug"
+              },
+              {
+                "name": "Swords Dance",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Bug",
+              "Steel"
+            ],
+            "item_us": "Scizorite"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c721f436f5b5c303dbf53c/player/didilamalice/teamlist",
+        "ranking": 25,
+        "record": "11 - 3 - 0",
+        "authorId": "didilamalice"
+      },
+      {
+        "author": "soahmed",
+        "event": "69d7114dc734cfa1af2b581d",
+        "source": "limitless",
+        "tournamentId": "69d7114dc734cfa1af2b581d",
+        "pokemon": [
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              },
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Maushold",
+            "item": "Chople Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              },
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69d7114dc734cfa1af2b581d/player/soahmed/teamlist",
+        "ranking": 27,
+        "record": "11 - 3 - 0",
+        "authorId": "soahmed"
+      },
+      {
+        "author": "noisy",
+        "event": "69c44a46d478313a15a329c7",
+        "source": "limitless",
+        "tournamentId": "69c44a46d478313a15a329c7",
+        "pokemon": [
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Garchomp",
+            "item": "Soft Sand",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Stomping Tantrum",
+                "type": "ground"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "Soft_Sand"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Occa Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Strength Sap",
+                "type": "grass"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Occa_Berry"
+          },
+          {
+            "name": "Rotom-Wash",
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "moves": [
+              {
+                "name": "Thunderbolt",
+                "type": "electric"
+              },
+              {
+                "name": "Hydro Pump",
+                "type": "water"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Electric",
+              "Water"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c44a46d478313a15a329c7/player/noisy/teamlist",
+        "ranking": 28,
+        "record": "11 - 3 - 0",
+        "authorId": "noisy"
+      },
+      {
+        "author": "PollitoA7",
+        "event": "69d537610e548b5c2fbe5b3f",
+        "source": "limitless",
+        "tournamentId": "69d537610e548b5c2fbe5b3f",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Fairy Aura",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Delphox",
+            "item": "Delphoxite",
+            "ability": "Blaze",
+            "moves": [
+              {
+                "name": "Heat Wave",
+                "type": "fire"
+              },
+              {
+                "name": "Psychic",
+                "type": "psychic"
+              },
+              {
+                "name": "Substitute",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Psychic"
+            ],
+            "item_us": "Delphoxite"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Maushold",
+            "item": "Chople Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              },
+              {
+                "name": "Taunt",
+                "type": "dark"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Garchomp",
+            "item": "White Herb",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Dragon Claw",
+                "type": "dragon"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "White_Herb"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69d537610e548b5c2fbe5b3f/player/pollitoa7/teamlist",
+        "ranking": 30,
+        "record": "10 - 1 - 0",
+        "authorId": "pollitoa7"
+      },
+      {
+        "author": "DanSpunta",
+        "event": "69c6a52bd478313a15a33fd4",
+        "source": "limitless",
+        "tournamentId": "69c6a52bd478313a15a33fd4",
+        "pokemon": [
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Darkest Lariat",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Draining Kiss",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Tyranitar",
+            "item": "Choice Scarf",
+            "ability": "Sand Stream",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Knock Off",
+                "type": "dark"
+              },
+              {
+                "name": "Breaking Swipe",
+                "type": "dragon"
+              },
+              {
+                "name": "Low Kick",
+                "type": "fighting"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Excadrill",
+            "item": "White Herb",
+            "ability": "Sand Rush",
+            "moves": [
+              {
+                "name": "High Horsepower",
+                "type": "ground"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Sitrus Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Strength Sap",
+                "type": "grass"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Corviknight",
+            "item": "Occa Berry",
+            "ability": "Mirror Armor",
+            "moves": [
+              {
+                "name": "Brave Bird",
+                "type": "flying"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Bulk Up",
+                "type": "fighting"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Flying",
+              "Steel"
+            ],
+            "item_us": "Occa_Berry"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c6a52bd478313a15a33fd4/player/danspunta/teamlist",
+        "ranking": 32,
+        "record": "10 - 1 - 0",
+        "authorId": "danspunta"
+      },
+      {
+        "author": "CrisVGC",
+        "event": "69d7114dc734cfa1af2b581d",
+        "source": "limitless",
+        "tournamentId": "69d7114dc734cfa1af2b581d",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Fairy Aura",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Palafin",
+            "item": "Mystic Water",
+            "ability": "Zero to Hero",
+            "moves": [
+              {
+                "name": "Jet Punch",
+                "type": "water"
+              },
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Ice Punch",
+                "type": "ice"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Water"
+            ],
+            "item_us": "Mystic_Water"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Leftovers",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Sitrus Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Life Dew",
+                "type": "water"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Gallade",
+            "item": "Galladite",
+            "ability": "Justified",
+            "moves": [
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Sacred Sword",
+                "type": "fighting"
+              },
+              {
+                "name": "Psycho Cut",
+                "type": "psychic"
+              },
+              {
+                "name": "Knock Off",
+                "type": "dark"
+              }
+            ],
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "item_us": "Galladite"
+          },
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69d7114dc734cfa1af2b581d/player/crisvgc/teamlist",
+        "ranking": 34,
+        "record": "10 - 2 - 0",
+        "authorId": "crisvgc"
+      },
+      {
+        "author": "OgreVGC",
+        "event": "69c1444936f5b5c303dbc062",
+        "source": "limitless",
+        "tournamentId": "69c1444936f5b5c303dbc062",
+        "pokemon": [
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              },
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Fairy Aura",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Maushold",
+            "item": "Chople Berry",
+            "ability": "Friend Guard",
+            "moves": [
+              {
+                "name": "Super Fang",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Follow Me",
+                "type": "normal"
+              },
+              {
+                "name": "Helping Hand",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Normal"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c1444936f5b5c303dbc062/player/ogrevgc/teamlist",
+        "ranking": 38,
+        "record": "10 - 2 - 0",
+        "authorId": "ogrevgc"
+      },
+      {
+        "author": "Grimmothy_Snarl",
+        "event": "69cd189b36f5b5c303dc4001",
+        "source": "limitless",
+        "tournamentId": "69cd189b36f5b5c303dc4001",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Draining Kiss",
+                "type": "fairy"
+              },
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Garchomp",
+            "item": "Sitrus Berry",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Dragon Claw",
+                "type": "dragon"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Delphox",
+            "item": "Delphoxite",
+            "ability": "Levitate",
+            "moves": [
+              {
+                "name": "Heat Wave",
+                "type": "fire"
+              },
+              {
+                "name": "Psychic",
+                "type": "psychic"
+              },
+              {
+                "name": "Will-O-Wisp",
+                "type": "fire"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Psychic"
+            ],
+            "item_us": "Delphoxite"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Focus Sash",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Liquidation",
+                "type": "water"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              },
+              {
+                "name": "Aqua Jet",
+                "type": "water"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Gunk Shot",
+                "type": "poison"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69cd189b36f5b5c303dc4001/player/grimmothy_snarl/teamlist",
+        "ranking": 39,
+        "record": "10 - 2 - 0",
+        "authorId": "grimmothy_snarl"
+      },
+      {
+        "author": "Selahattin Sturm",
+        "event": "69c1444936f5b5c303dbc062",
+        "source": "limitless",
+        "tournamentId": "69c1444936f5b5c303dbc062",
+        "pokemon": [
+          {
+            "name": "Aerodactyl",
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Dual Wingbeat",
+                "type": "flying"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "item_us": "Focus_Sash"
+          },
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Darkest Lariat",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Sitrus Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Life Dew",
+                "type": "water"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Iron Head",
+                "type": "steel"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Sneasler",
+            "item": "White Herb",
+            "ability": "Unburden",
+            "moves": [
+              {
+                "name": "Close Combat",
+                "type": "fighting"
+              },
+              {
+                "name": "Dire Claw",
+                "type": "poison"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fighting",
+              "Poison"
+            ],
+            "item_us": "White_Herb"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c1444936f5b5c303dbc062/player/sela133vii/teamlist",
+        "ranking": 40,
+        "record": "10 - 2 - 0",
+        "authorId": "sela133vii"
+      },
+      {
+        "author": "Snivy13",
+        "event": "69c6a52bd478313a15a33fd4",
+        "source": "limitless",
+        "tournamentId": "69c6a52bd478313a15a33fd4",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Dazzling Gleam",
+                "type": "fairy"
+              },
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Kingambit",
+            "item": "Black Glasses",
+            "ability": "Defiant",
+            "moves": [
+              {
+                "name": "Kowtow Cleave",
+                "type": "dark"
+              },
+              {
+                "name": "Sucker Punch",
+                "type": "dark"
+              },
+              {
+                "name": "Swords Dance",
+                "type": "normal"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dark",
+              "Steel"
+            ],
+            "item_us": "Black_Glasses"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Sitrus_Berry"
+          },
+          {
+            "name": "Basculegion",
+            "item": "Choice Scarf",
+            "ability": "Adaptability",
+            "moves": [
+              {
+                "name": "Wave Crash",
+                "type": "water"
+              },
+              {
+                "name": "Flip Turn",
+                "type": "water"
+              },
+              {
+                "name": "Icy Wind",
+                "type": "ice"
+              },
+              {
+                "name": "Last Respects",
+                "type": "ghost"
+              }
+            ],
+            "types": [
+              "Water",
+              "Ghost"
+            ],
+            "item_us": "Choice_Scarf"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Leftovers",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Life Dew",
+                "type": "water"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Ninetales-Alola",
+            "item": "Focus Sash",
+            "ability": "Snow Warning",
+            "moves": [
+              {
+                "name": "Blizzard",
+                "type": "ice"
+              },
+              {
+                "name": "Icy Wind",
+                "type": "ice"
+              },
+              {
+                "name": "Aurora Veil",
+                "type": "ice"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Ice",
+              "Fairy"
+            ],
+            "item_us": "Focus_Sash"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c6a52bd478313a15a33fd4/player/snivy13/teamlist",
+        "ranking": 41,
+        "record": "10 - 2 - 0",
+        "authorId": "snivy13"
+      },
+      {
+        "author": "Luciano Begot",
+        "event": "69c454a036f5b5c303dbd7eb",
+        "source": "limitless",
+        "tournamentId": "69c454a036f5b5c303dbd7eb",
+        "pokemon": [
+          {
+            "name": "Floette-Eternal",
+            "item": "Floettite",
+            "ability": "Flower Veil",
+            "moves": [
+              {
+                "name": "Moonblast",
+                "type": "fairy"
+              },
+              {
+                "name": "Draining Kiss",
+                "type": "fairy"
+              },
+              {
+                "name": "Calm Mind",
+                "type": "psychic"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fairy"
+            ],
+            "item_us": "Floettite"
+          },
+          {
+            "name": "Corviknight",
+            "item": "Leftovers",
+            "ability": "Mirror Armor",
+            "moves": [
+              {
+                "name": "Brave Bird",
+                "type": "flying"
+              },
+              {
+                "name": "Body Press",
+                "type": "fighting"
+              },
+              {
+                "name": "Iron Defense",
+                "type": "steel"
+              },
+              {
+                "name": "Tailwind",
+                "type": "flying"
+              }
+            ],
+            "types": [
+              "Flying",
+              "Steel"
+            ],
+            "item_us": "Leftovers"
+          },
+          {
+            "name": "Sinistcha",
+            "item": "Occa Berry",
+            "ability": "Hospitality",
+            "moves": [
+              {
+                "name": "Matcha Gotcha",
+                "type": "grass"
+              },
+              {
+                "name": "Rage Powder",
+                "type": "bug"
+              },
+              {
+                "name": "Life Dew",
+                "type": "water"
+              },
+              {
+                "name": "Trick Room",
+                "type": "psychic"
+              }
+            ],
+            "types": [
+              "Grass",
+              "Ghost"
+            ],
+            "item_us": "Occa_Berry"
+          },
+          {
+            "name": "Tyranitar",
+            "item": "Tyranitarite",
+            "ability": "Sand Stream",
+            "moves": [
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Knock Off",
+                "type": "dark"
+              },
+              {
+                "name": "Ice Punch",
+                "type": "ice"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "item_us": "Tyranitarite"
+          },
+          {
+            "name": "Incineroar",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
+            "moves": [
+              {
+                "name": "Flare Blitz",
+                "type": "fire"
+              },
+              {
+                "name": "Throat Chop",
+                "type": "dark"
+              },
+              {
+                "name": "Parting Shot",
+                "type": "dark"
+              },
+              {
+                "name": "Fake Out",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Fire",
+              "Dark"
+            ],
+            "item_us": "Chople_Berry"
+          },
+          {
+            "name": "Garchomp",
+            "item": "Soft Sand",
+            "ability": "Rough Skin",
+            "moves": [
+              {
+                "name": "Earthquake",
+                "type": "ground"
+              },
+              {
+                "name": "Stomping Tantrum",
+                "type": "ground"
+              },
+              {
+                "name": "Rock Slide",
+                "type": "rock"
+              },
+              {
+                "name": "Protect",
+                "type": "normal"
+              }
+            ],
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "item_us": "Soft_Sand"
+          }
+        ],
+        "link": "https://play.limitlesstcg.com/tournament/69c454a036f5b5c303dbd7eb/player/standproud/teamlist",
+        "ranking": 42,
+        "record": "10 - 2 - 0",
+        "authorId": "standproud"
+      }
+    ],
     "faq": [
       {
-        "question": "What are the best moves for Floette in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "The top moves for Floette in Pokemon Champions VGC 2026 Tournament are Protect (98.732%), Calm Mind (90.174%), Dazzling Gleam (83.043%), Moonblast (80.507%). These represent the highest usage percentages on the competitive ladder."
+        "question": "What are the best moves for Floette-Eternal in Pokemon Champions VGC 2026 Tournament?",
+        "answer": "The top moves for Floette-Eternal in Pokemon Champions VGC 2026 Tournament are Protect (98.732%), Calm Mind (90.174%), Dazzling Gleam (83.043%), Moonblast (80.507%). These represent the highest usage percentages on the competitive ladder."
       },
       {
-        "question": "What are the best teammates for Floette?",
-        "answer": "Floette synergizes well with Incineroar (69.889%), Sinistcha (50.872%), Sneasler (47.068%), Garchomp (46.276%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "question": "What are the best teammates for Floette-Eternal?",
+        "answer": "Floette-Eternal synergizes well with Incineroar (69.889%), Sinistcha (50.872%), Sneasler (47.068%), Garchomp (46.276%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
-        "question": "What item should I use on Floette?",
-        "answer": "The most popular items for Floette are Floettite (98.574%), Choice Scarf (0.951%), Floetitte (0.317%). The best choice depends on your team composition and strategy."
+        "question": "What item should I use on Floette-Eternal?",
+        "answer": "The most popular items for Floette-Eternal are Floettite (98.574%), Choice Scarf (0.951%), Floetitte (0.317%). The best choice depends on your team composition and strategy."
       },
       {
-        "question": "What ability is best for Floette?",
-        "answer": "The most common abilities for Floette are Flower Veil (77.971%) and Fairy Aura (21.078%). The choice often depends on your team's strategy."
+        "question": "What ability is best for Floette-Eternal?",
+        "answer": "The most common abilities for Floette-Eternal are Flower Veil (77.971%) and Fairy Aura (21.078%). The choice often depends on your team's strategy."
       },
       {
-        "question": "Is Floette good in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "Floette is currently ranked in the Pokemon Champions VGC 2026 Tournament metagame. Check the usage percentage and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "question": "Is Floette-Eternal good in Pokemon Champions VGC 2026 Tournament?",
+        "answer": "Floette-Eternal is currently ranked in the Pokemon Champions VGC 2026 Tournament metagame. Check the usage percentage and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -32390,6 +35963,11 @@
       }
     ],
     "items": [
+      {
+        "item": "Stop scraping Pikalytics aggregate data :(",
+        "item_us": "Other",
+        "percent": "99.000"
+      },
       {
         "item": "Sitrus Berry",
         "item_us": "Sitrus_Berry",
@@ -32665,12 +36243,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "23.051",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -33444,7 +37022,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -33539,7 +37117,7 @@
             "item_us": "Soft_Sand"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -34256,7 +37834,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -34379,7 +37957,7 @@
         "tournamentId": "69d41dcd800d329be2e74139",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -35994,7 +39572,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -36662,12 +40240,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "14.821",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -38096,7 +41674,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -38303,7 +41881,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -39089,7 +42667,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -39600,7 +43178,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -40691,12 +44269,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "17.279",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -41444,7 +45022,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -41511,7 +45089,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -42021,7 +45599,7 @@
         "tournamentId": "69c454a036f5b5c303dbd7eb",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -42256,7 +45834,7 @@
             "item_us": "Bright_Powder"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -42435,7 +46013,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -43096,7 +46674,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -43993,7 +47571,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -46304,7 +49882,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -48889,12 +52467,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "11.530",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -49174,7 +52752,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -49834,7 +53412,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -52590,7 +56168,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -55829,12 +59407,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "50.957",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -56035,7 +59613,7 @@
             "item_us": "Shuca_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -56338,7 +59916,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -56668,7 +60246,7 @@
         "tournamentId": "69c44a46d478313a15a329c7",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -56931,7 +60509,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -57025,7 +60603,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -57288,7 +60866,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -57438,7 +61016,7 @@
             "item_us": "Soft_Sand"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -57561,7 +61139,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -57739,7 +61317,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -58001,7 +61579,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -58123,7 +61701,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -58813,7 +62391,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -58991,7 +62569,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -59529,7 +63107,7 @@
       },
       {
         "question": "What are the best teammates for Aerodactyl?",
-        "answer": "Aerodactyl synergizes well with Sneasler (57.895%), Incineroar (57.177%), Garchomp (51.914%), Floette (50.957%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Aerodactyl synergizes well with Sneasler (57.895%), Incineroar (57.177%), Garchomp (51.914%), Floette-Eternal (50.957%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Aerodactyl?",
@@ -61016,7 +64594,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -62917,7 +66495,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -64458,7 +68036,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -65352,7 +68930,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -67619,12 +71197,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "38.122",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -67781,7 +71359,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -68015,7 +71593,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -68109,7 +71687,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -68371,7 +71949,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -68465,7 +72043,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -68727,7 +72305,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -68821,7 +72399,7 @@
         "tournamentId": "69d41dcd800d329be2e74139",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69289,7 +72867,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69356,7 +72934,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69534,7 +73112,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69740,7 +73318,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -69890,7 +73468,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -70303,7 +73881,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -70453,7 +74031,7 @@
             "item_us": "Focus_Sash"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -70603,7 +74181,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -70781,7 +74359,7 @@
         "tournamentId": "69d41dcd800d329be2e74139",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -70959,7 +74537,7 @@
         "tournamentId": "69da6b3548d465883f70f9c8",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Symbiosis",
             "moves": [
@@ -71137,7 +74715,7 @@
         "tournamentId": "69ddc3a848d465883f713282",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -71316,7 +74894,7 @@
       },
       {
         "question": "What are the best teammates for Maushold?",
-        "answer": "Maushold synergizes well with Garchomp (51.657%), Incineroar (43.646%), Floette (38.122%), Sneasler (38.122%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Maushold synergizes well with Garchomp (51.657%), Incineroar (43.646%), Floette-Eternal (38.122%), Sneasler (38.122%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Maushold?",
@@ -74310,7 +77888,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -76351,7 +79929,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -77917,7 +81495,7 @@
             "item_us": "Occa_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -78431,12 +82009,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "21.786",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -78834,7 +82412,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -78901,7 +82479,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -79287,7 +82865,7 @@
             "item_us": "Tyranitarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -80129,7 +83707,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83342,12 +86920,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "15.094",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -83683,7 +87261,7 @@
             "item_us": "Garchompite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83806,7 +87384,7 @@
             "item_us": "Chople_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -83957,7 +87535,7 @@
         "tournamentId": "69c454a036f5b5c303dbd7eb",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -84192,7 +87770,7 @@
             "item_us": "Bright_Powder"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -84853,7 +88431,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -86289,12 +89867,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "30.702",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -86411,7 +89989,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -87058,7 +90636,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -87304,7 +90882,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -87838,7 +91416,7 @@
         "tournamentId": "69da6b3548d465883f70f9c8",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Symbiosis",
             "moves": [
@@ -88196,7 +91774,7 @@
       },
       {
         "question": "What are the best teammates for Talonflame?",
-        "answer": "Talonflame synergizes well with Garchomp (70.614%), Sneasler (39.912%), Rotom-Wash (32.456%), Floette (30.702%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Talonflame synergizes well with Garchomp (70.614%), Sneasler (39.912%), Rotom-Wash (32.456%), Floette-Eternal (30.702%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Talonflame?",
@@ -88574,7 +92152,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -91142,7 +94720,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -91785,12 +95363,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "26.339",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -92089,7 +95667,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -92239,7 +95817,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -92417,7 +95995,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -93313,7 +96891,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -93491,7 +97069,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -93877,7 +97455,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -94262,7 +97840,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -94384,7 +97962,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -94562,7 +98140,7 @@
         "tournamentId": "69d537610e548b5c2fbe5b3f",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -94741,7 +98319,7 @@
         "tournamentId": "69d41dcd800d329be2e74139",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -95679,7 +99257,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -98147,7 +101725,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -98861,7 +102439,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -99357,7 +102935,7 @@
             "item_us": "Choice_Scarf"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -99713,7 +103291,7 @@
             "item_us": "Mystic_Water"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -100507,7 +104085,7 @@
             "item_us": "Gengarite"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -102576,7 +106154,7 @@
         "tournamentId": "69cd189b36f5b5c303dc4001",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -103580,7 +107158,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -106038,12 +109616,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "37.013",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -106168,7 +109746,7 @@
         "tournamentId": "69d41dcd800d329be2e74139",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -106886,7 +110464,7 @@
         "tournamentId": "69d3c3270e548b5c2fbe4826",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -107868,7 +111446,7 @@
             "item_us": "White_Herb"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -108142,7 +111720,7 @@
       },
       {
         "question": "What are the best teammates for Aegislash?",
-        "answer": "Aegislash synergizes well with Garchomp (56.494%), Incineroar (45.455%), Floette (37.013%), Rotom-Wash (33.117%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Aegislash synergizes well with Garchomp (56.494%), Incineroar (45.455%), Floette-Eternal (37.013%), Rotom-Wash (33.117%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Aegislash?",
@@ -111320,12 +114898,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "12.676",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -111545,7 +115123,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -112262,7 +115840,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -112441,7 +116019,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -120404,7 +123982,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -121302,7 +124880,7 @@
         "tournamentId": "69ddc3a848d465883f713282",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -122154,7 +125732,7 @@
         "tournamentId": "69c44a46d478313a15a329c7",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -123571,7 +127149,7 @@
         "tournamentId": "69da4dcf48d465883f70f785",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -124390,12 +127968,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "8.333",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       }
     ],
@@ -125380,12 +128958,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "13.580",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -125615,7 +129193,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -125793,7 +129371,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -126083,7 +129661,7 @@
             "item_us": "Sitrus_Berry"
           },
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
@@ -133261,12 +136839,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "12.766",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       }
     ],
@@ -133296,7 +136874,7 @@
         "tournamentId": "69d7114dc734cfa1af2b581d",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Fairy Aura",
             "moves": [
@@ -138782,12 +142360,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "10.345",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       }
     ],
@@ -139504,7 +143082,7 @@
         "tournamentId": "69c6a52bd478313a15a33fd4",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Regenerator",
             "moves": [
@@ -140115,12 +143693,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "14.286",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -145819,12 +149397,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "14.286",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -149887,12 +153465,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "15.385",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -150152,12 +153730,12 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette",
+        "pokemon": "Floette-Eternal",
         "percent": "16.667",
         "types": [
           "fairy"
         ],
-        "pokemon_trans": "Floette",
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -150220,7 +153798,7 @@
         "tournamentId": "69c721f436f5b5c303dbf53c",
         "pokemon": [
           {
-            "name": "Floette",
+            "name": "Floette-Eternal",
             "item": "Floettite",
             "ability": "Flower Veil",
             "moves": [
