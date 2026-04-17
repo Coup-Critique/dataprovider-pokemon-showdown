@@ -6,6 +6,12 @@ Promise.all(
   insertOrUpdate(knex, "item", items, {
     hasGen: true,
     noOverrideColumns: ["description"],
+    relations: {
+      itemUserId: { table: "pokemon", refColumn: "name" },
+      megaId: { table: "pokemon", refColumn: "name" },
+      zMoveId: { table: "move", refColumn: "name" },
+      zMoveFromId: { table: "move", refColumn: "name" },
+    },
   })
 )
   .then((results) => console.log(resultRecords("item", results)))

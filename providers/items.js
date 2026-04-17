@@ -13,6 +13,10 @@ const makeItemObject = (rawObject, gen) => ({
   name: rawObject.name,
   description: rawObject.desc,
   gen,
+  itemUserId: rawObject.itemUser?.[0] ?? null,
+  megaId: rawObject.megaStone ? Object.values(rawObject.megaStone)[0] : null,
+  zMoveId: typeof rawObject.zMove === "string" ? rawObject.zMove : null,
+  zMoveFromId: rawObject.zMoveFrom ?? null,
 });
 
 for (let gen = 1; gen <= LAST_GEN; gen++) {
