@@ -95,7 +95,9 @@ getEligibleTiers = () => {
         try {
           response = await fetch(url);
           payload = await response.json();
-          pokemonData.push(payload);
+          pokemonData.push(
+            pokemon.percent ? { ...payload, percent: pokemon.percent } : payload
+          );
         } catch (error) {
           console.error({
             url,

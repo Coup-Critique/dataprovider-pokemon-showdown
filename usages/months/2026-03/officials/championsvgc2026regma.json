@@ -465,7 +465,7 @@
       }
     ],
     "raw_count": 1906,
-    "percent": 54,
+    "percent": "53.99",
     "ranking": "1",
     "types": [
       "fire",
@@ -4091,37 +4091,41 @@
     "abilities": [
       {
         "ability": "Unburden",
-        "percent": "89.994"
+        "percent": "89.938"
       },
       {
         "ability": "Poison Touch",
-        "percent": "7.041"
+        "percent": "7.037"
       },
       {
         "ability": "Pressure",
-        "percent": "2.965"
+        "percent": "2.963"
+      },
+      {
+        "ability": "Pickpocket",
+        "percent": "0.062"
       }
     ],
     "items": [
       {
         "item": "White Herb",
         "item_us": "White_Herb",
-        "percent": "71.340"
+        "percent": "71.296"
       },
       {
         "item": "Focus Sash",
         "item_us": "Focus_Sash",
-        "percent": "24.830"
+        "percent": "24.877"
       },
       {
         "item": "Mental Herb",
         "item_us": "Mental_Herb",
-        "percent": "2.471"
+        "percent": "2.469"
       },
       {
         "item": "Sitrus Berry",
         "item_us": "Sitrus_Berry",
-        "percent": "0.371"
+        "percent": "0.370"
       },
       {
         "item": "Focus Band",
@@ -4131,17 +4135,17 @@
       {
         "item": "Choice Scarf",
         "item_us": "Choice_Scarf",
-        "percent": "0.124"
+        "percent": "0.123"
       },
       {
         "item": "Black Belt",
         "item_us": "Black_Belt",
-        "percent": "0.124"
+        "percent": "0.123"
       },
       {
         "item": "Poison Barb",
         "item_us": "Poison_Barb",
-        "percent": "0.124"
+        "percent": "0.123"
       },
       {
         "item": "Oran Berry",
@@ -4187,47 +4191,47 @@
       },
       {
         "move": "Dire Claw",
-        "percent": "97.962",
+        "percent": "97.963",
         "type": "poison"
       },
       {
         "move": "Fake Out",
-        "percent": "87.214",
+        "percent": "87.222",
         "type": "normal"
       },
       {
         "move": "Protect",
-        "percent": "75.602",
+        "percent": "75.556",
         "type": "normal"
       },
       {
         "move": "Coaching",
-        "percent": "18.283",
+        "percent": "18.272",
         "type": "fighting"
       },
       {
         "move": "Rock Tomb",
-        "percent": "7.227",
+        "percent": "7.222",
         "type": "rock"
       },
       {
         "move": "Throat Chop",
-        "percent": "3.521",
+        "percent": "3.519",
         "type": "dark"
       },
       {
         "move": "Rock Slide",
-        "percent": "3.212",
+        "percent": "3.210",
         "type": "rock"
       },
       {
         "move": "Gunk Shot",
-        "percent": "1.112",
+        "percent": "1.111",
         "type": "poison"
       },
       {
         "move": "Taunt",
-        "percent": "1.112",
+        "percent": "1.111",
         "type": "dark"
       },
       {
@@ -4237,12 +4241,12 @@
       },
       {
         "move": "U-turn",
-        "percent": "0.865",
+        "percent": "0.864",
         "type": "bug"
       },
       {
         "move": "Feint",
-        "percent": "0.679",
+        "percent": "0.741",
         "type": "normal"
       },
       {
@@ -4252,7 +4256,7 @@
       },
       {
         "move": "Upper Hand",
-        "percent": "0.371",
+        "percent": "0.370",
         "type": "fighting"
       },
       {
@@ -4277,22 +4281,22 @@
       },
       {
         "move": "Fake Tears",
-        "percent": "0.124",
+        "percent": "0.123",
         "type": "dark"
       },
       {
         "move": "Facade",
-        "percent": "0.124",
+        "percent": "0.123",
         "type": "normal"
       },
       {
         "move": "Shadow Claw",
-        "percent": "0.124",
+        "percent": "0.123",
         "type": "ghost"
       },
       {
         "move": "Lash Out",
-        "percent": "0.124",
+        "percent": "0.123",
         "type": "dark"
       },
       {
@@ -4335,7 +4339,7 @@
     "team": [
       {
         "pokemon": "Incineroar",
-        "percent": "45.584",
+        "percent": "45.556",
         "types": [
           "fire",
           "dark"
@@ -4345,7 +4349,7 @@
       },
       {
         "pokemon": "Garchomp",
-        "percent": "39.345",
+        "percent": "39.383",
         "types": [
           "dragon",
           "ground"
@@ -4355,7 +4359,7 @@
       },
       {
         "pokemon": "Kingambit",
-        "percent": "36.257",
+        "percent": "36.235",
         "types": [
           "dark",
           "steel"
@@ -4367,7 +4371,7 @@
       },
       {
         "pokemon": "Sinistcha",
-        "percent": "32.057",
+        "percent": "32.037",
         "types": [
           "grass",
           "ghost"
@@ -4379,7 +4383,7 @@
       },
       {
         "pokemon": "Basculegion",
-        "percent": "26.498",
+        "percent": "26.481",
         "types": [
           "water",
           "ghost"
@@ -4391,7 +4395,7 @@
       },
       {
         "pokemon": "Charizard",
-        "percent": "21.865",
+        "percent": "21.914",
         "types": [
           "fire",
           "flying"
@@ -4401,7 +4405,7 @@
       },
       {
         "pokemon": "Whimsicott",
-        "percent": "19.456",
+        "percent": "19.444",
         "types": [
           "grass",
           "fairy"
@@ -4411,7 +4415,7 @@
       },
       {
         "pokemon": "Floette-Eternal",
-        "percent": "18.345",
+        "percent": "18.333",
         "types": [
           "fairy"
         ],
@@ -4420,7 +4424,7 @@
       },
       {
         "pokemon": "Rotom-Wash",
-        "percent": "17.109",
+        "percent": "17.099",
         "types": [
           "electric",
           "water"
@@ -4430,7 +4434,7 @@
       },
       {
         "pokemon": "Dragonite",
-        "percent": "15.750",
+        "percent": "15.741",
         "types": [
           "dragon",
           "flying"
@@ -4440,7 +4444,7 @@
       },
       {
         "pokemon": "Aerodactyl",
-        "percent": "14.947",
+        "percent": "14.938",
         "types": [
           "rock",
           "flying"
@@ -4450,7 +4454,7 @@
       },
       {
         "pokemon": "Pelipper",
-        "percent": "14.145",
+        "percent": "14.136",
         "types": [
           "water",
           "flying"
@@ -4459,8 +4463,8 @@
         "l": "en"
       }
     ],
-    "raw_count": 1619,
-    "percent": 46,
+    "raw_count": 1620,
+    "percent": "45.89",
     "ranking": "2",
     "types": [
       "fighting",
@@ -8067,19 +8071,19 @@
     "faq": [
       {
         "question": "What are the best moves for Sneasler in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "The top moves for Sneasler in Pokemon Champions VGC 2026 Tournament are Close Combat (99.568%), Dire Claw (97.962%), Fake Out (87.214%), Protect (75.602%). These represent the highest usage percentages on the competitive ladder."
+        "answer": "The top moves for Sneasler in Pokemon Champions VGC 2026 Tournament are Close Combat (99.568%), Dire Claw (97.963%), Fake Out (87.222%), Protect (75.556%). These represent the highest usage percentages on the competitive ladder."
       },
       {
         "question": "What are the best teammates for Sneasler?",
-        "answer": "Sneasler synergizes well with Incineroar (45.584%), Garchomp (39.345%), Kingambit (36.257%), Sinistcha (32.057%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Sneasler synergizes well with Incineroar (45.556%), Garchomp (39.383%), Kingambit (36.235%), Sinistcha (32.037%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Sneasler?",
-        "answer": "The most popular items for Sneasler are White Herb (71.340%), Focus Sash (24.830%), Mental Herb (2.471%). The best choice depends on your team composition and strategy."
+        "answer": "The most popular items for Sneasler are White Herb (71.296%), Focus Sash (24.877%), Mental Herb (2.469%). The best choice depends on your team composition and strategy."
       },
       {
         "question": "What ability is best for Sneasler?",
-        "answer": "The most common abilities for Sneasler are Unburden (89.994%) and Poison Touch (7.041%). The choice often depends on your team's strategy."
+        "answer": "The most common abilities for Sneasler are Unburden (89.938%) and Poison Touch (7.037%). The choice often depends on your team's strategy."
       },
       {
         "question": "Is Sneasler good in Pokemon Champions VGC 2026 Tournament?",
@@ -8416,7 +8420,7 @@
       },
       {
         "pokemon": "Sneasler",
-        "percent": "48.404",
+        "percent": "48.480",
         "types": [
           "fighting",
           "poison"
@@ -8532,7 +8536,7 @@
       }
     ],
     "raw_count": 1316,
-    "percent": 37,
+    "percent": "37.28",
     "ranking": "3",
     "types": [
       "dragon",
@@ -12143,7 +12147,7 @@
       },
       {
         "question": "What are the best teammates for Garchomp?",
-        "answer": "Garchomp synergizes well with Incineroar (53.343%), Sneasler (48.404%), Charizard (33.967%), Rotom-Wash (28.116%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Garchomp synergizes well with Incineroar (53.343%), Sneasler (48.480%), Charizard (33.967%), Rotom-Wash (28.116%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Garchomp?",
@@ -12506,7 +12510,7 @@
       }
     ],
     "raw_count": 1201,
-    "percent": 34,
+    "percent": "34.02",
     "ranking": "4",
     "types": [
       "grass",
@@ -16461,7 +16465,7 @@
       }
     ],
     "raw_count": 962,
-    "percent": 27,
+    "percent": "27.25",
     "ranking": "5",
     "types": [
       "dark",
@@ -20423,7 +20427,7 @@
       }
     ],
     "raw_count": 797,
-    "percent": 23,
+    "percent": "22.58",
     "ranking": "6",
     "types": [
       "water",
@@ -24445,7 +24449,7 @@
       }
     ],
     "raw_count": 685,
-    "percent": 19,
+    "percent": "19.41",
     "ranking": "7",
     "types": [
       "grass",
@@ -28336,7 +28340,7 @@
       },
       {
         "pokemon": "Sneasler",
-        "percent": "56.013",
+        "percent": "56.171",
         "types": [
           "fighting",
           "poison"
@@ -28444,7 +28448,7 @@
       }
     ],
     "raw_count": 632,
-    "percent": 18,
+    "percent": "17.90",
     "ranking": "8",
     "types": [
       "fire",
@@ -32058,7 +32062,7 @@
       },
       {
         "question": "What are the best teammates for Charizard?",
-        "answer": "Charizard synergizes well with Garchomp (70.728%), Incineroar (63.766%), Sneasler (56.013%), Whimsicott (46.994%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Charizard synergizes well with Garchomp (70.728%), Incineroar (63.766%), Sneasler (56.171%), Whimsicott (46.994%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Charizard?",
@@ -32341,7 +32345,7 @@
       }
     ],
     "raw_count": 631,
-    "percent": 18,
+    "percent": "17.88",
     "ranking": "9",
     "types": [
       "fairy"
@@ -36312,7 +36316,7 @@
       }
     ],
     "raw_count": 590,
-    "percent": 17,
+    "percent": "16.71",
     "ranking": "10",
     "types": [
       "electric",
@@ -40284,7 +40288,7 @@
       }
     ],
     "raw_count": 560,
-    "percent": 16,
+    "percent": "15.86",
     "ranking": "11",
     "types": [
       "water",
@@ -44313,7 +44317,7 @@
       }
     ],
     "raw_count": 544,
-    "percent": 15,
+    "percent": "15.41",
     "ranking": "12",
     "types": [
       "rock",
@@ -48465,7 +48469,7 @@
       }
     ],
     "raw_count": 476,
-    "percent": 13,
+    "percent": "13.48",
     "ranking": "13",
     "types": [
       "dragon",
@@ -52484,7 +52488,7 @@
       }
     ],
     "raw_count": 451,
-    "percent": 13,
+    "percent": "12.78",
     "ranking": "14",
     "types": [
       "steel",
@@ -55544,7 +55548,7 @@
       }
     ],
     "raw_count": 429,
-    "percent": 12,
+    "percent": "12.15",
     "ranking": "15",
     "types": [
       "ghost",
@@ -59499,7 +59503,7 @@
       }
     ],
     "raw_count": 418,
-    "percent": 12,
+    "percent": "11.84",
     "ranking": "16",
     "types": [
       "rock",
@@ -63485,7 +63489,7 @@
       }
     ],
     "raw_count": 403,
-    "percent": 11,
+    "percent": "11.42",
     "ranking": "17",
     "types": [
       "normal",
@@ -67192,7 +67196,7 @@
       },
       {
         "pokemon": "Sneasler",
-        "percent": "43.152",
+        "percent": "43.411",
         "types": [
           "fighting",
           "poison"
@@ -67288,7 +67292,7 @@
       }
     ],
     "raw_count": 387,
-    "percent": 11,
+    "percent": "10.96",
     "ranking": "18",
     "types": [
       "grass",
@@ -70898,7 +70902,7 @@
       },
       {
         "question": "What are the best teammates for Venusaur?",
-        "answer": "Venusaur synergizes well with Incineroar (75.969%), Charizard (73.385%), Garchomp (61.499%), Sneasler (43.152%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Venusaur synergizes well with Incineroar (75.969%), Charizard (73.385%), Garchomp (61.499%), Sneasler (43.411%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Venusaur?",
@@ -71192,17 +71196,8 @@
         "l": "en"
       },
       {
-        "pokemon": "Floette-Eternal",
-        "percent": "38.122",
-        "types": [
-          "fairy"
-        ],
-        "pokemon_trans": "Floette-Eternal",
-        "l": "en"
-      },
-      {
         "pokemon": "Sneasler",
-        "percent": "38.122",
+        "percent": "38.398",
         "types": [
           "fighting",
           "poison"
@@ -71210,6 +71205,15 @@
         "ss": true,
         "id": 903,
         "pokemon_trans": "Sneasler",
+        "l": "en"
+      },
+      {
+        "pokemon": "Floette-Eternal",
+        "percent": "38.122",
+        "types": [
+          "fairy"
+        ],
+        "pokemon_trans": "Floette-Eternal",
         "l": "en"
       },
       {
@@ -71300,7 +71304,7 @@
       }
     ],
     "raw_count": 362,
-    "percent": 10,
+    "percent": "10.25",
     "ranking": "19",
     "types": [
       "normal"
@@ -74889,7 +74893,7 @@
       },
       {
         "question": "What are the best teammates for Maushold?",
-        "answer": "Maushold synergizes well with Garchomp (51.657%), Incineroar (43.646%), Floette-Eternal (38.122%), Sneasler (38.122%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Maushold synergizes well with Garchomp (51.657%), Incineroar (43.646%), Sneasler (38.398%), Floette-Eternal (38.122%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Maushold?",
@@ -75207,7 +75211,7 @@
       }
     ],
     "raw_count": 336,
-    "percent": 10,
+    "percent": "9.52",
     "ranking": "20",
     "types": [
       "ice",
@@ -79184,7 +79188,7 @@
       }
     ],
     "raw_count": 305,
-    "percent": 9,
+    "percent": "8.64",
     "ranking": "21",
     "types": [
       "water"
@@ -82063,7 +82067,7 @@
       }
     ],
     "raw_count": 280,
-    "percent": 8,
+    "percent": "7.93",
     "ranking": "22",
     "types": [
       "ground",
@@ -84444,7 +84448,7 @@
       }
     ],
     "raw_count": 266,
-    "percent": 8,
+    "percent": "7.54",
     "ranking": "23",
     "types": [
       "psychic",
@@ -86966,7 +86970,7 @@
       }
     ],
     "raw_count": 265,
-    "percent": 8,
+    "percent": "7.51",
     "ranking": "24",
     "types": [
       "flying",
@@ -89959,7 +89963,7 @@
       }
     ],
     "raw_count": 228,
-    "percent": 6,
+    "percent": "6.46",
     "ranking": "25",
     "types": [
       "fire",
@@ -92066,7 +92070,7 @@
       }
     ],
     "raw_count": 228,
-    "percent": 6,
+    "percent": "6.46",
     "ranking": "26",
     "types": [
       "dragon",
@@ -95430,7 +95434,7 @@
       }
     ],
     "raw_count": 224,
-    "percent": 6,
+    "percent": "6.35",
     "ranking": "27",
     "types": [
       "fire",
@@ -99227,7 +99231,7 @@
       }
     ],
     "raw_count": 206,
-    "percent": 6,
+    "percent": "5.84",
     "ranking": "28",
     "types": [
       "water",
@@ -101337,7 +101341,7 @@
       }
     ],
     "raw_count": 196,
-    "percent": 6,
+    "percent": "5.55",
     "ranking": "29",
     "types": [
       "water"
@@ -103822,7 +103826,7 @@
       }
     ],
     "raw_count": 172,
-    "percent": 5,
+    "percent": "4.87",
     "ranking": "30",
     "types": [
       "water"
@@ -105590,7 +105594,7 @@
       }
     ],
     "raw_count": 167,
-    "percent": 5,
+    "percent": "4.73",
     "ranking": "31",
     "types": [
       "fire"
@@ -107750,7 +107754,7 @@
       }
     ],
     "raw_count": 158,
-    "percent": 4,
+    "percent": "4.48",
     "ranking": "32",
     "types": [
       "fairy"
@@ -109716,7 +109720,7 @@
       }
     ],
     "raw_count": 154,
-    "percent": 4,
+    "percent": "4.36",
     "ranking": "33",
     "types": [
       "steel",
@@ -112093,7 +112097,7 @@
       }
     ],
     "raw_count": 149,
-    "percent": 4,
+    "percent": "4.22",
     "ranking": "34",
     "types": [
       "water",
@@ -113670,7 +113674,7 @@
       }
     ],
     "raw_count": 147,
-    "percent": 4,
+    "percent": "4.16",
     "ranking": "35",
     "types": [
       "rock",
@@ -114915,7 +114919,7 @@
       }
     ],
     "raw_count": 142,
-    "percent": 4,
+    "percent": "4.02",
     "ranking": "36",
     "types": [
       "ice",
@@ -116663,7 +116667,7 @@
     "team": [
       {
         "pokemon": "Sneasler",
-        "percent": "45.070",
+        "percent": "45.775",
         "types": [
           "fighting",
           "poison"
@@ -116792,7 +116796,7 @@
       }
     ],
     "raw_count": 142,
-    "percent": 4,
+    "percent": "4.02",
     "ranking": "37",
     "types": [
       "dragon",
@@ -117894,7 +117898,7 @@
       },
       {
         "question": "What are the best teammates for Dragapult?",
-        "answer": "Dragapult synergizes well with Sneasler (45.070%), Incineroar (42.254%), Kingambit (28.169%), Tyranitar (22.535%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Dragapult synergizes well with Sneasler (45.775%), Incineroar (42.254%), Kingambit (28.169%), Tyranitar (22.535%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Dragapult?",
@@ -118205,7 +118209,7 @@
       }
     ],
     "raw_count": 134,
-    "percent": 4,
+    "percent": "3.80",
     "ranking": "38",
     "types": [
       "fire",
@@ -120639,7 +120643,7 @@
       }
     ],
     "raw_count": 133,
-    "percent": 4,
+    "percent": "3.77",
     "ranking": "39",
     "types": [
       "grass"
@@ -122421,7 +122425,7 @@
       }
     ],
     "raw_count": 124,
-    "percent": 4,
+    "percent": "3.51",
     "ranking": "40",
     "types": [
       "fairy"
@@ -123080,7 +123084,7 @@
       }
     ],
     "raw_count": 107,
-    "percent": 3,
+    "percent": "3.03",
     "ranking": "41",
     "types": [
       "normal"
@@ -123952,7 +123956,7 @@
       }
     ],
     "raw_count": 91,
-    "percent": 3,
+    "percent": "2.58",
     "ranking": "42",
     "types": [
       "bug",
@@ -125523,7 +125527,7 @@
       }
     ],
     "raw_count": 90,
-    "percent": 3,
+    "percent": "2.55",
     "ranking": "43",
     "types": [
       "electric",
@@ -126762,7 +126766,7 @@
       }
     ],
     "raw_count": 87,
-    "percent": 2,
+    "percent": "2.46",
     "ranking": "44",
     "types": [
       "bug",
@@ -127973,7 +127977,7 @@
       }
     ],
     "raw_count": 84,
-    "percent": 2,
+    "percent": "2.38",
     "ranking": "45",
     "types": [
       "ground",
@@ -128983,7 +128987,7 @@
       }
     ],
     "raw_count": 81,
-    "percent": 2,
+    "percent": "2.29",
     "ranking": "46",
     "types": [
       "fire",
@@ -130004,7 +130008,7 @@
       }
     ],
     "raw_count": 78,
-    "percent": 2,
+    "percent": "2.21",
     "ranking": "47",
     "types": [
       "water",
@@ -130540,7 +130544,7 @@
       }
     ],
     "raw_count": 76,
-    "percent": 2,
+    "percent": "2.15",
     "ranking": "48",
     "types": [
       "dark",
@@ -131151,7 +131155,7 @@
       }
     ],
     "raw_count": 64,
-    "percent": 2,
+    "percent": "1.81",
     "ranking": "49",
     "types": [
       "steel"
@@ -132719,7 +132723,7 @@
       }
     ],
     "raw_count": 63,
-    "percent": 2,
+    "percent": "1.78",
     "ranking": "50",
     "types": [
       "steel",
@@ -133473,7 +133477,7 @@
       }
     ],
     "raw_count": 59,
-    "percent": 2,
+    "percent": "1.67",
     "ranking": "51",
     "types": [
       "fighting",
@@ -133958,7 +133962,7 @@
       }
     ],
     "raw_count": 54,
-    "percent": 2,
+    "percent": "1.53",
     "ranking": "52",
     "types": [
       "grass",
@@ -134619,7 +134623,7 @@
       }
     ],
     "raw_count": 53,
-    "percent": 2,
+    "percent": "1.50",
     "ranking": "53",
     "types": [
       "grass",
@@ -135131,7 +135135,7 @@
       }
     ],
     "raw_count": 51,
-    "percent": 1,
+    "percent": "1.44",
     "ranking": "54",
     "types": [
       "fire"
@@ -135835,7 +135839,7 @@
       }
     ],
     "raw_count": 50,
-    "percent": 1,
+    "percent": "1.42",
     "ranking": "55",
     "types": [
       "dark",
@@ -136133,7 +136137,7 @@
       }
     ],
     "raw_count": 48,
-    "percent": 1,
+    "percent": "1.36",
     "ranking": "56",
     "types": [
       "psychic",
@@ -136844,7 +136848,7 @@
       }
     ],
     "raw_count": 47,
-    "percent": 1,
+    "percent": "1.33",
     "ranking": "57",
     "types": [
       "psychic",
@@ -137504,7 +137508,7 @@
       }
     ],
     "raw_count": 42,
-    "percent": 1,
+    "percent": "1.19",
     "ranking": "58",
     "types": [
       "ice",
@@ -138378,7 +138382,7 @@
       }
     ],
     "raw_count": 42,
-    "percent": 1,
+    "percent": "1.19",
     "ranking": "59",
     "types": [
       "electric"
@@ -139052,7 +139056,7 @@
       }
     ],
     "raw_count": 42,
-    "percent": 1,
+    "percent": "1.19",
     "ranking": "60",
     "types": [
       "normal",
@@ -139515,7 +139519,7 @@
       }
     ],
     "raw_count": 42,
-    "percent": 1,
+    "percent": "1.19",
     "ranking": "61",
     "types": [
       "fighting",
@@ -139798,7 +139802,7 @@
       }
     ],
     "raw_count": 42,
-    "percent": 1,
+    "percent": "1.19",
     "ranking": "62",
     "types": [
       "normal",
@@ -140126,7 +140130,7 @@
       }
     ],
     "raw_count": 41,
-    "percent": 1,
+    "percent": "1.16",
     "ranking": "63",
     "types": [
       "ghost",
@@ -140848,7 +140852,7 @@
       }
     ],
     "raw_count": 41,
-    "percent": 1,
+    "percent": "1.16",
     "ranking": "64",
     "types": [
       "water"
@@ -141088,7 +141092,7 @@
       }
     ],
     "raw_count": 35,
-    "percent": 1,
+    "percent": "0.99",
     "ranking": "65",
     "types": [
       "bug",
@@ -141393,7 +141397,7 @@
       }
     ],
     "raw_count": 35,
-    "percent": 1,
+    "percent": "0.99",
     "ranking": "66",
     "types": [
       "normal",
@@ -141682,7 +141686,7 @@
       }
     ],
     "raw_count": 31,
-    "percent": 1,
+    "percent": "0.88",
     "ranking": "67",
     "types": [
       "water",
@@ -142365,7 +142369,7 @@
       }
     ],
     "raw_count": 29,
-    "percent": 1,
+    "percent": "0.82",
     "ranking": "68",
     "types": [
       "water"
@@ -142874,7 +142878,7 @@
       }
     ],
     "raw_count": 28,
-    "percent": 1,
+    "percent": "0.79",
     "ranking": "69",
     "types": [
       "grass"
@@ -143718,7 +143722,7 @@
       }
     ],
     "raw_count": 28,
-    "percent": 1,
+    "percent": "0.79",
     "ranking": "70",
     "types": [
       "fairy",
@@ -143984,7 +143988,7 @@
       }
     ],
     "raw_count": 27,
-    "percent": 1,
+    "percent": "0.76",
     "ranking": "71",
     "types": [
       "electric"
@@ -144503,7 +144507,7 @@
       }
     ],
     "raw_count": 27,
-    "percent": 1,
+    "percent": "0.76",
     "ranking": "72",
     "types": [
       "water",
@@ -145029,7 +145033,7 @@
       }
     ],
     "raw_count": 26,
-    "percent": 1,
+    "percent": "0.74",
     "ranking": "73",
     "types": [
       "dragon",
@@ -145485,7 +145489,7 @@
       }
     ],
     "raw_count": 26,
-    "percent": 1,
+    "percent": "0.74",
     "ranking": "74",
     "types": [
       "water",
@@ -145760,7 +145764,7 @@
       }
     ],
     "raw_count": 26,
-    "percent": 1,
+    "percent": "0.74",
     "ranking": "75",
     "types": [
       "grass",
@@ -146089,7 +146093,7 @@
       }
     ],
     "raw_count": 26,
-    "percent": 1,
+    "percent": "0.74",
     "ranking": "76",
     "types": [
       "psychic"
@@ -146365,7 +146369,7 @@
       }
     ],
     "raw_count": 26,
-    "percent": 1,
+    "percent": "0.74",
     "ranking": "77",
     "types": [
       "fire",
@@ -146680,7 +146684,7 @@
       }
     ],
     "raw_count": 25,
-    "percent": 1,
+    "percent": "0.71",
     "ranking": "78",
     "types": [
       "fighting",
@@ -147340,7 +147344,7 @@
       }
     ],
     "raw_count": 25,
-    "percent": 1,
+    "percent": "0.71",
     "ranking": "79",
     "types": [
       "fighting"
@@ -147667,7 +147671,7 @@
       }
     ],
     "raw_count": 25,
-    "percent": 1,
+    "percent": "0.71",
     "ranking": "80",
     "types": [
       "dark",
@@ -147928,7 +147932,7 @@
       }
     ],
     "raw_count": 25,
-    "percent": 1,
+    "percent": "0.71",
     "ranking": "81",
     "types": [
       "rock"
@@ -148248,7 +148252,7 @@
       }
     ],
     "raw_count": 24,
-    "percent": 1,
+    "percent": "0.68",
     "ranking": "82",
     "types": [
       "water",
@@ -148531,7 +148535,7 @@
       }
     ],
     "raw_count": 24,
-    "percent": 1,
+    "percent": "0.68",
     "ranking": "83",
     "types": [
       "steel",
@@ -149168,7 +149172,7 @@
       }
     ],
     "raw_count": 23,
-    "percent": 1,
+    "percent": "0.65",
     "ranking": "84",
     "types": [
       "normal"
@@ -149444,7 +149448,7 @@
       }
     ],
     "raw_count": 21,
-    "percent": 1,
+    "percent": "0.59",
     "ranking": "85",
     "types": [
       "steel",
@@ -149914,7 +149918,7 @@
       }
     ],
     "raw_count": 20,
-    "percent": 1,
+    "percent": "0.57",
     "ranking": "86",
     "types": [
       "rock"
@@ -150248,7 +150252,7 @@
       }
     ],
     "raw_count": 19,
-    "percent": 1,
+    "percent": "0.54",
     "ranking": "87",
     "types": [
       "normal"
@@ -150554,7 +150558,7 @@
       }
     ],
     "raw_count": 19,
-    "percent": 1,
+    "percent": "0.54",
     "ranking": "88",
     "types": [
       "steel",
@@ -150874,7 +150878,7 @@
       }
     ],
     "raw_count": 18,
-    "percent": 1,
+    "percent": "0.51",
     "ranking": "89",
     "types": [
       "fire",
@@ -151139,7 +151143,7 @@
       }
     ],
     "raw_count": 17,
-    "percent": 0,
+    "percent": "0.48",
     "ranking": "90",
     "types": [
       "ghost",
@@ -151395,7 +151399,7 @@
       }
     ],
     "raw_count": 17,
-    "percent": 0,
+    "percent": "0.48",
     "ranking": "91",
     "types": [
       "electric"
@@ -151685,7 +151689,7 @@
       }
     ],
     "raw_count": 17,
-    "percent": 0,
+    "percent": "0.48",
     "ranking": "92",
     "types": [
       "water",
@@ -151963,7 +151967,7 @@
       }
     ],
     "raw_count": 16,
-    "percent": 0,
+    "percent": "0.45",
     "ranking": "93",
     "types": [
       "electric",
@@ -152216,7 +152220,7 @@
       }
     ],
     "raw_count": 16,
-    "percent": 0,
+    "percent": "0.45",
     "ranking": "94",
     "types": [
       "fighting",
@@ -152488,7 +152492,7 @@
       }
     ],
     "raw_count": 15,
-    "percent": 0,
+    "percent": "0.42",
     "ranking": "95",
     "types": [
       "electric",
@@ -152773,7 +152777,7 @@
       }
     ],
     "raw_count": 14,
-    "percent": 0,
+    "percent": "0.40",
     "ranking": "96",
     "types": [
       "water",
@@ -153205,7 +153209,7 @@
       }
     ],
     "raw_count": 14,
-    "percent": 0,
+    "percent": "0.40",
     "ranking": "97",
     "types": [
       "electric"
@@ -153502,7 +153506,7 @@
       }
     ],
     "raw_count": 13,
-    "percent": 0,
+    "percent": "0.37",
     "ranking": "98",
     "types": [
       "fire",
@@ -153766,7 +153770,7 @@
       }
     ],
     "raw_count": 12,
-    "percent": 0,
+    "percent": "0.34",
     "ranking": "99",
     "types": [
       "bug",
@@ -154384,7 +154388,7 @@
       }
     ],
     "raw_count": 12,
-    "percent": 0,
+    "percent": "0.34",
     "ranking": "100",
     "types": [
       "grass",
