@@ -4,11 +4,11 @@
     "abilities": [
       {
         "ability": "Intimidate",
-        "percent": "98.111"
+        "percent": "98.110"
       },
       {
         "ability": "Blaze",
-        "percent": "1.836"
+        "percent": "1.837"
       },
       {
         "ability": "Intimidaci",
@@ -19,32 +19,32 @@
       {
         "item": "Sitrus Berry",
         "item_us": "Sitrus_Berry",
-        "percent": "55.981"
+        "percent": "56.010"
       },
       {
         "item": "Chople Berry",
         "item_us": "Chople_Berry",
-        "percent": "15.845"
+        "percent": "15.853"
       },
       {
         "item": "Shuca Berry",
         "item_us": "Shuca_Berry",
-        "percent": "12.539"
+        "percent": "12.546"
       },
       {
         "item": "Lum Berry",
         "item_us": "Lum_Berry",
-        "percent": "4.827"
+        "percent": "4.829"
       },
       {
         "item": "Leftovers",
         "item_us": "Leftovers",
-        "percent": "3.935"
+        "percent": "3.937"
       },
       {
         "item": "Passho Berry",
         "item_us": "Passho_Berry",
-        "percent": "2.099"
+        "percent": "2.100"
       },
       {
         "item": "White Herb",
@@ -77,13 +77,13 @@
         "percent": "0.262"
       },
       {
-        "item": "Assault Vest",
-        "item_us": "Assault_Vest",
-        "percent": "0.210"
-      },
-      {
         "item": "Focus Band",
         "item_us": "Focus_Band",
+        "percent": "0.157"
+      },
+      {
+        "item": "Assault Vest",
+        "item_us": "Assault_Vest",
         "percent": "0.157"
       },
       {
@@ -140,57 +140,57 @@
     "moves": [
       {
         "move": "Fake Out",
-        "percent": "98.951",
+        "percent": "98.950",
         "type": "normal"
       },
       {
         "move": "Parting Shot",
-        "percent": "96.065",
+        "percent": "96.115",
         "type": "dark"
       },
       {
         "move": "Flare Blitz",
-        "percent": "85.205",
+        "percent": "85.197",
         "type": "fire"
       },
       {
         "move": "Throat Chop",
-        "percent": "43.652",
+        "percent": "43.675",
         "type": "dark"
       },
       {
         "move": "Darkest Lariat",
-        "percent": "38.562",
+        "percent": "38.530",
         "type": "dark"
       },
       {
         "move": "Protect",
-        "percent": "14.376",
+        "percent": "14.383",
         "type": "normal"
       },
       {
         "move": "Will-O-Wisp",
-        "percent": "5.824",
+        "percent": "5.827",
         "type": "fire"
       },
       {
         "move": "Taunt",
-        "percent": "4.145",
+        "percent": "4.147",
         "type": "dark"
       },
       {
         "move": "Helping Hand",
-        "percent": "4.092",
+        "percent": "4.094",
         "type": "normal"
       },
       {
         "move": "Snarl",
-        "percent": "2.886",
+        "percent": "2.887",
         "type": "dark"
       },
       {
         "move": "Close Combat",
-        "percent": "2.256",
+        "percent": "2.257",
         "type": "fighting"
       },
       {
@@ -234,11 +234,6 @@
         "type": "normal"
       },
       {
-        "move": "Brick Break",
-        "percent": "0.157",
-        "type": "fighting"
-      },
-      {
         "move": "Crunch",
         "percent": "0.157",
         "type": "dark"
@@ -255,6 +250,11 @@
       },
       {
         "move": "Drain Punch",
+        "percent": "0.105",
+        "type": "fighting"
+      },
+      {
+        "move": "Brick Break",
         "percent": "0.105",
         "type": "fighting"
       },
@@ -338,7 +338,7 @@
     "team": [
       {
         "pokemon": "Sinistcha",
-        "percent": "38.930",
+        "percent": "38.950",
         "types": [
           "grass",
           "ghost"
@@ -350,7 +350,7 @@
       },
       {
         "pokemon": "Sneasler",
-        "percent": "38.720",
+        "percent": "38.740",
         "types": [
           "fighting",
           "poison"
@@ -362,7 +362,7 @@
       },
       {
         "pokemon": "Garchomp",
-        "percent": "36.831",
+        "percent": "36.850",
         "types": [
           "dragon",
           "ground"
@@ -372,7 +372,7 @@
       },
       {
         "pokemon": "Floette-Eternal",
-        "percent": "23.137",
+        "percent": "23.150",
         "types": [
           "fairy"
         ],
@@ -381,7 +381,7 @@
       },
       {
         "pokemon": "Charizard",
-        "percent": "21.144",
+        "percent": "21.155",
         "types": [
           "fire",
           "flying"
@@ -391,7 +391,7 @@
       },
       {
         "pokemon": "Basculegion",
-        "percent": "21.144",
+        "percent": "21.155",
         "types": [
           "water",
           "ghost"
@@ -403,7 +403,7 @@
       },
       {
         "pokemon": "Kingambit",
-        "percent": "20.934",
+        "percent": "20.945",
         "types": [
           "dark",
           "steel"
@@ -415,7 +415,7 @@
       },
       {
         "pokemon": "Whimsicott",
-        "percent": "19.990",
+        "percent": "20.000",
         "types": [
           "grass",
           "fairy"
@@ -425,7 +425,7 @@
       },
       {
         "pokemon": "Gengar",
-        "percent": "16.317",
+        "percent": "16.325",
         "types": [
           "ghost",
           "poison"
@@ -435,7 +435,7 @@
       },
       {
         "pokemon": "Rotom-Wash",
-        "percent": "15.740",
+        "percent": "15.748",
         "types": [
           "electric",
           "water"
@@ -445,7 +445,7 @@
       },
       {
         "pokemon": "Venusaur",
-        "percent": "15.425",
+        "percent": "15.433",
         "types": [
           "grass",
           "poison"
@@ -455,7 +455,7 @@
       },
       {
         "pokemon": "Tyranitar",
-        "percent": "14.953",
+        "percent": "14.961",
         "types": [
           "rock",
           "dark"
@@ -464,8 +464,8 @@
         "l": "en"
       }
     ],
-    "raw_count": 1906,
-    "percent": "53.99",
+    "raw_count": 1905,
+    "percent": "54.00",
     "ranking": "1",
     "types": [
       "fire",
@@ -4066,19 +4066,19 @@
     "faq": [
       {
         "question": "What are the best moves for Incineroar in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "The top moves for Incineroar in Pokemon Champions VGC 2026 Tournament are Fake Out (98.951%), Parting Shot (96.065%), Flare Blitz (85.205%), Throat Chop (43.652%). These represent the highest usage percentages on the competitive ladder."
+        "answer": "The top moves for Incineroar in Pokemon Champions VGC 2026 Tournament are Fake Out (98.950%), Parting Shot (96.115%), Flare Blitz (85.197%), Throat Chop (43.675%). These represent the highest usage percentages on the competitive ladder."
       },
       {
         "question": "What are the best teammates for Incineroar?",
-        "answer": "Incineroar synergizes well with Sinistcha (38.930%), Sneasler (38.720%), Garchomp (36.831%), Floette-Eternal (23.137%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Incineroar synergizes well with Sinistcha (38.950%), Sneasler (38.740%), Garchomp (36.850%), Floette-Eternal (23.150%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Incineroar?",
-        "answer": "The most popular items for Incineroar are Sitrus Berry (55.981%), Chople Berry (15.845%), Shuca Berry (12.539%). The best choice depends on your team composition and strategy."
+        "answer": "The most popular items for Incineroar are Sitrus Berry (56.010%), Chople Berry (15.853%), Shuca Berry (12.546%). The best choice depends on your team composition and strategy."
       },
       {
         "question": "What ability is best for Incineroar?",
-        "answer": "The most common abilities for Incineroar are Intimidate (98.111%) and Blaze (1.836%). The choice often depends on your team's strategy."
+        "answer": "The most common abilities for Incineroar are Intimidate (98.110%) and Blaze (1.837%). The choice often depends on your team's strategy."
       },
       {
         "question": "Is Incineroar good in Pokemon Champions VGC 2026 Tournament?",
@@ -4464,7 +4464,7 @@
       }
     ],
     "raw_count": 1620,
-    "percent": "45.89",
+    "percent": "45.92",
     "ranking": "2",
     "types": [
       "fighting",
@@ -8536,7 +8536,7 @@
       }
     ],
     "raw_count": 1316,
-    "percent": "37.28",
+    "percent": "37.30",
     "ranking": "3",
     "types": [
       "dragon",
@@ -12510,7 +12510,7 @@
       }
     ],
     "raw_count": 1201,
-    "percent": "34.02",
+    "percent": "34.04",
     "ranking": "4",
     "types": [
       "grass",
@@ -16465,7 +16465,7 @@
       }
     ],
     "raw_count": 962,
-    "percent": "27.25",
+    "percent": "27.27",
     "ranking": "5",
     "types": [
       "dark",
@@ -20427,7 +20427,7 @@
       }
     ],
     "raw_count": 797,
-    "percent": "22.58",
+    "percent": "22.59",
     "ranking": "6",
     "types": [
       "water",
@@ -24449,7 +24449,7 @@
       }
     ],
     "raw_count": 685,
-    "percent": "19.41",
+    "percent": "19.42",
     "ranking": "7",
     "types": [
       "grass",
@@ -28448,7 +28448,7 @@
       }
     ],
     "raw_count": 632,
-    "percent": "17.90",
+    "percent": "17.91",
     "ranking": "8",
     "types": [
       "fire",
@@ -32345,7 +32345,7 @@
       }
     ],
     "raw_count": 631,
-    "percent": "17.88",
+    "percent": "17.89",
     "ranking": "9",
     "types": [
       "fairy"
@@ -36316,7 +36316,7 @@
       }
     ],
     "raw_count": 590,
-    "percent": "16.71",
+    "percent": "16.72",
     "ranking": "10",
     "types": [
       "electric",
@@ -40288,7 +40288,7 @@
       }
     ],
     "raw_count": 560,
-    "percent": "15.86",
+    "percent": "15.87",
     "ranking": "11",
     "types": [
       "water",
@@ -44317,7 +44317,7 @@
       }
     ],
     "raw_count": 544,
-    "percent": "15.41",
+    "percent": "15.42",
     "ranking": "12",
     "types": [
       "rock",
@@ -47951,389 +47951,389 @@
     "abilities": [
       {
         "ability": "Multiscale",
-        "percent": "72.059"
+        "percent": "72.211"
       },
       {
         "ability": "Inner Focus",
-        "percent": "27.941"
+        "percent": "27.789"
       }
     ],
     "items": [
       {
         "item": "Dragoninite",
         "item_us": "Dragoninite",
-        "percent": "64.076"
+        "percent": "64.211"
       },
       {
         "item": "Lum Berry",
         "item_us": "Lum_Berry",
-        "percent": "14.496"
+        "percent": "14.526"
       },
       {
         "item": "White Herb",
         "item_us": "White_Herb",
-        "percent": "4.412"
+        "percent": "4.421"
       },
       {
         "item": "Silk Scarf",
         "item_us": "Silk_Scarf",
-        "percent": "2.941"
+        "percent": "2.947"
       },
       {
         "item": "Dragon Fang",
         "item_us": "Dragon_Fang",
-        "percent": "2.731"
+        "percent": "2.737"
       },
       {
         "item": "Leftovers",
         "item_us": "Leftovers",
-        "percent": "1.681"
+        "percent": "1.684"
       },
       {
         "item": "Sitrus Berry",
         "item_us": "Sitrus_Berry",
-        "percent": "1.681"
+        "percent": "1.684"
       },
       {
         "item": "Dragonitite",
         "item_us": "Dragonitite",
-        "percent": "1.050"
+        "percent": "1.053"
       },
       {
         "item": "Focus Sash",
         "item_us": "Focus_Sash",
-        "percent": "1.050"
+        "percent": "1.053"
       },
       {
         "item": "Yache Berry",
         "item_us": "Yache_Berry",
-        "percent": "0.840"
+        "percent": "0.842"
       },
       {
         "item": "Choice Scarf",
         "item_us": "Choice_Scarf",
-        "percent": "0.840"
+        "percent": "0.842"
       },
       {
         "item": "King",
         "item_us": "King",
-        "percent": "0.630"
-      },
-      {
-        "item": "Loaded Dice",
-        "item_us": "Loaded_Dice",
-        "percent": "0.420"
+        "percent": "0.632"
       },
       {
         "item": "Dragalgite",
         "item_us": "Dragalgite",
-        "percent": "0.420"
+        "percent": "0.421"
       },
       {
         "item": "dragonitite",
         "item_us": "dragonitite",
-        "percent": "0.420"
+        "percent": "0.421"
       },
       {
         "item": "Quick Claw",
         "item_us": "Quick_Claw",
-        "percent": "0.420"
+        "percent": "0.421"
       },
       {
         "item": "Shell Bell",
         "item_us": "Shell_Bell",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Mental Herb",
         "item_us": "Mental_Herb",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Haban Berry",
         "item_us": "Haban_Berry",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Life Orb",
         "item_us": "Life_Orb",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Dragonium Z",
         "item_us": "Dragonium_Z",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Dragoniteite",
         "item_us": "Dragoniteite",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Weakness Policy",
         "item_us": "Weakness_Policy",
-        "percent": "0.210"
+        "percent": "0.211"
       },
       {
         "item": "Miracle Berry",
         "item_us": "Miracle_Berry",
-        "percent": "0.210"
+        "percent": "0.211"
+      },
+      {
+        "item": "Loaded Dice",
+        "item_us": "Loaded_Dice",
+        "percent": "0.211"
       },
       {
         "item": "Roseli Berry",
         "item_us": "Roseli_Berry",
-        "percent": "0.210"
+        "percent": "0.211"
       }
     ],
     "moves": [
       {
         "move": "Protect",
-        "percent": "79.622",
+        "percent": "79.579",
         "type": "normal"
       },
       {
         "move": "Hurricane",
-        "percent": "51.050",
+        "percent": "51.158",
         "type": "flying"
       },
       {
         "move": "Draco Meteor",
-        "percent": "42.857",
+        "percent": "42.947",
         "type": "dragon"
       },
       {
         "move": "Extreme Speed",
-        "percent": "40.336",
+        "percent": "40.211",
         "type": "normal"
       },
       {
         "move": "Tailwind",
-        "percent": "34.664",
+        "percent": "34.526",
         "type": "flying"
       },
       {
         "move": "Dragon Pulse",
-        "percent": "22.059",
+        "percent": "22.105",
         "type": "dragon"
       },
       {
         "move": "Scale Shot",
-        "percent": "18.908",
+        "percent": "18.737",
         "type": "dragon"
       },
       {
         "move": "Thunder",
-        "percent": "17.647",
+        "percent": "17.684",
         "type": "electric"
       },
       {
         "move": "Ice Beam",
-        "percent": "11.134",
+        "percent": "11.158",
         "type": "ice"
       },
       {
         "move": "Dragon Claw",
-        "percent": "7.773",
+        "percent": "7.789",
         "type": "dragon"
       },
       {
         "move": "Low Kick",
-        "percent": "6.723",
+        "percent": "6.737",
         "type": "fighting"
       },
       {
         "move": "Thunderbolt",
-        "percent": "6.092",
+        "percent": "6.105",
         "type": "electric"
       },
       {
         "move": "Haze",
-        "percent": "5.672",
+        "percent": "5.684",
         "type": "ice"
       },
       {
         "move": "Fire Blast",
-        "percent": "4.622",
+        "percent": "4.632",
         "type": "fire"
       },
       {
         "move": "Roost",
-        "percent": "4.622",
+        "percent": "4.632",
         "type": "flying"
       },
       {
         "move": "Dragon Dance",
-        "percent": "3.992",
+        "percent": "4.000",
         "type": "dragon"
       },
       {
         "move": "Stomping Tantrum",
-        "percent": "3.571",
+        "percent": "3.579",
         "type": "ground"
       },
       {
         "move": "Earthquake",
-        "percent": "3.361",
+        "percent": "3.368",
         "type": "ground"
       },
       {
         "move": "Outrage",
-        "percent": "3.361",
+        "percent": "3.368",
         "type": "dragon"
       },
       {
         "move": "Thunder Punch",
-        "percent": "2.941",
+        "percent": "2.947",
         "type": "electric"
       },
       {
         "move": "Fire Spin",
-        "percent": "2.731",
+        "percent": "2.737",
         "type": "fire"
       },
       {
         "move": "Fire Punch",
-        "percent": "2.521",
+        "percent": "2.526",
         "type": "fire"
       },
       {
         "move": "Icy Wind",
-        "percent": "2.311",
+        "percent": "2.316",
         "type": "ice"
       },
       {
         "move": "Air Slash",
-        "percent": "2.101",
+        "percent": "2.105",
         "type": "flying"
       },
       {
         "move": "Rock Slide",
-        "percent": "2.101",
+        "percent": "2.105",
         "type": "rock"
       },
       {
         "move": "Focus Blast",
-        "percent": "1.891",
+        "percent": "1.895",
         "type": "fighting"
       },
       {
         "move": "Heat Wave",
-        "percent": "1.891",
+        "percent": "1.895",
         "type": "fire"
       },
       {
         "move": "Flamethrower",
-        "percent": "1.891",
+        "percent": "1.895",
         "type": "fire"
       },
       {
         "move": "Weather Ball",
-        "percent": "1.471",
+        "percent": "1.474",
         "type": "normal"
       },
       {
         "move": "Breaking Swipe",
-        "percent": "1.471",
+        "percent": "1.474",
         "type": "dragon"
       },
       {
         "move": "Aerial Ace",
-        "percent": "1.261",
+        "percent": "1.263",
         "type": "flying"
       },
       {
         "move": "Ice Spinner",
-        "percent": "1.050",
+        "percent": "1.053",
         "type": "ice"
       },
       {
         "move": "Ice Punch",
-        "percent": "1.050",
+        "percent": "1.053",
         "type": "ice"
       },
       {
         "move": "Iron Head",
-        "percent": "0.840",
+        "percent": "0.842",
         "type": "steel"
       },
       {
         "move": "Superpower",
-        "percent": "0.630",
+        "percent": "0.632",
         "type": "fighting"
       },
       {
         "move": "Surf",
-        "percent": "0.630",
+        "percent": "0.632",
         "type": "water"
       },
       {
         "move": "Helping Hand",
-        "percent": "0.420",
+        "percent": "0.421",
         "type": "normal"
       },
       {
         "move": "Dual Wingbeat",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "flying"
       },
       {
         "move": "Blizzard",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "ice"
       },
       {
         "move": "Dragon Tail",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "dragon"
       },
       {
         "move": "Thunder Wave",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "electric"
       },
       {
         "move": "Dragon Rush",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "dragon"
       },
       {
         "move": "Aqua Jet",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "water"
       },
       {
         "move": "Rain Dance",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "water"
       },
       {
         "move": "Hydro Pump",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "water"
       },
       {
         "move": "Ice bean",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "normal"
       },
       {
         "move": "Brick Break",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "fighting"
       },
       {
         "move": "Stone Edge",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "rock"
       },
       {
         "move": "Expanding Force",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "psychic"
       },
       {
         "move": "Agility",
-        "percent": "0.210",
+        "percent": "0.211",
         "type": "psychic"
       }
     ],
@@ -48341,7 +48341,7 @@
     "team": [
       {
         "pokemon": "Sneasler",
-        "percent": "53.571",
+        "percent": "53.684",
         "types": [
           "fighting",
           "poison"
@@ -48353,7 +48353,7 @@
       },
       {
         "pokemon": "Basculegion",
-        "percent": "47.269",
+        "percent": "47.368",
         "types": [
           "water",
           "ghost"
@@ -48365,7 +48365,7 @@
       },
       {
         "pokemon": "Pelipper",
-        "percent": "43.487",
+        "percent": "43.579",
         "types": [
           "water",
           "flying"
@@ -48375,7 +48375,7 @@
       },
       {
         "pokemon": "Incineroar",
-        "percent": "36.555",
+        "percent": "36.421",
         "types": [
           "fire",
           "dark"
@@ -48385,7 +48385,7 @@
       },
       {
         "pokemon": "Sinistcha",
-        "percent": "35.714",
+        "percent": "35.789",
         "types": [
           "grass",
           "ghost"
@@ -48397,7 +48397,7 @@
       },
       {
         "pokemon": "Archaludon",
-        "percent": "34.664",
+        "percent": "34.737",
         "types": [
           "steel",
           "dragon"
@@ -48409,7 +48409,7 @@
       },
       {
         "pokemon": "Kingambit",
-        "percent": "26.891",
+        "percent": "26.947",
         "types": [
           "dark",
           "steel"
@@ -48421,7 +48421,7 @@
       },
       {
         "pokemon": "Whimsicott",
-        "percent": "11.134",
+        "percent": "11.158",
         "types": [
           "grass",
           "fairy"
@@ -48431,7 +48431,7 @@
       },
       {
         "pokemon": "Gengar",
-        "percent": "11.134",
+        "percent": "11.158",
         "types": [
           "ghost",
           "poison"
@@ -48441,7 +48441,7 @@
       },
       {
         "pokemon": "Garchomp",
-        "percent": "10.294",
+        "percent": "10.316",
         "types": [
           "dragon",
           "ground"
@@ -48451,7 +48451,7 @@
       },
       {
         "pokemon": "Politoed",
-        "percent": "9.454",
+        "percent": "9.474",
         "types": [
           "water"
         ],
@@ -48460,7 +48460,7 @@
       },
       {
         "pokemon": "Clefable",
-        "percent": "8.613",
+        "percent": "8.632",
         "types": [
           "fairy"
         ],
@@ -48468,8 +48468,8 @@
         "l": "en"
       }
     ],
-    "raw_count": 476,
-    "percent": "13.48",
+    "raw_count": 475,
+    "percent": "13.46",
     "ranking": "13",
     "types": [
       "dragon",
@@ -52074,19 +52074,19 @@
     "faq": [
       {
         "question": "What are the best moves for Dragonite in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "The top moves for Dragonite in Pokemon Champions VGC 2026 Tournament are Protect (79.622%), Hurricane (51.050%), Draco Meteor (42.857%), Extreme Speed (40.336%). These represent the highest usage percentages on the competitive ladder."
+        "answer": "The top moves for Dragonite in Pokemon Champions VGC 2026 Tournament are Protect (79.579%), Hurricane (51.158%), Draco Meteor (42.947%), Extreme Speed (40.211%). These represent the highest usage percentages on the competitive ladder."
       },
       {
         "question": "What are the best teammates for Dragonite?",
-        "answer": "Dragonite synergizes well with Sneasler (53.571%), Basculegion (47.269%), Pelipper (43.487%), Incineroar (36.555%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Dragonite synergizes well with Sneasler (53.684%), Basculegion (47.368%), Pelipper (43.579%), Incineroar (36.421%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Dragonite?",
-        "answer": "The most popular items for Dragonite are Dragoninite (64.076%), Lum Berry (14.496%), White Herb (4.412%). The best choice depends on your team composition and strategy."
+        "answer": "The most popular items for Dragonite are Dragoninite (64.211%), Lum Berry (14.526%), White Herb (4.421%). The best choice depends on your team composition and strategy."
       },
       {
         "question": "What ability is best for Dragonite?",
-        "answer": "The most common abilities for Dragonite are Multiscale (72.059%) and Inner Focus (27.941%). The choice often depends on your team's strategy."
+        "answer": "The most common abilities for Dragonite are Multiscale (72.211%) and Inner Focus (27.789%). The choice often depends on your team's strategy."
       },
       {
         "question": "Is Dragonite good in Pokemon Champions VGC 2026 Tournament?",
@@ -55548,7 +55548,7 @@
       }
     ],
     "raw_count": 429,
-    "percent": "12.15",
+    "percent": "12.16",
     "ranking": "15",
     "types": [
       "ghost",
@@ -59503,7 +59503,7 @@
       }
     ],
     "raw_count": 418,
-    "percent": "11.84",
+    "percent": "11.85",
     "ranking": "16",
     "types": [
       "rock",
@@ -67292,7 +67292,7 @@
       }
     ],
     "raw_count": 387,
-    "percent": "10.96",
+    "percent": "10.97",
     "ranking": "18",
     "types": [
       "grass",
@@ -71304,7 +71304,7 @@
       }
     ],
     "raw_count": 362,
-    "percent": "10.25",
+    "percent": "10.26",
     "ranking": "19",
     "types": [
       "normal"
@@ -79188,7 +79188,7 @@
       }
     ],
     "raw_count": 305,
-    "percent": "8.64",
+    "percent": "8.65",
     "ranking": "21",
     "types": [
       "water"
@@ -82067,7 +82067,7 @@
       }
     ],
     "raw_count": 280,
-    "percent": "7.93",
+    "percent": "7.94",
     "ranking": "22",
     "types": [
       "ground",
@@ -98876,224 +98876,224 @@
     "abilities": [
       {
         "ability": "Liquid Voice",
-        "percent": "96.117"
+        "percent": "96.098"
       },
       {
         "ability": "Torrent",
-        "percent": "3.883"
+        "percent": "3.902"
       }
     ],
     "items": [
       {
         "item": "Leftovers",
         "item_us": "Leftovers",
-        "percent": "38.835"
+        "percent": "39.024"
       },
       {
         "item": "Mystic Water",
         "item_us": "Mystic_Water",
-        "percent": "28.641"
+        "percent": "28.780"
       },
       {
         "item": "Sitrus Berry",
         "item_us": "Sitrus_Berry",
-        "percent": "16.019"
+        "percent": "15.610"
       },
       {
         "item": "Fairy Feather",
         "item_us": "Fairy_Feather",
-        "percent": "6.311"
+        "percent": "6.341"
       },
       {
         "item": "Quick Claw",
         "item_us": "Quick_Claw",
-        "percent": "3.398"
+        "percent": "3.415"
       },
       {
         "item": "Lum Berry",
         "item_us": "Lum_Berry",
-        "percent": "1.942"
+        "percent": "1.951"
       },
       {
         "item": "Kebia Berry",
         "item_us": "Kebia_Berry",
-        "percent": "1.456"
+        "percent": "1.463"
       },
       {
         "item": "Rindo Berry",
         "item_us": "Rindo_Berry",
-        "percent": "0.971"
+        "percent": "0.976"
       },
       {
         "item": "Safety Goggles",
         "item_us": "Safety_Goggles",
-        "percent": "0.485"
+        "percent": "0.488"
       },
       {
         "item": "Choice Scarf",
         "item_us": "Choice_Scarf",
-        "percent": "0.485"
+        "percent": "0.488"
       },
       {
         "item": "Focus Sash",
         "item_us": "Focus_Sash",
-        "percent": "0.485"
+        "percent": "0.488"
       },
       {
         "item": "Throat Spray",
         "item_us": "Throat_Spray",
-        "percent": "0.485"
+        "percent": "0.488"
       },
       {
         "item": "Shell Bell",
         "item_us": "Shell_Bell",
-        "percent": "0.485"
+        "percent": "0.488"
       }
     ],
     "moves": [
       {
         "move": "Hyper Voice",
-        "percent": "97.087",
+        "percent": "97.073",
         "type": "normal"
       },
       {
         "move": "Protect",
-        "percent": "95.146",
+        "percent": "95.122",
         "type": "normal"
       },
       {
         "move": "Moonblast",
-        "percent": "94.175",
+        "percent": "94.146",
         "type": "fairy"
       },
       {
         "move": "Calm Mind",
-        "percent": "40.777",
+        "percent": "40.976",
         "type": "psychic"
       },
       {
         "move": "Dazzling Gleam",
-        "percent": "10.680",
+        "percent": "10.732",
         "type": "fairy"
       },
       {
-        "move": "Haze",
-        "percent": "9.709",
+        "move": "Icy Wind",
+        "percent": "9.268",
         "type": "ice"
       },
       {
-        "move": "Icy Wind",
-        "percent": "9.223",
+        "move": "Haze",
+        "percent": "9.268",
         "type": "ice"
       },
       {
         "move": "Ice Beam",
-        "percent": "7.282",
+        "percent": "7.317",
         "type": "ice"
       },
       {
         "move": "Weather Ball",
-        "percent": "6.796",
+        "percent": "6.829",
         "type": "normal"
       },
       {
         "move": "Rain Dance",
-        "percent": "2.913",
+        "percent": "2.927",
         "type": "water"
       },
       {
         "move": "Aqua Jet",
-        "percent": "2.427",
+        "percent": "2.439",
         "type": "water"
       },
       {
         "move": "Hydro Pump",
-        "percent": "2.427",
+        "percent": "2.439",
         "type": "water"
       },
       {
         "move": "Psychic",
-        "percent": "2.427",
+        "percent": "2.439",
         "type": "psychic"
       },
       {
         "move": "Substitute",
-        "percent": "2.427",
+        "percent": "2.439",
         "type": "normal"
       },
       {
         "move": "Sparkling Aria",
-        "percent": "1.942",
+        "percent": "1.951",
         "type": "water"
       },
       {
         "move": "Draining Kiss",
-        "percent": "1.942",
+        "percent": "1.951",
         "type": "fairy"
       },
       {
         "move": "Perish Song",
-        "percent": "1.942",
+        "percent": "1.951",
         "type": "normal"
       },
       {
         "move": "Blizzard",
-        "percent": "1.456",
+        "percent": "1.463",
         "type": "ice"
       },
       {
         "move": "Energy Ball",
-        "percent": "1.456",
+        "percent": "1.463",
         "type": "grass"
       },
       {
         "move": "Encore",
-        "percent": "1.456",
+        "percent": "1.463",
         "type": "normal"
       },
       {
         "move": "Alluring Voice",
-        "percent": "0.971",
+        "percent": "0.976",
         "type": "fairy"
       },
       {
         "move": "Life Dew",
-        "percent": "0.971",
+        "percent": "0.976",
         "type": "water"
       },
       {
         "move": "Helping Hand",
-        "percent": "0.971",
+        "percent": "0.976",
         "type": "normal"
       },
       {
         "move": "Flip Turn",
-        "percent": "0.971",
+        "percent": "0.976",
         "type": "water"
       },
       {
         "move": "Shadow Ball",
-        "percent": "0.485",
+        "percent": "0.488",
         "type": "ghost"
       },
       {
         "move": "Reflect",
-        "percent": "0.485",
+        "percent": "0.488",
         "type": "psychic"
       },
       {
         "move": "Hyper Beam",
-        "percent": "0.485",
+        "percent": "0.488",
         "type": "normal"
       },
       {
         "move": "Life Deal",
-        "percent": "0.485",
+        "percent": "0.488",
         "type": "normal"
       },
       {
         "move": "wheather ball",
-        "percent": "0.485",
+        "percent": "0.488",
         "type": "normal"
       }
     ],
@@ -99101,7 +99101,7 @@
     "team": [
       {
         "pokemon": "Sneasler",
-        "percent": "49.029",
+        "percent": "49.268",
         "types": [
           "fighting",
           "poison"
@@ -99113,7 +99113,7 @@
       },
       {
         "pokemon": "Incineroar",
-        "percent": "48.544",
+        "percent": "48.293",
         "types": [
           "fire",
           "dark"
@@ -99123,7 +99123,7 @@
       },
       {
         "pokemon": "Kingambit",
-        "percent": "39.806",
+        "percent": "40.000",
         "types": [
           "dark",
           "steel"
@@ -99135,7 +99135,7 @@
       },
       {
         "pokemon": "Garchomp",
-        "percent": "29.612",
+        "percent": "29.756",
         "types": [
           "dragon",
           "ground"
@@ -99145,7 +99145,7 @@
       },
       {
         "pokemon": "Froslass",
-        "percent": "29.612",
+        "percent": "29.756",
         "types": [
           "ice",
           "ghost"
@@ -99155,7 +99155,7 @@
       },
       {
         "pokemon": "Sinistcha",
-        "percent": "28.641",
+        "percent": "28.780",
         "types": [
           "grass",
           "ghost"
@@ -99167,7 +99167,7 @@
       },
       {
         "pokemon": "Tyranitar",
-        "percent": "16.505",
+        "percent": "16.585",
         "types": [
           "rock",
           "dark"
@@ -99177,7 +99177,7 @@
       },
       {
         "pokemon": "Dragonite",
-        "percent": "16.019",
+        "percent": "15.610",
         "types": [
           "dragon",
           "flying"
@@ -99187,7 +99187,7 @@
       },
       {
         "pokemon": "Farigiraf",
-        "percent": "14.078",
+        "percent": "14.146",
         "types": [
           "normal",
           "psychic"
@@ -99199,7 +99199,7 @@
       },
       {
         "pokemon": "Talonflame",
-        "percent": "12.621",
+        "percent": "12.683",
         "types": [
           "fire",
           "flying"
@@ -99209,7 +99209,7 @@
       },
       {
         "pokemon": "Whimsicott",
-        "percent": "12.136",
+        "percent": "12.195",
         "types": [
           "grass",
           "fairy"
@@ -99219,7 +99219,7 @@
       },
       {
         "pokemon": "Scovillain",
-        "percent": "11.165",
+        "percent": "11.220",
         "types": [
           "grass",
           "fire"
@@ -99230,8 +99230,8 @@
         "l": "en"
       }
     ],
-    "raw_count": 206,
-    "percent": "5.84",
+    "raw_count": 205,
+    "percent": "5.81",
     "ranking": "28",
     "types": [
       "water",
@@ -101050,19 +101050,19 @@
     "faq": [
       {
         "question": "What are the best moves for Primarina in Pokemon Champions VGC 2026 Tournament?",
-        "answer": "The top moves for Primarina in Pokemon Champions VGC 2026 Tournament are Hyper Voice (97.087%), Protect (95.146%), Moonblast (94.175%), Calm Mind (40.777%). These represent the highest usage percentages on the competitive ladder."
+        "answer": "The top moves for Primarina in Pokemon Champions VGC 2026 Tournament are Hyper Voice (97.073%), Protect (95.122%), Moonblast (94.146%), Calm Mind (40.976%). These represent the highest usage percentages on the competitive ladder."
       },
       {
         "question": "What are the best teammates for Primarina?",
-        "answer": "Primarina synergizes well with Sneasler (49.029%), Incineroar (48.544%), Kingambit (39.806%), Garchomp (29.612%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
+        "answer": "Primarina synergizes well with Sneasler (49.268%), Incineroar (48.293%), Kingambit (40.000%), Garchomp (29.756%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
       },
       {
         "question": "What item should I use on Primarina?",
-        "answer": "The most popular items for Primarina are Leftovers (38.835%), Mystic Water (28.641%), Sitrus Berry (16.019%). The best choice depends on your team composition and strategy."
+        "answer": "The most popular items for Primarina are Leftovers (39.024%), Mystic Water (28.780%), Sitrus Berry (15.610%). The best choice depends on your team composition and strategy."
       },
       {
         "question": "What ability is best for Primarina?",
-        "answer": "The most common abilities for Primarina are Liquid Voice (96.117%) and Torrent (3.883%). The choice often depends on your team's strategy."
+        "answer": "The most common abilities for Primarina are Liquid Voice (96.098%) and Torrent (3.902%). The choice often depends on your team's strategy."
       },
       {
         "question": "Is Primarina good in Pokemon Champions VGC 2026 Tournament?",
@@ -101341,7 +101341,7 @@
       }
     ],
     "raw_count": 196,
-    "percent": "5.55",
+    "percent": "5.56",
     "ranking": "29",
     "types": [
       "water"
@@ -103826,7 +103826,7 @@
       }
     ],
     "raw_count": 172,
-    "percent": "4.87",
+    "percent": "4.88",
     "ranking": "30",
     "types": [
       "water"
@@ -109720,7 +109720,7 @@
       }
     ],
     "raw_count": 154,
-    "percent": "4.36",
+    "percent": "4.37",
     "ranking": "33",
     "types": [
       "steel",
@@ -113674,7 +113674,7 @@
       }
     ],
     "raw_count": 147,
-    "percent": "4.16",
+    "percent": "4.17",
     "ranking": "35",
     "types": [
       "rock",
@@ -126766,7 +126766,7 @@
       }
     ],
     "raw_count": 87,
-    "percent": "2.46",
+    "percent": "2.47",
     "ranking": "44",
     "types": [
       "bug",
@@ -128987,7 +128987,7 @@
       }
     ],
     "raw_count": 81,
-    "percent": "2.29",
+    "percent": "2.30",
     "ranking": "46",
     "types": [
       "fire",
@@ -132723,7 +132723,7 @@
       }
     ],
     "raw_count": 63,
-    "percent": "1.78",
+    "percent": "1.79",
     "ranking": "50",
     "types": [
       "steel",
@@ -135135,7 +135135,7 @@
       }
     ],
     "raw_count": 51,
-    "percent": "1.44",
+    "percent": "1.45",
     "ranking": "54",
     "types": [
       "fire"
@@ -143988,7 +143988,7 @@
       }
     ],
     "raw_count": 27,
-    "percent": "0.76",
+    "percent": "0.77",
     "ranking": "71",
     "types": [
       "electric"
@@ -144507,7 +144507,7 @@
       }
     ],
     "raw_count": 27,
-    "percent": "0.76",
+    "percent": "0.77",
     "ranking": "72",
     "types": [
       "water",
@@ -149448,7 +149448,7 @@
       }
     ],
     "raw_count": 21,
-    "percent": "0.59",
+    "percent": "0.60",
     "ranking": "85",
     "types": [
       "steel",
@@ -152492,7 +152492,7 @@
       }
     ],
     "raw_count": 15,
-    "percent": "0.42",
+    "percent": "0.43",
     "ranking": "95",
     "types": [
       "electric",
