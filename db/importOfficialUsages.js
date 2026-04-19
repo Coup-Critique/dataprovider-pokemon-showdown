@@ -3,9 +3,36 @@ const { LAST_GEN, folderUsage, withoutSpaces } = loadResource(LIBS, "util");
 const { knex } = require("./db");
 const fs = require("fs");
 const tiers = loadResource("JSON", "tiers.json");
+const pokemonsJson = loadResource("JSON", "pokemons.json");
+const learnsJson = loadResource("JSON", "learns.json");
 
 const gen = LAST_GEN;
 let isChampions = false;
+
+const pokemonsByNameGen = new Map();
+for (const p of pokemonsJson) {
+  pokemonsByNameGen.set(`${p.name}|${p.gen}`, p);
+}
+
+const learnsByNameGen = new Map();
+for (const l of learnsJson) {
+  learnsByNameGen.set(`${l.pokemon}|${l.gen}`, l);
+}
+
+const getPokemonAbilities = (pokemonName, gen) => {
+  const p = pokemonsByNameGen.get(`${pokemonName}|${gen}`);
+  if (!p) return [];
+  return [p.ability_1, p.ability_2, p.ability_hidden].filter(Boolean);
+};
+
+const getPokemonMoves = (pokemonName, gen) => {
+  const l = learnsByNameGen.get(`${pokemonName}|${gen}`);
+  if (!l) return { moves: [], championsLoss: [] };
+  return {
+    moves: l.moves ?? [],
+    championsLoss: l.championsLoss ?? [],
+  };
+};
 
 const getDataFilePath = (tierUsageName) => {
   return `${folderUsage}/officials/${tierUsageName}.json`;
@@ -70,7 +97,9 @@ const getNatureByName = async (name) => {
 };
 
 const importAbilities = async (gen, usageData, tierUsageId) => {
+  const validAbilities = getPokemonAbilities(usageData.name, gen);
   for (const abilityData of usageData.abilities || []) {
+    if (!validAbilities.includes(abilityData.ability)) continue;
     const ability = await getEntityByUsageName(
       "ability",
       gen,
@@ -102,7 +131,13 @@ const importItems = async (gen, usageData, tierUsageId) => {
 };
 
 const importMoves = async (gen, usageData, tierUsageId) => {
+  const { moves: validMoves, championsLoss } = getPokemonMoves(
+    usageData.name,
+    gen
+  );
   for (const moveData of usageData.moves || []) {
+    if (!validMoves.includes(moveData.move)) continue;
+    if (isChampions && championsLoss.includes(moveData.move)) continue;
     const move = await getEntityByUsageName("move", gen, moveData.move);
     if (!move) continue;
     const percent = parseFloat(moveData.percent);
