@@ -43,51 +43,69 @@ progressBar.start(learns.length, 0);
         }
         let INSERTED = 0;
         let moveIds = [];
-        for (const move of object.moves) {
-          let moveRow = await knex("move")
-            .where({
-              name: move,
-              gen: object.gen,
-            })
-            .first(["id"]);
 
+        const findMoveRow = async (move, gen) => {
+          let moveRow = await knex("move")
+            .where({ name: move, gen })
+            .first(["id"]);
           if (!moveRow) {
             moveRow = await knex("move")
-              .where({
-                usageName: withoutSpaces(move),
-                gen: object.gen,
-              })
+              .where({ usageName: withoutSpaces(move), gen })
               .first(["id"]);
-            if (!moveRow) {
-              continue;
-            }
           }
+          return moveRow;
+        };
 
-          moveIds.push(moveRow.id);
-
-          const championsLoss = object.championsLoss?.includes(move) ?? false;
-          const championsAdd = object.championsAdd?.includes(move) ?? false;
-
+        const upsertPokemonMove = async (
+          pokemonId,
+          moveId,
+          gen,
+          championsAdd = false,
+          championsLoss = false
+        ) => {
           try {
             await knex("pokemonMove").insert({
-              pokemonId: pokemonRow.id,
-              moveId: moveRow.id,
-              gen: object.gen,
-              championsLoss,
+              pokemonId,
+              moveId,
+              gen,
               championsAdd,
+              championsLoss,
             });
-            INSERTED++;
+            return true;
           } catch (e) {
             if (e.code === "ER_DUP_ENTRY") {
-              await knex("pokemonMove")
-                .where({
-                  pokemonId: pokemonRow.id,
-                  moveId: moveRow.id,
-                  gen: object.gen,
-                })
-                .update({ championsLoss, championsAdd });
-            } else throw new Error(e);
+              return false;
+            }
+            throw new Error(e);
           }
+        };
+
+        const processMoves = async (moves, championsAdd = false) => {
+          for (const move of moves) {
+            const moveRow = await findMoveRow(move, object.gen);
+            if (!moveRow) continue;
+            if (!moveIds.includes(moveRow.id)) moveIds.push(moveRow.id);
+
+            const championsLoss = championsAdd
+              ? false
+              : object.championsLoss?.includes(move) ?? false;
+
+            if (
+              await upsertPokemonMove(
+                pokemonRow.id,
+                moveRow.id,
+                object.gen,
+                championsAdd,
+                championsLoss
+              )
+            )
+              INSERTED++;
+          }
+        };
+
+        await processMoves(object.moves);
+        if (object.championsAdd) {
+          await processMoves(object.championsAdd, true);
         }
 
         // Delete invalid moves
