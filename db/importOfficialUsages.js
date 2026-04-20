@@ -29,7 +29,7 @@ const getPokemonMoves = (pokemonName, gen) => {
   const l = learnsByNameGen.get(`${pokemonName}|${gen}`);
   if (!l) return { moves: [], championsLoss: [] };
   return {
-    moves: l.moves ?? [],
+    moves: [...(l.moves ?? []), ...(l.championsAdd ?? [])],
     championsLoss: l.championsLoss ?? [],
   };
 };
