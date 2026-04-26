@@ -184,9 +184,7 @@ exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
       lead: { usage: 0, raw: 0, rawp: 0 },
     };
 
-    let sections = pokeStr.split(
-      " +----------------------------------------+ "
-    );
+    let sections = pokeStr.split(/ *\+-+\+ */);
     if (!sections[0]) {
       sections.shift();
     }
