@@ -161,66 +161,6 @@ exports.parsePokemonLeadsInfo = function (str) {
   return leads;
 };
 
-exports.parseChaosJson = function (chaosData, leadsInfo, done) {
-  const data = chaosData.data || {};
-
-  const toArr = (obj) =>
-    Object.entries(obj || {})
-      .map(([name, count]) => ({ name, usage: count / 1000 }))
-      .filter(
-        ({ name, usage }) => name !== "Other" && name !== "Nothing" && usage > 0
-      );
-
-  for (const [pokemonName, pokeData] of Object.entries(data)) {
-    const id = toId(pokemonName);
-    if (!id) continue;
-
-    const spreads = Object.entries(pokeData["Spreads"] || {})
-      .filter(([nature]) => nature !== "Other")
-      .map(([spread, count]) => {
-        const [nature, evStr = ""] = spread.split(":");
-        const evs = evStr.split("/");
-        return {
-          nature,
-          evs: {
-            hp: parseInt(evs[0]) || 0,
-            atk: parseInt(evs[1]) || 0,
-            def: parseInt(evs[2]) || 0,
-            spa: parseInt(evs[3]) || 0,
-            spd: parseInt(evs[4]) || 0,
-            spe: parseInt(evs[5]) || 0,
-          },
-          usage: count / 1000,
-        };
-      });
-
-    const counters = Object.entries(pokeData["Checks and Counters"] || {})
-      .filter(([name]) => toId(name))
-      .map(([name, arr]) => ({
-        name,
-        eff: (arr[0] || 0) / 1000,
-        ko: arr[1] || 0,
-        sw: arr[2] || 0,
-      }));
-
-    done({
-      id,
-      usage: (pokeData["usage"] || 0) * 100,
-      raw: pokeData["Raw count"] || 0,
-      avg: pokeData["Avg. weight"] || 0,
-      vc: pokeData["Viability Ceiling"] || pokeData["viability ceiling"] || 0,
-      abilities: toArr(pokeData["Abilities"]),
-      moves: toArr(pokeData["Moves"]),
-      items: toArr(pokeData["Items"]),
-      teratypes: toArr(pokeData["Tera Types"] || pokeData["Teras"] || {}),
-      spreads,
-      teammates: toArr(pokeData["Teammates"]),
-      counters,
-      lead: leadsInfo[id] || { usage: 0, raw: 0, rawp: 0 },
-    });
-  }
-};
-
 exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
   let pokes = str.split(
     " +----------------------------------------+ \n +----------------------------------------+ \n"
