@@ -1,17 +1,43 @@
 const { loadResource, LIBS } = require("../libs/fileLoader");
-const { LAST_GEN, folderUsage, range, withoutSpaces } = loadResource(
-  LIBS,
-  "util"
-);
+const { LAST_GEN, range, withoutSpaces } = loadResource(LIBS, "util");
 const { knex } = require("./db");
 const fs = require("fs");
+const path = require("path");
 
 const LADDER_REF = "1630";
 
-const getDataFilePath = (gen, tierUsageName, ladderRef = LADDER_REF) => {
-  return `${folderUsage}/formats/gen${
+const availableMonths = fs
+  .readdirSync(path.resolve("usages/months"))
+  .sort()
+  .reverse();
+
+const getDataFilePath = (
+  monthFolder,
+  gen,
+  tierUsageName,
+  ladderRef = LADDER_REF
+) => {
+  return `usages/months/${monthFolder}/formats/gen${
     gen + tierUsageName
   }/${ladderRef}/pokedata.json`;
+};
+
+const findDataFilePath = (gen, tierUsageName, ladderRef = LADDER_REF) => {
+  for (const month of availableMonths) {
+    const filePath = getDataFilePath(month, gen, tierUsageName, ladderRef);
+    if (fs.existsSync(filePath)) {
+      const content = fs.readFileSync(filePath).toString();
+      if (content.length > 2) {
+        if (month !== availableMonths[0]) {
+          console.log(
+            `Fallback: gen${gen}${tierUsageName} not found in ${availableMonths[0]}, using ${month}`
+          );
+        }
+        return filePath;
+      }
+    }
+  }
+  return null;
 };
 
 const getTiersByGen = async (gen) => {
@@ -150,15 +176,18 @@ const importTeammates = async (gen, usageData, tierUsageId) => {
 
 const processPokemonsTierUsages = async (gen, tiersRows) => {
   let savedUsages = {};
+  const resolvedPaths = {};
   for (const playableTier of tiersRows) {
     const { usageName: tierUsageName, id: tierId, ladderRef } = playableTier;
 
-    const dataFilePath = getDataFilePath(gen, tierUsageName, ladderRef);
-    console.log(`Loading ${dataFilePath}...`);
-    if (!fs.existsSync(dataFilePath)) {
-      console.log(`${dataFilePath} doesn't exist : skipping...`);
+    const dataFilePath = findDataFilePath(gen, tierUsageName, ladderRef);
+    if (!dataFilePath) {
+      console.log(
+        `No usage data found for gen${gen}${tierUsageName} in any month: skipping...`
+      );
       continue;
     }
+    resolvedPaths[tierId] = dataFilePath;
     console.log(`Process ${dataFilePath}...`);
 
     const usageDatas = JSON.parse(fs.readFileSync(dataFilePath));
@@ -187,22 +216,24 @@ const processPokemonsTierUsages = async (gen, tiersRows) => {
       savedUsages[keyTierUsage] = tierUsageId;
     }
   }
-  return savedUsages;
+  return { savedUsages, resolvedPaths };
 };
 
-const processPokemonLinksUsages = async (gen, tiersRows, savedUsages) => {
+const processPokemonLinksUsages = async (
+  gen,
+  tiersRows,
+  savedUsages,
+  resolvedPaths
+) => {
   console.log("Inserting pokemon checks and teammates...");
   for (const playableTier of tiersRows) {
-    const { usageName: tierUsageName, id: tierId, ladderRef } = playableTier;
+    const { id: tierId } = playableTier;
 
-    const dataFilePath = getDataFilePath(gen, tierUsageName, ladderRef);
-    console.log(`Loading ${dataFilePath} for pokemon checks and teammates...`);
-    if (!fs.existsSync(dataFilePath)) {
-      console.log(
-        `${dataFilePath} doesn't exist for pokemon checks and teammates : skipping...`
-      );
+    const dataFilePath = resolvedPaths[tierId];
+    if (!dataFilePath) {
       continue;
     }
+    console.log(`Loading ${dataFilePath} for pokemon checks and teammates...`);
 
     const pokedata = JSON.parse(fs.readFileSync(dataFilePath));
     for (const [pokemonUsageName, usageData] of Object.entries(pokedata)) {
@@ -232,11 +263,14 @@ const importUsagesForGen = async (gen) => {
   // Clear usages
   await clearTierUsages(gen, tiersRows);
 
-  const savedUsages = await processPokemonsTierUsages(gen, tiersRows);
+  const { savedUsages, resolvedPaths } = await processPokemonsTierUsages(
+    gen,
+    tiersRows
+  );
 
   // Checks and teammates must be inserted after
   // Because these tables ask tier_usage.id.
-  await processPokemonLinksUsages(gen, tiersRows, savedUsages);
+  await processPokemonLinksUsages(gen, tiersRows, savedUsages, resolvedPaths);
 };
 
 (async () => {
