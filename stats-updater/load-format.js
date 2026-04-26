@@ -94,14 +94,6 @@ class FormatLoader {
         function (ranks, leads, moveset, err) {
           if (ranks) {
             ranks = Parser.parsePokemonRanking(ranks);
-            FileSystem.writeFileSync(
-              Path.resolve(
-                this.path,
-                "" + this.cuts[this.curr],
-                "ranking.json"
-              ),
-              JSON.stringify(ranks)
-            );
           }
 
           if (err) {
