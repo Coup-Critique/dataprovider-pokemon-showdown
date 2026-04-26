@@ -1,6 +1,7 @@
 /* File Parsing */
 
 "use strict";
+const { console } = require("inspector");
 const Path = require("path");
 const rejectedNames = require(Path.resolve(
   __dirname,
@@ -162,9 +163,7 @@ exports.parsePokemonLeadsInfo = function (str) {
 };
 
 exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
-  let pokes = str.split(
-    " +----------------------------------------+ \n +----------------------------------------+ \n"
-  );
+  let pokes = str.split(/ *\+-+\+ *\n *\+-+\+ *\n/);
   const { pokemon: pokemonRank } = ranking;
   let index = 0;
   for (let pokeStr of pokes) {
