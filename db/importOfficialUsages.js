@@ -5,6 +5,7 @@ const fs = require("fs");
 const tiers = loadResource("JSON", "tiers.json");
 const pokemonsJson = loadResource("JSON", "pokemons.json");
 const learnsJson = loadResource("JSON", "learns.json");
+const itemsJson = loadResource("JSON", "items.json");
 
 const gen = LAST_GEN;
 let isChampions = false;
@@ -18,6 +19,23 @@ const learnsByNameGen = new Map();
 for (const l of learnsJson) {
   learnsByNameGen.set(`${l.pokemon}|${l.gen}`, l);
 }
+
+const restrictedItems = new Set(
+  itemsJson
+    .filter((item) => item.itemUserId || item.megaId)
+    .map((item) => `${item.name}|${item.gen}`)
+);
+
+const getPokemonValidItems = (pokemonName, gen) => {
+  return itemsJson
+    .filter(
+      (item) =>
+        item.gen == gen &&
+        (item.itemUserId || item.megaId) &&
+        item.itemUserId === pokemonName
+    )
+    .map((item) => item.name);
+};
 
 const getPokemonAbilities = (pokemonName, gen) => {
   const p = pokemonsByNameGen.get(`${pokemonName}|${gen}`);
@@ -117,9 +135,15 @@ const importAbilities = async (gen, usageData, tierUsageId) => {
 };
 
 const importItems = async (gen, usageData, tierUsageId) => {
+  const validItems = getPokemonValidItems(usageData.name, gen);
   for (const itemData of usageData.items || []) {
     const item = await getEntityByUsageName("item", gen, itemData.item);
     if (!item) continue;
+    if (
+      restrictedItems.has(`${item.name}|${gen}`) &&
+      !validItems.includes(item.name)
+    )
+      continue;
     const percent = parseFloat(itemData.percent);
     if (isNaN(percent) || percent < 1) continue;
     await knex("usage_item").insert({
