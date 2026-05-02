@@ -91,7 +91,7 @@ class FormatLoader {
       );
       this.loadCutline(
         this.cuts[this.curr],
-        function (ranks, leads, moveset, err) {
+        function (ranks, moveset, err) {
           if (ranks) {
             ranks = Parser.parsePokemonRanking(ranks);
           }
@@ -121,15 +121,9 @@ class FormatLoader {
               this.cuts[this.curr]
           );
 
-          if (leads !== null) {
-            leads = Parser.parsePokemonLeadsInfo(leads);
-          } else {
-            leads = {};
-          }
-
           let pokeData = {};
 
-          Parser.parsePokemonUsageData(moveset, ranks, leads, (pokemon) => {
+          Parser.parsePokemonUsageData(moveset, ranks, (pokemon) => {
             let poke = pokemon.id;
             delete pokemon.id;
             pokeData[poke] = pokemon;
@@ -161,24 +155,13 @@ class FormatLoader {
         wget(
           Smogon_Stats_URL +
             this.month +
-            "/leads/" +
+            "/moveset/" +
             this.format +
             "-" +
             cutline +
             ".txt",
-          (data2, err2) => {
-            wget(
-              Smogon_Stats_URL +
-                this.month +
-                "/moveset/" +
-                this.format +
-                "-" +
-                cutline +
-                ".txt",
-              (data3, err3) => {
-                return callback(data1, data2, data3, err1 || err2 || err3);
-              }
-            );
+          (data3, err3) => {
+            return callback(data1, data3, err1 || err3);
           }
         );
       }

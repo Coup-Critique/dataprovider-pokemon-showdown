@@ -135,34 +135,7 @@ exports.parsePokemonRanking = function (str) {
   return ranking;
 };
 
-exports.parsePokemonLeadsInfo = function (str) {
-  let leads = {};
-
-  let lines = str.split("\n");
-  for (let line of lines) {
-    line = line.trim();
-    if (line.charAt(0) === "+") continue;
-    if (line.charAt(0) === "|") {
-      let spl = line.split("|");
-      let rank = parseInt((spl[1] || "").trim());
-      if (!isNaN(rank) && rank > 0) {
-        let poke = toId(spl[2]);
-        let usage = parsePercent(spl[3]);
-        let raw = parseInt((spl[4] || "").trim());
-        let raw_p = parsePercent(spl[5]);
-        leads[poke] = {
-          usage: usage,
-          raw: raw,
-          rawp: raw_p,
-        };
-      }
-    }
-  }
-
-  return leads;
-};
-
-exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
+exports.parsePokemonUsageData = function (str, ranking, done) {
   let pokes = str.split(/ *\+-+\+ *\n *\+-+\+ *\n/);
   const { pokemon: pokemonRank } = ranking;
   let index = 0;
@@ -180,7 +153,6 @@ exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
       spreads: [],
       teammates: [],
       counters: [],
-      lead: { usage: 0, raw: 0, rawp: 0 },
     };
 
     let sections = pokeStr.split(/ *\+-+\+ */);
@@ -322,10 +294,6 @@ exports.parsePokemonUsageData = function (str, ranking, leadsInfo, done) {
           }
         }
       }
-    }
-
-    if (leadsInfo[pokemon.id]) {
-      pokemon.lead = leadsInfo[pokemon.id];
     }
 
     done(pokemon);
