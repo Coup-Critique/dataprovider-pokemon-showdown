@@ -1,8 +1,10 @@
 const { loadResource, LIBS, JSON } = require("../libs/fileLoader");
 const { knex } = require("./db");
-const { withoutSpaces } = loadResource(LIBS, "util");
+const { withoutSpaces, LAST_GEN } = loadResource(LIBS, "util");
 const bluebird = require("bluebird");
-const learns = loadResource(JSON, "learns.json");
+const learns = loadResource(JSON, "learns.json").filter(
+  (l) => l.gen == LAST_GEN
+);
 const cliProgress = require("cli-progress");
 const progressBar = new cliProgress.SingleBar(
   {
