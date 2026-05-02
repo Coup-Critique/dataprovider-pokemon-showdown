@@ -188,4 +188,5 @@
   gen9pokebilitiesbh: "[Gen 9] Pokebilities BH",
   gen9ccapm2025randombattle: "[Gen 9] CCAPM2025 Random Battle",
   gen9ccapm2025: "[Gen 9] CCAPM2025",
+  gen9ultramixandmega: "[Gen 9] Ultra Mix and Mega",
 };
