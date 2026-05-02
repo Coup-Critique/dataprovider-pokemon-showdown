@@ -8,10 +8,11 @@ const fs = require("fs");
 
 const LADDER_REF = "1630";
 
-const getDataFilePath = (gen, tierUsageName, ladderRef = LADDER_REF) => {
-  return `${folderUsage}/formats/gen${
-    gen + tierUsageName
-  }/${ladderRef}/pokedata.json`;
+const getDataFilePath = (gen, tierUsageName, ladderRef) => {
+  // LADDER_REF not as default param because it can be null
+  return `${folderUsage}/formats/gen${gen + tierUsageName}/${
+    ladderRef || LADDER_REF
+  }/pokedata.json`;
 };
 
 const getTiersByGen = async (gen) => {
