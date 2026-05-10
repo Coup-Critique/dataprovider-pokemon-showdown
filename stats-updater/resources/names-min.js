@@ -191,5 +191,6 @@
   gen9ultramixandmega: "[Gen 9] Ultra Mix and Mega",
   gen9megainvasionrandombattle: "[Gen 9] Mega Invasion Random Battle",
   gen9woomodrandombattle: "[Gen 9] woomod Random Battle",
-  gen9woomod: "[Gen 9] Woomod",
+  gen9woomod: "[Gen 9] woomod",
+  gen9championsuu: "[Gen 9 Champions] UU",
 };
