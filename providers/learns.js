@@ -31,7 +31,7 @@ const getMovesFromLearnset = (dex, pokemon, genFilter) => {
   for (const entry of fullLearnset) {
     if (!entry.learnset) continue;
     for (const [moveId, methods] of Object.entries(entry.learnset)) {
-      if (!genFilter || methods.some((m) => parseInt(m[0]) <= genFilter)) {
+      if (!genFilter || methods.some((m) => parseInt(m[0]) === genFilter)) {
         moveIds.add(moveId);
       }
     }
