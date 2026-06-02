@@ -193,4 +193,7 @@
   gen9woomodrandombattle: "[Gen 9] woomod Random Battle",
   gen9woomod: "[Gen 9] woomod",
   gen9championsuu: "[Gen 9 Champions] UU",
+  gen9sketchmons: "[Gen 9] Sketchmons",
+  gen9champions4v4doublesuu: "[Gen 9 Champions] 4v4 Doubles UU",
+  gen8nationaldexubers: "[Gen 8] National Dex Ubers",
 };
