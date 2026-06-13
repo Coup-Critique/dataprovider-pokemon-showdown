@@ -196,4 +196,5 @@
   gen9sketchmons: "[Gen 9] Sketchmons",
   gen9champions4v4doublesuu: "[Gen 9 Champions] 4v4 Doubles UU",
   gen8nationaldexubers: "[Gen 8] National Dex Ubers",
+  gen9championsrandombattle: "[Gen 9 Champions] Random Battle",
 };
