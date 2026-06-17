@@ -219,14 +219,14 @@
       "spd": 75,
       "spe": 78
     },
-    "winRate": 0.5437236347052787,
-    "winrate": 0.5437236347052787,
-    "winPercent": "54.372",
-    "Win %": "54.372%",
-    "wins": 14302,
-    "losses": 12001,
+    "winRate": 0.5438461538461539,
+    "winrate": 0.5438461538461539,
+    "winPercent": "54.385",
+    "Win %": "54.385%",
+    "wins": 14135,
+    "losses": 11855,
     "ties": 10,
-    "games": 26313,
+    "games": 26000,
     "display_name": null,
     "name_trans": "Basculegion",
     "l": "en",
@@ -4256,7 +4256,7 @@
       },
       {
         "question": "What is Basculegion's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Basculegion has a 54.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 14302 wins and 12001 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Basculegion has a 54.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 14135 wins and 11855 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Basculegion good in Pokemon Champions VGC 2026 Tournaments?",
@@ -4526,14 +4526,14 @@
       "spd": 85,
       "spe": 102
     },
-    "winRate": 0.540523823742695,
-    "winrate": 0.540523823742695,
-    "winPercent": "54.052",
-    "Win %": "54.052%",
-    "wins": 12666,
-    "losses": 10766,
+    "winRate": 0.5397137668626772,
+    "winrate": 0.5397137668626772,
+    "winPercent": "53.971",
+    "Win %": "53.971%",
+    "wins": 12477,
+    "losses": 10640,
     "ties": 11,
-    "games": 23443,
+    "games": 23128,
     "display_name": null,
     "name_trans": "Garchomp",
     "l": "en",
@@ -8563,11 +8563,11 @@
       },
       {
         "question": "What is Garchomp's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Garchomp has a 54.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 12666 wins and 10766 losses with 11 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Garchomp has a 54% winrate in Pokemon Champions VGC 2026 Tournaments, based on 12477 wins and 10640 losses with 11 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Garchomp good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Garchomp is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Garchomp is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -8781,14 +8781,14 @@
       "spd": 85,
       "spe": 50
     },
-    "winRate": 0.5562104081469008,
-    "winrate": 0.5562104081469008,
-    "winPercent": "55.621",
-    "Win %": "55.621%",
-    "wins": 13868,
-    "losses": 11064,
+    "winRate": 0.5565846950331661,
+    "winrate": 0.5565846950331661,
+    "winPercent": "55.658",
+    "Win %": "55.658%",
+    "wins": 13756,
+    "losses": 10958,
     "ties": 10,
-    "games": 24942,
+    "games": 24724,
     "display_name": null,
     "name_trans": "Kingambit",
     "l": "en",
@@ -12821,11 +12821,11 @@
       },
       {
         "question": "What is Kingambit's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kingambit has a 55.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 13868 wins and 11064 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Kingambit has a 55.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 13756 wins and 10958 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Kingambit good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kingambit is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Kingambit is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -13050,14 +13050,14 @@
       "spd": 80,
       "spe": 120
     },
-    "winRate": 0.5215251211425657,
-    "winrate": 0.5215251211425657,
-    "winPercent": "52.153",
-    "Win %": "52.153%",
-    "wins": 10220,
-    "losses": 9376,
+    "winRate": 0.5212656930566231,
+    "winrate": 0.5212656930566231,
+    "winPercent": "52.127",
+    "Win %": "52.127%",
+    "wins": 10168,
+    "losses": 9338,
     "ties": 9,
-    "games": 19605,
+    "games": 19515,
     "display_name": null,
     "name_trans": "Sneasler",
     "l": "en",
@@ -17089,11 +17089,11 @@
       },
       {
         "question": "What is Sneasler's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sneasler has a 52.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 10220 wins and 9376 losses with 9 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Sneasler has a 52.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 10168 wins and 9338 losses with 9 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Sneasler good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sneasler is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Sneasler is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -17347,14 +17347,14 @@
       "spd": 90,
       "spe": 60
     },
-    "winRate": 0.5297900968783639,
-    "winrate": 0.5297900968783639,
-    "winPercent": "52.979",
-    "Win %": "52.979%",
-    "wins": 9838,
-    "losses": 8731,
+    "winRate": 0.5303243623761303,
+    "winrate": 0.5303243623761303,
+    "winPercent": "53.032",
+    "Win %": "53.032%",
+    "wins": 9788,
+    "losses": 8668,
     "ties": 11,
-    "games": 18580,
+    "games": 18467,
     "display_name": null,
     "name_trans": "Incineroar",
     "l": "en",
@@ -21382,7 +21382,7 @@
       },
       {
         "question": "What is Incineroar's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Incineroar has a 53% winrate in Pokemon Champions VGC 2026 Tournaments, based on 9838 wins and 8731 losses with 11 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Incineroar has a 53% winrate in Pokemon Champions VGC 2026 Tournaments, based on 9788 wins and 8668 losses with 11 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Incineroar good in Pokemon Champions VGC 2026 Tournaments?",
@@ -21606,14 +21606,14 @@
       "spd": 115,
       "spe": 100
     },
-    "winRate": 0.5435604923446412,
-    "winrate": 0.5435604923446412,
-    "winPercent": "54.356",
-    "Win %": "54.356%",
-    "wins": 9048,
-    "losses": 7597,
+    "winRate": 0.5431432038834951,
+    "winrate": 0.5431432038834951,
+    "winPercent": "54.314",
+    "Win %": "54.314%",
+    "wins": 8946,
+    "losses": 7524,
     "ties": 10,
-    "games": 16655,
+    "games": 16480,
     "display_name": "Mega Charizard Y",
     "name_trans": "Mega Charizard Y",
     "l": "en",
@@ -25647,11 +25647,11 @@
       },
       {
         "question": "What is Mega Charizard Y's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Charizard Y has a 54.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 9048 wins and 7597 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Charizard Y has a 54.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 8946 wins and 7524 losses with 10 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Charizard Y good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Charizard Y is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Charizard Y is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -26117,14 +26117,14 @@
       "spd": 80,
       "spe": 70
     },
-    "winRate": 0.51362286562732,
-    "winrate": 0.51362286562732,
-    "winPercent": "51.362",
-    "Win %": "51.362%",
-    "wins": 6916,
-    "losses": 6549,
+    "winRate": 0.5140016384896104,
+    "winrate": 0.5140016384896104,
+    "winPercent": "51.400",
+    "Win %": "51.400%",
+    "wins": 6899,
+    "losses": 6523,
     "ties": 5,
-    "games": 13470,
+    "games": 13427,
     "display_name": null,
     "name_trans": "Sinistcha",
     "l": "en",
@@ -30149,7 +30149,7 @@
       },
       {
         "question": "What is Sinistcha's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sinistcha has a 51.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 6916 wins and 6549 losses with 5 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Sinistcha has a 51.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 6899 wins and 6523 losses with 5 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Sinistcha good in Pokemon Champions VGC 2026 Tournaments?",
@@ -30403,14 +30403,14 @@
       "spd": 75,
       "spe": 116
     },
-    "winRate": 0.5342514402967405,
-    "winrate": 0.5342514402967405,
-    "winPercent": "53.425",
-    "Win %": "53.425%",
-    "wins": 6766,
-    "losses": 5898,
+    "winRate": 0.5334208641680592,
+    "winrate": 0.5334208641680592,
+    "winPercent": "53.342",
+    "Win %": "53.342%",
+    "wins": 6700,
+    "losses": 5860,
     "ties": 7,
-    "games": 12671,
+    "games": 12567,
     "display_name": null,
     "name_trans": "Whimsicott",
     "l": "en",
@@ -34447,11 +34447,11 @@
       },
       {
         "question": "What is Whimsicott's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Whimsicott has a 53.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 6766 wins and 5898 losses with 7 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Whimsicott has a 53.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 6700 wins and 5860 losses with 7 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Whimsicott good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Whimsicott is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 53.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Whimsicott is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 53.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -34722,14 +34722,14 @@
       "spd": 70,
       "spe": 60
     },
-    "winRate": 0.493181222134802,
-    "winrate": 0.493181222134802,
-    "winPercent": "49.318",
-    "Win %": "49.318%",
-    "wins": 3760,
-    "losses": 3864,
+    "winRate": 0.49356507894387686,
+    "winrate": 0.49356507894387686,
+    "winPercent": "49.357",
+    "Win %": "49.357%",
+    "wins": 3719,
+    "losses": 3816,
     "ties": 2,
-    "games": 7626,
+    "games": 7537,
     "display_name": null,
     "name_trans": "Farigiraf",
     "l": "en",
@@ -38759,11 +38759,11 @@
       },
       {
         "question": "What is Farigiraf's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Farigiraf has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3760 wins and 3864 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Farigiraf has a 49.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3719 wins and 3816 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Farigiraf good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Farigiraf is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Farigiraf is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -39014,14 +39014,14 @@
       "spd": 65,
       "spe": 85
     },
-    "winRate": 0.5102040816326531,
-    "winrate": 0.5102040816326531,
-    "winPercent": "51.020",
-    "Win %": "51.020%",
-    "wins": 3973,
-    "losses": 3814,
+    "winRate": 0.510586108959463,
+    "winrate": 0.510586108959463,
+    "winPercent": "51.059",
+    "Win %": "51.059%",
+    "wins": 3953,
+    "losses": 3789,
     "ties": 4,
-    "games": 7791,
+    "games": 7746,
     "display_name": null,
     "name_trans": "Archaludon",
     "l": "en",
@@ -43053,11 +43053,11 @@
       },
       {
         "question": "What is Archaludon's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Archaludon has a 51% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3973 wins and 3814 losses with 4 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Archaludon has a 51.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3953 wins and 3789 losses with 4 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Archaludon good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Archaludon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Archaludon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -43294,14 +43294,14 @@
       "spd": 130,
       "spe": 60
     },
-    "winRate": 0.5143205753917287,
-    "winrate": 0.5143205753917287,
-    "winPercent": "51.432",
-    "Win %": "51.432%",
-    "wins": 4004,
-    "losses": 3781,
+    "winRate": 0.5156737773152965,
+    "winrate": 0.5156737773152965,
+    "winPercent": "51.567",
+    "Win %": "51.567%",
+    "wins": 3964,
+    "losses": 3723,
     "ties": 1,
-    "games": 7786,
+    "games": 7688,
     "display_name": null,
     "name_trans": "Sylveon",
     "l": "en",
@@ -47324,11 +47324,11 @@
       },
       {
         "question": "What is Sylveon's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sylveon has a 51.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 4004 wins and 3781 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Sylveon has a 51.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3964 wins and 3723 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Sylveon good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sylveon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Sylveon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -47532,14 +47532,14 @@
       "spd": 81,
       "spe": 86
     },
-    "winRate": 0.5266701191092699,
-    "winrate": 0.5266701191092699,
-    "winPercent": "52.667",
-    "Win %": "52.667%",
-    "wins": 2033,
-    "losses": 1827,
+    "winRate": 0.5242898858508097,
+    "winrate": 0.5242898858508097,
+    "winPercent": "52.429",
+    "Win %": "52.429%",
+    "wins": 1974,
+    "losses": 1791,
     "ties": 2,
-    "games": 3862,
+    "games": 3767,
     "display_name": null,
     "name_trans": "Glimmora",
     "l": "en",
@@ -50778,11 +50778,11 @@
       },
       {
         "question": "What is Glimmora's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Glimmora has a 52.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2033 wins and 1827 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Glimmora has a 52.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1974 wins and 1791 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Glimmora good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Glimmora is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Glimmora is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -51021,14 +51021,14 @@
       "spd": 70,
       "spe": 65
     },
-    "winRate": 0.5061769616026711,
-    "winrate": 0.5061769616026711,
-    "winPercent": "50.618",
-    "Win %": "50.618%",
-    "wins": 3031,
-    "losses": 2957,
+    "winRate": 0.5052382561676242,
+    "winrate": 0.5052382561676242,
+    "winPercent": "50.524",
+    "Win %": "50.524%",
+    "wins": 2989,
+    "losses": 2927,
     "ties": 2,
-    "games": 5990,
+    "games": 5918,
     "display_name": null,
     "name_trans": "Pelipper",
     "l": "en",
@@ -55065,11 +55065,11 @@
       },
       {
         "question": "What is Pelipper's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Pelipper has a 50.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3031 wins and 2957 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Pelipper has a 50.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2989 wins and 2927 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Pelipper good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Pelipper is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Pelipper is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -55269,14 +55269,14 @@
       "spd": 95,
       "spe": 150
     },
-    "winRate": 0.5372081712062257,
-    "winrate": 0.5372081712062257,
-    "winPercent": "53.721",
-    "Win %": "53.721%",
-    "wins": 3312,
-    "losses": 2853,
+    "winRate": 0.5367707141689818,
+    "winrate": 0.5367707141689818,
+    "winPercent": "53.677",
+    "Win %": "53.677%",
+    "wins": 3283,
+    "losses": 2833,
     "ties": 3,
-    "games": 6168,
+    "games": 6119,
     "display_name": "Mega Aerodactyl",
     "name_trans": "Mega Aerodactyl",
     "l": "en",
@@ -59303,7 +59303,7 @@
       },
       {
         "question": "What is Mega Aerodactyl's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Aerodactyl has a 53.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3312 wins and 2853 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Aerodactyl has a 53.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 3283 wins and 2833 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Aerodactyl good in Pokemon Champions VGC 2026 Tournaments?",
@@ -59555,14 +59555,14 @@
       "spd": 107,
       "spe": 86
     },
-    "winRate": 0.4797616795914507,
-    "winrate": 0.4797616795914507,
-    "winPercent": "47.976",
-    "Win %": "47.976%",
-    "wins": 2535,
-    "losses": 2749,
+    "winRate": 0.47905054776090716,
+    "winrate": 0.47905054776090716,
+    "winPercent": "47.905",
+    "Win %": "47.905%",
+    "wins": 2491,
+    "losses": 2709,
     "ties": 3,
-    "games": 5287,
+    "games": 5203,
     "display_name": null,
     "name_trans": "Rotom-Wash",
     "l": "en",
@@ -61794,11 +61794,11 @@
       },
       {
         "question": "What is Rotom-Wash's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Rotom-Wash has a 48% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2535 wins and 2749 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Rotom-Wash has a 47.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2491 wins and 2709 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Rotom-Wash good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Rotom-Wash is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Rotom-Wash is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -62079,14 +62079,14 @@
       "spd": 100,
       "spe": 80
     },
-    "winRate": 0.5302325581395348,
-    "winrate": 0.5302325581395348,
-    "winPercent": "53.023",
-    "Win %": "53.023%",
-    "wins": 570,
-    "losses": 505,
+    "winRate": 0.5320574162679426,
+    "winrate": 0.5320574162679426,
+    "winPercent": "53.206",
+    "Win %": "53.206%",
+    "wins": 556,
+    "losses": 489,
     "ties": 0,
-    "games": 1075,
+    "games": 1045,
     "display_name": null,
     "name_trans": "Dragonite",
     "l": "en",
@@ -63313,11 +63313,11 @@
       },
       {
         "question": "What is Dragonite's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Dragonite has a 53% winrate in Pokemon Champions VGC 2026 Tournaments, based on 570 wins and 505 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Dragonite has a 53.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 556 wins and 489 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Dragonite good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Dragonite is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 53% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Dragonite is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 53.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -63796,14 +63796,14 @@
       "spd": 120,
       "spe": 71
     },
-    "winRate": 0.49777985510633327,
-    "winrate": 0.49777985510633327,
-    "winPercent": "49.778",
-    "Win %": "49.778%",
-    "wins": 2129,
-    "losses": 2148,
+    "winRate": 0.4989419233482248,
+    "winrate": 0.4989419233482248,
+    "winPercent": "49.894",
+    "Win %": "49.894%",
+    "wins": 2121,
+    "losses": 2130,
     "ties": 2,
-    "games": 4279,
+    "games": 4253,
     "display_name": "Mega Tyranitar",
     "name_trans": "Mega Tyranitar",
     "l": "en",
@@ -66034,11 +66034,11 @@
       },
       {
         "question": "What is Mega Tyranitar's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Tyranitar has a 49.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2129 wins and 2148 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Tyranitar has a 49.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 2121 wins and 2130 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Tyranitar good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Tyranitar is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Tyranitar is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -66311,14 +66311,14 @@
       "spd": 69,
       "spe": 126
     },
-    "winRate": 0.48672566371681414,
-    "winrate": 0.48672566371681414,
-    "winPercent": "48.673",
-    "Win %": "48.673%",
-    "wins": 1760,
-    "losses": 1856,
+    "winRate": 0.4855539971949509,
+    "winrate": 0.4855539971949509,
+    "winPercent": "48.555",
+    "Win %": "48.555%",
+    "wins": 1731,
+    "losses": 1834,
     "ties": 0,
-    "games": 3616,
+    "games": 3565,
     "display_name": null,
     "name_trans": "Talonflame",
     "l": "en",
@@ -68343,11 +68343,11 @@
       },
       {
         "question": "What is Talonflame's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Talonflame has a 48.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1760 wins and 1856 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Talonflame has a 48.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1731 wins and 1834 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Talonflame good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Talonflame is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Talonflame is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -68578,14 +68578,14 @@
       "spd": 75,
       "spe": 130
     },
-    "winRate": 0.49331510179276816,
-    "winrate": 0.49331510179276816,
-    "winPercent": "49.332",
-    "Win %": "49.332%",
-    "wins": 1623,
-    "losses": 1667,
+    "winRate": 0.4934640522875817,
+    "winrate": 0.4934640522875817,
+    "winPercent": "49.346",
+    "Win %": "49.346%",
+    "wins": 1585,
+    "losses": 1627,
     "ties": 1,
-    "games": 3291,
+    "games": 3213,
     "display_name": null,
     "name_trans": "Aerodactyl",
     "l": "en",
@@ -70811,7 +70811,7 @@
       },
       {
         "question": "What is Aerodactyl's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Aerodactyl has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1623 wins and 1667 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Aerodactyl has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1585 wins and 1627 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Aerodactyl good in Pokemon Champions VGC 2026 Tournaments?",
@@ -71037,14 +71037,14 @@
       "spd": 120,
       "spe": 80
     },
-    "winRate": 0.5092483852025836,
-    "winrate": 0.5092483852025836,
-    "winPercent": "50.925",
-    "Win %": "50.925%",
-    "wins": 1734,
-    "losses": 1671,
+    "winRate": 0.5084369449378331,
+    "winrate": 0.5084369449378331,
+    "winPercent": "50.844",
+    "Win %": "50.844%",
+    "wins": 1717,
+    "losses": 1660,
     "ties": 1,
-    "games": 3406,
+    "games": 3378,
     "display_name": "Mega Venusaur",
     "name_trans": "Mega Venusaur",
     "l": "en",
@@ -73677,11 +73677,11 @@
       },
       {
         "question": "What is Mega Venusaur's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Venusaur has a 50.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1734 wins and 1671 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Venusaur has a 50.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1717 wins and 1660 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Venusaur good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Venusaur is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Venusaur is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -73916,14 +73916,14 @@
       "spd": 85,
       "spe": 67
     },
-    "winRate": 0.5011979634621144,
-    "winrate": 0.5011979634621144,
-    "winPercent": "50.120",
-    "Win %": "50.120%",
-    "wins": 1673,
-    "losses": 1665,
+    "winRate": 0.5016476932294788,
+    "winrate": 0.5016476932294788,
+    "winPercent": "50.165",
+    "Win %": "50.165%",
+    "wins": 1674,
+    "losses": 1663,
     "ties": 1,
-    "games": 3339,
+    "games": 3338,
     "display_name": null,
     "name_trans": "Corviknight",
     "l": "en",
@@ -75955,11 +75955,11 @@
       },
       {
         "question": "What is Corviknight's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Corviknight has a 50.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1673 wins and 1665 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Corviknight has a 50.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1674 wins and 1663 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Corviknight good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Corviknight is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Corviknight is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -76215,14 +76215,14 @@
       "spd": 75,
       "spe": 111
     },
-    "winRate": 0.5067832378655411,
-    "winrate": 0.5067832378655411,
-    "winPercent": "50.678",
-    "Win %": "50.678%",
-    "wins": 1681,
-    "losses": 1636,
+    "winRate": 0.5067114093959731,
+    "winrate": 0.5067114093959731,
+    "winPercent": "50.671",
+    "Win %": "50.671%",
+    "wins": 1661,
+    "losses": 1617,
     "ties": 0,
-    "games": 3317,
+    "games": 3278,
     "display_name": null,
     "name_trans": "Maushold",
     "l": "en",
@@ -78242,7 +78242,7 @@
       },
       {
         "question": "What is Maushold's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Maushold has a 50.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1681 wins and 1636 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Maushold has a 50.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1661 wins and 1617 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Maushold good in Pokemon Champions VGC 2026 Tournaments?",
@@ -78735,14 +78735,14 @@
       "spd": 95,
       "spe": 130
     },
-    "winRate": 0.5186715135492399,
-    "winrate": 0.5186715135492399,
-    "winPercent": "51.867",
-    "Win %": "51.867%",
-    "wins": 1567,
-    "losses": 1454,
+    "winRate": 0.522169969768223,
+    "winrate": 0.522169969768223,
+    "winPercent": "52.217",
+    "Win %": "52.217%",
+    "wins": 1552,
+    "losses": 1420,
     "ties": 5,
-    "games": 3026,
+    "games": 2977,
     "display_name": "Mega Gengar",
     "name_trans": "Mega Gengar",
     "l": "en",
@@ -80964,11 +80964,11 @@
       },
       {
         "question": "What is Mega Gengar's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gengar has a 51.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1567 wins and 1454 losses with 5 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Gengar has a 52.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1552 wins and 1420 losses with 5 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Gengar good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gengar is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Gengar is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -81184,14 +81184,14 @@
       "spd": 100,
       "spe": 75
     },
-    "winRate": 0.5071428571428571,
-    "winrate": 0.5071428571428571,
-    "winPercent": "50.714",
-    "Win %": "50.714%",
-    "wins": 1419,
-    "losses": 1379,
+    "winRate": 0.5056880733944954,
+    "winrate": 0.5056880733944954,
+    "winPercent": "50.569",
+    "Win %": "50.569%",
+    "wins": 1377,
+    "losses": 1346,
     "ties": 2,
-    "games": 2800,
+    "games": 2725,
     "display_name": "Mega Scizor",
     "name_trans": "Mega Scizor",
     "l": "en",
@@ -84030,11 +84030,11 @@
       },
       {
         "question": "What is Mega Scizor's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Scizor has a 50.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1419 wins and 1379 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Scizor has a 50.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1377 wins and 1346 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Scizor good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Scizor is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Scizor is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -84568,14 +84568,14 @@
       "spd": 65,
       "spe": 50
     },
-    "winRate": 0.45003858024691357,
-    "winrate": 0.45003858024691357,
-    "winPercent": "45.004",
-    "Win %": "45.004%",
-    "wins": 1166,
-    "losses": 1425,
+    "winRate": 0.45093823299452696,
+    "winrate": 0.45093823299452696,
+    "winPercent": "45.094",
+    "Win %": "45.094%",
+    "wins": 1153,
+    "losses": 1404,
     "ties": 1,
-    "games": 2592,
+    "games": 2558,
     "display_name": null,
     "name_trans": "Sableye",
     "l": "en",
@@ -86007,11 +86007,11 @@
       },
       {
         "question": "What is Sableye's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sableye has a 45% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1166 wins and 1425 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Sableye has a 45.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1153 wins and 1404 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Sableye good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Sableye is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Sableye is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -86255,14 +86255,14 @@
       "spd": 125,
       "spe": 81
     },
-    "winRate": 0.45294338207724033,
-    "winrate": 0.45294338207724033,
-    "winPercent": "45.294",
-    "Win %": "45.294%",
-    "wins": 1208,
-    "losses": 1459,
+    "winRate": 0.4523809523809524,
+    "winrate": 0.4523809523809524,
+    "winPercent": "45.238",
+    "Win %": "45.238%",
+    "wins": 1216,
+    "losses": 1472,
     "ties": 0,
-    "games": 2667,
+    "games": 2688,
     "display_name": null,
     "name_trans": "Milotic",
     "l": "en",
@@ -87284,11 +87284,11 @@
       },
       {
         "question": "What is Milotic's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Milotic has a 45.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1208 wins and 1459 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Milotic has a 45.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1216 wins and 1472 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Milotic good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Milotic is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Milotic is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -87530,14 +87530,14 @@
       "spd": 105,
       "spe": 85
     },
-    "winRate": 0.5042561065877128,
-    "winrate": 0.5042561065877128,
-    "winPercent": "50.426",
-    "Win %": "50.426%",
-    "wins": 1362,
-    "losses": 1339,
+    "winRate": 0.5050904977375565,
+    "winrate": 0.5050904977375565,
+    "winPercent": "50.509",
+    "Win %": "50.509%",
+    "wins": 1339,
+    "losses": 1312,
     "ties": 1,
-    "games": 2702,
+    "games": 2652,
     "display_name": null,
     "name_trans": "Kommo-o",
     "l": "en",
@@ -89164,11 +89164,11 @@
       },
       {
         "question": "What is Kommo-o's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kommo-o has a 50.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1362 wins and 1339 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Kommo-o has a 50.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1339 wins and 1312 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Kommo-o good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kommo-o is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Kommo-o is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -89403,14 +89403,14 @@
       "spd": 70,
       "spe": 20
     },
-    "winRate": 0.4530612244897959,
-    "winrate": 0.4530612244897959,
-    "winPercent": "45.306",
-    "Win %": "45.306%",
-    "wins": 1110,
-    "losses": 1340,
+    "winRate": 0.45477282200917046,
+    "winrate": 0.45477282200917046,
+    "winPercent": "45.477",
+    "Win %": "45.477%",
+    "wins": 1091,
+    "losses": 1308,
     "ties": 0,
-    "games": 2450,
+    "games": 2399,
     "display_name": null,
     "name_trans": "Torkoal",
     "l": "en",
@@ -90232,11 +90232,11 @@
       },
       {
         "question": "What is Torkoal's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Torkoal has a 45.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1110 wins and 1340 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Torkoal has a 45.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1091 wins and 1308 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Torkoal good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Torkoal is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Torkoal is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -90459,14 +90459,14 @@
       "spd": 50,
       "spe": 89
     },
-    "winRate": 0.5403311025008806,
-    "winrate": 0.5403311025008806,
-    "winPercent": "54.033",
-    "Win %": "54.033%",
-    "wins": 1534,
-    "losses": 1305,
+    "winRate": 0.5412389380530973,
+    "winrate": 0.5412389380530973,
+    "winPercent": "54.124",
+    "Win %": "54.124%",
+    "wins": 1529,
+    "losses": 1296,
     "ties": 0,
-    "games": 2839,
+    "games": 2825,
     "display_name": null,
     "name_trans": "Vivillon",
     "l": "en",
@@ -93481,11 +93481,11 @@
       },
       {
         "question": "What is Vivillon's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Vivillon has a 54% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1534 wins and 1305 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Vivillon has a 54.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1529 wins and 1296 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Vivillon good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Vivillon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Vivillon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -93733,14 +93733,14 @@
       "spd": 140,
       "spe": 60
     },
-    "winRate": 0.4927443448570209,
-    "winrate": 0.4927443448570209,
-    "winPercent": "49.274",
-    "Win %": "49.274%",
-    "wins": 1154,
-    "losses": 1188,
+    "winRate": 0.49220441749675187,
+    "winrate": 0.49220441749675187,
+    "winPercent": "49.220",
+    "Win %": "49.220%",
+    "wins": 1136,
+    "losses": 1172,
     "ties": 1,
-    "games": 2343,
+    "games": 2309,
     "display_name": null,
     "name_trans": "Aegislash",
     "l": "en",
@@ -94968,11 +94968,11 @@
       },
       {
         "question": "What is Aegislash's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Aegislash has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1154 wins and 1188 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Aegislash has a 49.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1136 wins and 1172 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Aegislash good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Aegislash is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Aegislash is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -95210,14 +95210,14 @@
       "spd": 100,
       "spe": 109
     },
-    "winRate": 0.4943661971830986,
-    "winrate": 0.4943661971830986,
-    "winPercent": "49.437",
-    "Win %": "49.437%",
-    "wins": 1228,
-    "losses": 1256,
+    "winRate": 0.496719967199672,
+    "winrate": 0.496719967199672,
+    "winPercent": "49.672",
+    "Win %": "49.672%",
+    "wins": 1211,
+    "losses": 1227,
     "ties": 1,
-    "games": 2485,
+    "games": 2439,
     "display_name": null,
     "name_trans": "Ninetales-Alola",
     "l": "en",
@@ -95644,11 +95644,11 @@
       },
       {
         "question": "What is Ninetales-Alola's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Ninetales-Alola has a 49.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1228 wins and 1256 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Ninetales-Alola has a 49.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1211 wins and 1227 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Ninetales-Alola good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Ninetales-Alola is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Ninetales-Alola is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -95906,14 +95906,14 @@
       "spd": 100,
       "spe": 70
     },
-    "winRate": 0.520735524256651,
-    "winrate": 0.520735524256651,
-    "winPercent": "52.074",
-    "Win %": "52.074%",
-    "wins": 1330,
-    "losses": 1224,
+    "winRate": 0.5217391304347826,
+    "winrate": 0.5217391304347826,
+    "winPercent": "52.174",
+    "Win %": "52.174%",
+    "wins": 1331,
+    "losses": 1220,
     "ties": 2,
-    "games": 2556,
+    "games": 2553,
     "display_name": null,
     "name_trans": "Politoed",
     "l": "en",
@@ -98132,11 +98132,11 @@
       },
       {
         "question": "What is Politoed's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Politoed has a 52.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1330 wins and 1224 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Politoed has a 52.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1331 wins and 1220 losses with 2 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Politoed good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Politoed is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Politoed is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -98361,14 +98361,14 @@
       "spd": 115,
       "spe": 78
     },
-    "winRate": 0.49141630901287553,
-    "winrate": 0.49141630901287553,
-    "winPercent": "49.142",
-    "Win %": "49.142%",
+    "winRate": 0.4924731182795699,
+    "winrate": 0.4924731182795699,
+    "winPercent": "49.247",
+    "Win %": "49.247%",
     "wins": 1145,
-    "losses": 1185,
+    "losses": 1180,
     "ties": 0,
-    "games": 2330,
+    "games": 2325,
     "display_name": "Mega Blastoise",
     "name_trans": "Mega Blastoise",
     "l": "en",
@@ -99588,11 +99588,11 @@
       },
       {
         "question": "What is Mega Blastoise's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Blastoise has a 49.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1145 wins and 1185 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Blastoise has a 49.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1145 wins and 1180 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Blastoise good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Blastoise is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Blastoise is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -99842,14 +99842,14 @@
       "spd": 100,
       "spe": 80
     },
-    "winRate": 0.48406456953642385,
-    "winrate": 0.48406456953642385,
-    "winPercent": "48.406",
-    "Win %": "48.406%",
-    "wins": 1168,
-    "losses": 1245,
+    "winRate": 0.4840537138061267,
+    "winrate": 0.4840537138061267,
+    "winPercent": "48.405",
+    "Win %": "48.405%",
+    "wins": 1152,
+    "losses": 1228,
     "ties": 3,
-    "games": 2416,
+    "games": 2383,
     "display_name": null,
     "name_trans": "Venusaur",
     "l": "en",
@@ -101074,7 +101074,7 @@
       },
       {
         "question": "What is Venusaur's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Venusaur has a 48.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1168 wins and 1245 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Venusaur has a 48.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1152 wins and 1228 losses with 3 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Venusaur good in Pokemon Champions VGC 2026 Tournaments?",
@@ -101345,14 +101345,14 @@
       "spd": 90,
       "spe": 98
     },
-    "winRate": 0.5125725338491296,
-    "winrate": 0.5125725338491296,
-    "winPercent": "51.257",
-    "Win %": "51.257%",
-    "wins": 1060,
-    "losses": 1008,
+    "winRate": 0.5124329595319357,
+    "winrate": 0.5124329595319357,
+    "winPercent": "51.243",
+    "Win %": "51.243%",
+    "wins": 1051,
+    "losses": 1000,
     "ties": 0,
-    "games": 2068,
+    "games": 2051,
     "display_name": null,
     "name_trans": "Hydreigon",
     "l": "en",
@@ -103187,11 +103187,11 @@
       },
       {
         "question": "What is Hydreigon's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Hydreigon has a 51.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1060 wins and 1008 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Hydreigon has a 51.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1051 wins and 1000 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Hydreigon good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Hydreigon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Hydreigon is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -103425,14 +103425,14 @@
       "spd": 100,
       "spe": 100
     },
-    "winRate": 0.4930232558139535,
-    "winrate": 0.4930232558139535,
-    "winPercent": "49.302",
-    "Win %": "49.302%",
-    "wins": 1060,
-    "losses": 1090,
+    "winRate": 0.49598867390278434,
+    "winrate": 0.49598867390278434,
+    "winPercent": "49.599",
+    "Win %": "49.599%",
+    "wins": 1051,
+    "losses": 1068,
     "ties": 0,
-    "games": 2150,
+    "games": 2119,
     "display_name": "Mega Kangaskhan",
     "name_trans": "Mega Kangaskhan",
     "l": "en",
@@ -103855,11 +103855,11 @@
       },
       {
         "question": "What is Mega Kangaskhan's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Kangaskhan has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1060 wins and 1090 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Kangaskhan has a 49.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1051 wins and 1068 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Kangaskhan good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Kangaskhan is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Kangaskhan is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -104119,14 +104119,14 @@
       "spd": 135,
       "spe": 100
     },
-    "winRate": 0.4937154348919055,
-    "winrate": 0.4937154348919055,
-    "winPercent": "49.372",
-    "Win %": "49.372%",
-    "wins": 982,
-    "losses": 1007,
+    "winRate": 0.4918032786885246,
+    "winrate": 0.4918032786885246,
+    "winPercent": "49.180",
+    "Win %": "49.180%",
+    "wins": 960,
+    "losses": 992,
     "ties": 0,
-    "games": 1989,
+    "games": 1952,
     "display_name": "Mega Gardevoir",
     "name_trans": "Mega Gardevoir",
     "l": "en",
@@ -105149,11 +105149,11 @@
       },
       {
         "question": "What is Mega Gardevoir's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gardevoir has a 49.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 982 wins and 1007 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Gardevoir has a 49.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 960 wins and 992 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Gardevoir good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gardevoir is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Gardevoir is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -105382,14 +105382,14 @@
       "spd": 65,
       "spe": 88
     },
-    "winRate": 0.5,
-    "winrate": 0.5,
-    "winPercent": "50.000",
-    "Win %": "50.000%",
+    "winRate": 0.5020757654385054,
+    "winrate": 0.5020757654385054,
+    "winPercent": "50.208",
+    "Win %": "50.208%",
     "wins": 967,
-    "losses": 967,
+    "losses": 959,
     "ties": 1,
-    "games": 1935,
+    "games": 1927,
     "display_name": null,
     "name_trans": "Excadrill",
     "l": "en",
@@ -106216,11 +106216,11 @@
       },
       {
         "question": "What is Excadrill's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Excadrill has a 50% winrate in Pokemon Champions VGC 2026 Tournaments, based on 967 wins and 967 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Excadrill has a 50.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 967 wins and 959 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Excadrill good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Excadrill is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Excadrill is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -106439,14 +106439,14 @@
       "spd": 85,
       "spe": 100
     },
-    "winRate": 0.5091556459816887,
-    "winrate": 0.5091556459816887,
-    "winPercent": "50.916",
-    "Win %": "50.916%",
-    "wins": 1001,
-    "losses": 965,
+    "winRate": 0.5107361963190185,
+    "winrate": 0.5107361963190185,
+    "winPercent": "51.074",
+    "Win %": "51.074%",
+    "wins": 999,
+    "losses": 957,
     "ties": 0,
-    "games": 1966,
+    "games": 1956,
     "display_name": "Mega Charizard X",
     "name_trans": "Mega Charizard X",
     "l": "en",
@@ -107872,11 +107872,11 @@
       },
       {
         "question": "What is Mega Charizard X's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Charizard X has a 50.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 1001 wins and 965 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Charizard X has a 51.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 999 wins and 957 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Charizard X good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Charizard X is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Charizard X is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -108118,14 +108118,14 @@
       "spd": 80,
       "spe": 90
     },
-    "winRate": 0.5636882129277566,
-    "winrate": 0.5636882129277566,
-    "winPercent": "56.369",
-    "Win %": "56.369%",
-    "wins": 889,
-    "losses": 688,
+    "winRate": 0.5636762860727729,
+    "winrate": 0.5636762860727729,
+    "winPercent": "56.368",
+    "Win %": "56.368%",
+    "wins": 898,
+    "losses": 695,
     "ties": 1,
-    "games": 1578,
+    "games": 1594,
     "display_name": null,
     "name_trans": "Arcanine-Hisui",
     "l": "en",
@@ -111159,7 +111159,7 @@
       },
       {
         "question": "What is Arcanine-Hisui's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Arcanine-Hisui has a 56.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 889 wins and 688 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Arcanine-Hisui has a 56.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 898 wins and 695 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Arcanine-Hisui good in Pokemon Champions VGC 2026 Tournaments?",
@@ -112346,14 +112346,14 @@
       "spd": 116,
       "spe": 60
     },
-    "winRate": 0.4202970297029703,
-    "winrate": 0.4202970297029703,
-    "winPercent": "42.030",
-    "Win %": "42.030%",
-    "wins": 424,
-    "losses": 585,
+    "winRate": 0.42039800995024873,
+    "winrate": 0.42039800995024873,
+    "winPercent": "42.040",
+    "Win %": "42.040%",
+    "wins": 422,
+    "losses": 582,
     "ties": 1,
-    "games": 1010,
+    "games": 1005,
     "display_name": null,
     "name_trans": "Primarina",
     "l": "en",
@@ -112580,7 +112580,7 @@
       },
       {
         "question": "What is Primarina's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Primarina has a 42% winrate in Pokemon Champions VGC 2026 Tournaments, based on 424 wins and 585 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Primarina has a 42% winrate in Pokemon Champions VGC 2026 Tournaments, based on 422 wins and 582 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Primarina good in Pokemon Champions VGC 2026 Tournaments?",
@@ -112864,14 +112864,14 @@
       "spd": 96,
       "spe": 135
     },
-    "winRate": 0.4672293942403178,
-    "winrate": 0.4672293942403178,
-    "winPercent": "46.723",
-    "Win %": "46.723%",
-    "wins": 470,
-    "losses": 536,
+    "winRate": 0.4675785207700101,
+    "winrate": 0.4675785207700101,
+    "winPercent": "46.758",
+    "Win %": "46.758%",
+    "wins": 461,
+    "losses": 525,
     "ties": 1,
-    "games": 1007,
+    "games": 987,
     "display_name": "Mega Lopunny",
     "name_trans": "Mega Lopunny",
     "l": "en",
@@ -113097,11 +113097,11 @@
       },
       {
         "question": "What is Mega Lopunny's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Lopunny has a 46.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 470 wins and 536 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Lopunny has a 46.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 461 wins and 525 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Lopunny good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Lopunny is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Lopunny is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -113361,14 +113361,14 @@
       "spd": 95,
       "spe": 92
     },
-    "winRate": 0.49726027397260275,
-    "winrate": 0.49726027397260275,
-    "winPercent": "49.726",
-    "Win %": "49.726%",
-    "wins": 544,
-    "losses": 550,
+    "winRate": 0.49678899082568806,
+    "winrate": 0.49678899082568806,
+    "winPercent": "49.679",
+    "Win %": "49.679%",
+    "wins": 541,
+    "losses": 548,
     "ties": 1,
-    "games": 1095,
+    "games": 1090,
     "display_name": "Mega Garchomp",
     "name_trans": "Mega Garchomp",
     "l": "en",
@@ -113794,7 +113794,7 @@
       },
       {
         "question": "What is Mega Garchomp's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Garchomp has a 49.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 544 wins and 550 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Garchomp has a 49.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 541 wins and 548 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Garchomp good in Pokemon Champions VGC 2026 Tournaments?",
@@ -114083,14 +114083,14 @@
       "spd": 98,
       "spe": 72
     },
-    "winRate": 0.4309623430962343,
-    "winrate": 0.4309623430962343,
-    "winPercent": "43.096",
-    "Win %": "43.096%",
-    "wins": 412,
-    "losses": 544,
+    "winRate": 0.4352818371607516,
+    "winrate": 0.4352818371607516,
+    "winPercent": "43.528",
+    "Win %": "43.528%",
+    "wins": 417,
+    "losses": 541,
     "ties": 0,
-    "games": 956,
+    "games": 958,
     "display_name": null,
     "name_trans": "Tsareena",
     "l": "en",
@@ -114315,11 +114315,11 @@
       },
       {
         "question": "What is Tsareena's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tsareena has a 43.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 412 wins and 544 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Tsareena has a 43.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 417 wins and 541 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Tsareena good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tsareena is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 43.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Tsareena is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 43.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -116472,14 +116472,14 @@
       "spd": 105,
       "spe": 20
     },
-    "winRate": 0.5073746312684366,
-    "winrate": 0.5073746312684366,
-    "winPercent": "50.737",
-    "Win %": "50.737%",
-    "wins": 516,
-    "losses": 501,
+    "winRate": 0.5105953582240161,
+    "winrate": 0.5105953582240161,
+    "winPercent": "51.060",
+    "Win %": "51.060%",
+    "wins": 506,
+    "losses": 485,
     "ties": 0,
-    "games": 1017,
+    "games": 991,
     "display_name": "Mega Camerupt",
     "name_trans": "Mega Camerupt",
     "l": "en",
@@ -117107,11 +117107,11 @@
       },
       {
         "question": "What is Mega Camerupt's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Camerupt has a 50.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 516 wins and 501 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Camerupt has a 51.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 506 wins and 485 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Camerupt good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Camerupt is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Camerupt is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -117663,14 +117663,14 @@
       "spd": 70,
       "spe": 123
     },
-    "winRate": 0.4654046997389034,
-    "winrate": 0.4654046997389034,
-    "winPercent": "46.540",
-    "Win %": "46.540%",
-    "wins": 356,
-    "losses": 409,
+    "winRate": 0.46653543307086615,
+    "winrate": 0.46653543307086615,
+    "winPercent": "46.654",
+    "Win %": "46.654%",
+    "wins": 355,
+    "losses": 406,
     "ties": 1,
-    "games": 766,
+    "games": 762,
     "display_name": null,
     "name_trans": "Meowscarada",
     "l": "en",
@@ -119096,11 +119096,11 @@
       },
       {
         "question": "What is Meowscarada's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Meowscarada has a 46.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 356 wins and 409 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Meowscarada has a 46.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 355 wins and 406 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Meowscarada good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Meowscarada is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Meowscarada is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -119321,14 +119321,14 @@
       "spd": 130,
       "spe": 81
     },
-    "winRate": 0.4771714922048998,
-    "winrate": 0.4771714922048998,
-    "winPercent": "47.717",
-    "Win %": "47.717%",
-    "wins": 428,
-    "losses": 469,
+    "winRate": 0.4785794813979707,
+    "winrate": 0.4785794813979707,
+    "winPercent": "47.858",
+    "Win %": "47.858%",
+    "wins": 424,
+    "losses": 462,
     "ties": 1,
-    "games": 898,
+    "games": 887,
     "display_name": "Mega Gyarados",
     "name_trans": "Mega Gyarados",
     "l": "en",
@@ -119953,11 +119953,11 @@
       },
       {
         "question": "What is Mega Gyarados's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gyarados has a 47.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 428 wins and 469 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Gyarados has a 47.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 424 wins and 462 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Gyarados good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Gyarados is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Gyarados is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -120261,14 +120261,14 @@
       "spd": 105,
       "spe": 94
     },
-    "winRate": 0.46689895470383275,
-    "winrate": 0.46689895470383275,
-    "winPercent": "46.690",
-    "Win %": "46.690%",
-    "wins": 402,
-    "losses": 459,
+    "winRate": 0.4664310954063604,
+    "winrate": 0.4664310954063604,
+    "winPercent": "46.643",
+    "Win %": "46.643%",
+    "wins": 396,
+    "losses": 453,
     "ties": 0,
-    "games": 861,
+    "games": 849,
     "display_name": null,
     "name_trans": "Tinkaton",
     "l": "en",
@@ -120896,11 +120896,11 @@
       },
       {
         "question": "What is Tinkaton's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tinkaton has a 46.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 402 wins and 459 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Tinkaton has a 46.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 396 wins and 453 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Tinkaton good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tinkaton is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Tinkaton is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -121158,14 +121158,14 @@
       "spd": 107,
       "spe": 86
     },
-    "winRate": 0.4713064713064713,
-    "winrate": 0.4713064713064713,
-    "winPercent": "47.131",
-    "Win %": "47.131%",
-    "wins": 386,
-    "losses": 433,
+    "winRate": 0.47051442910915936,
+    "winrate": 0.47051442910915936,
+    "winPercent": "47.051",
+    "Win %": "47.051%",
+    "wins": 375,
+    "losses": 422,
     "ties": 0,
-    "games": 819,
+    "games": 797,
     "display_name": null,
     "name_trans": "Rotom-Heat",
     "l": "en",
@@ -121392,7 +121392,7 @@
       },
       {
         "question": "What is Rotom-Heat's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Rotom-Heat has a 47.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 386 wins and 433 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Rotom-Heat has a 47.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 375 wins and 422 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Rotom-Heat good in Pokemon Champions VGC 2026 Tournaments?",
@@ -121634,12 +121634,12 @@
       "spd": 100,
       "spe": 85
     },
-    "winRate": 0.5194123819517313,
-    "winrate": 0.5194123819517313,
-    "winPercent": "51.941",
-    "Win %": "51.941%",
-    "wins": 495,
-    "losses": 458,
+    "winRate": 0.5267576075550892,
+    "winrate": 0.5267576075550892,
+    "winPercent": "52.676",
+    "Win %": "52.676%",
+    "wins": 502,
+    "losses": 451,
     "ties": 0,
     "games": 953,
     "display_name": null,
@@ -122465,11 +122465,11 @@
       },
       {
         "question": "What is Ceruledge's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Ceruledge has a 51.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 495 wins and 458 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Ceruledge has a 52.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 502 wins and 451 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Ceruledge good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Ceruledge is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Ceruledge is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 52.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -122707,14 +122707,14 @@
       "spd": 60,
       "spe": 105
     },
-    "winRate": 0.551051051051051,
-    "winrate": 0.551051051051051,
-    "winPercent": "55.105",
-    "Win %": "55.105%",
-    "wins": 550,
-    "losses": 448,
+    "winRate": 0.5499510284035259,
+    "winrate": 0.5499510284035259,
+    "winPercent": "54.995",
+    "Win %": "54.995%",
+    "wins": 561,
+    "losses": 459,
     "ties": 1,
-    "games": 999,
+    "games": 1021,
     "display_name": null,
     "name_trans": "Espathra",
     "l": "en",
@@ -123539,11 +123539,11 @@
       },
       {
         "question": "What is Espathra's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Espathra has a 55.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 550 wins and 448 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Espathra has a 55% winrate in Pokemon Champions VGC 2026 Tournaments, based on 561 wins and 459 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Espathra good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Espathra is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Espathra is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -123773,14 +123773,14 @@
       "spd": 62,
       "spe": 100
     },
-    "winRate": 0.5577114427860697,
-    "winrate": 0.5577114427860697,
-    "winPercent": "55.771",
-    "Win %": "55.771%",
-    "wins": 560,
-    "losses": 444,
+    "winRate": 0.5581983805668016,
+    "winrate": 0.5581983805668016,
+    "winPercent": "55.820",
+    "Win %": "55.820%",
+    "wins": 551,
+    "losses": 436,
     "ties": 1,
-    "games": 1005,
+    "games": 988,
     "display_name": null,
     "name_trans": "Palafin",
     "l": "en",
@@ -124606,7 +124606,7 @@
       },
       {
         "question": "What is Palafin's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Palafin has a 55.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 560 wins and 444 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Palafin has a 55.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 551 wins and 436 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Palafin good in Pokemon Champions VGC 2026 Tournaments?",
@@ -124889,14 +124889,14 @@
       "spd": 105,
       "spe": 96
     },
-    "winRate": 0.49168797953964194,
-    "winrate": 0.49168797953964194,
-    "winPercent": "49.169",
-    "Win %": "49.169%",
-    "wins": 384,
-    "losses": 397,
+    "winRate": 0.49607843137254903,
+    "winrate": 0.49607843137254903,
+    "winPercent": "49.608",
+    "Win %": "49.608%",
+    "wins": 379,
+    "losses": 385,
     "ties": 1,
-    "games": 782,
+    "games": 765,
     "display_name": null,
     "name_trans": "Mimikyu",
     "l": "en",
@@ -125324,11 +125324,11 @@
       },
       {
         "question": "What is Mimikyu's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mimikyu has a 49.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 384 wins and 397 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mimikyu has a 49.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 379 wins and 385 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mimikyu good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mimikyu is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mimikyu is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -125596,14 +125596,14 @@
       "spd": 105,
       "spe": 100
     },
-    "winRate": 0.48355263157894735,
-    "winrate": 0.48355263157894735,
-    "winPercent": "48.355",
-    "Win %": "48.355%",
-    "wins": 294,
-    "losses": 314,
+    "winRate": 0.4888507718696398,
+    "winrate": 0.4888507718696398,
+    "winPercent": "48.885",
+    "Win %": "48.885%",
+    "wins": 285,
+    "losses": 298,
     "ties": 0,
-    "games": 608,
+    "games": 583,
     "display_name": null,
     "name_trans": "Volcarona",
     "l": "en",
@@ -126229,11 +126229,11 @@
       },
       {
         "question": "What is Volcarona's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Volcarona has a 48.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 294 wins and 314 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Volcarona has a 48.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 285 wins and 298 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Volcarona good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Volcarona is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Volcarona is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -126495,952 +126495,6 @@
     ]
   },
   {
-    "name": "Clefable",
-    "abilities": [
-      {
-        "ability": "Unaware",
-        "percent": "72.973"
-      },
-      {
-        "ability": "Magic Guard",
-        "percent": "22.523"
-      },
-      {
-        "ability": "Cute Charm",
-        "percent": "1.802"
-      },
-      {
-        "ability": "Levitate",
-        "percent": "1.802"
-      }
-    ],
-    "items": [
-      {
-        "item": "Sitrus Berry",
-        "item_us": "Sitrus_Berry",
-        "percent": "44.144"
-      },
-      {
-        "item": "Clefablite",
-        "item_us": "Clefablite",
-        "percent": "23.423"
-      },
-      {
-        "item": "Leftovers",
-        "item_us": "Leftovers",
-        "percent": "14.414"
-      },
-      {
-        "item": "Kebia Berry",
-        "item_us": "Kebia_Berry",
-        "percent": "7.207"
-      },
-      {
-        "item": "Lum Berry",
-        "item_us": "Lum_Berry",
-        "percent": "2.703"
-      },
-      {
-        "item": "Mental Herb",
-        "item_us": "Mental_Herb",
-        "percent": "2.703"
-      },
-      {
-        "item": "Focus Sash",
-        "item_us": "Focus_Sash",
-        "percent": "1.802"
-      },
-      {
-        "item": "Bright Powder",
-        "item_us": "Bright_Powder",
-        "percent": "1.802"
-      },
-      {
-        "item": "Babiri Berry",
-        "item_us": "Babiri_Berry",
-        "percent": "1.802"
-      }
-    ],
-    "moves": [
-      {
-        "move": "Follow Me",
-        "percent": "95.495",
-        "type": "normal"
-      },
-      {
-        "move": "Protect",
-        "percent": "84.685",
-        "type": "normal"
-      },
-      {
-        "move": "Moonblast",
-        "percent": "80.180",
-        "type": "fairy"
-      },
-      {
-        "move": "Helping Hand",
-        "percent": "44.144",
-        "type": "normal"
-      },
-      {
-        "move": "Life Dew",
-        "percent": "29.730",
-        "type": "water"
-      },
-      {
-        "move": "Icy Wind",
-        "percent": "15.315",
-        "type": "ice"
-      },
-      {
-        "move": "Air Slash",
-        "percent": "8.108",
-        "type": "flying"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "percent": "7.207",
-        "type": "fairy"
-      },
-      {
-        "move": "Flamethrower",
-        "percent": "5.405",
-        "type": "fire"
-      },
-      {
-        "move": "Thunder Wave",
-        "percent": "3.604",
-        "type": "electric"
-      },
-      {
-        "move": "Calm Mind",
-        "percent": "3.604",
-        "type": "psychic"
-      },
-      {
-        "move": "Moonlight",
-        "percent": "2.703",
-        "type": "fairy"
-      },
-      {
-        "move": "Alluring Voice",
-        "percent": "1.802",
-        "type": "fairy"
-      },
-      {
-        "move": "Ice Beam",
-        "percent": "1.802",
-        "type": "ice"
-      },
-      {
-        "move": "Cosmic Power",
-        "percent": "1.802",
-        "type": "psychic"
-      },
-      {
-        "move": "Draining Kiss",
-        "percent": "1.802",
-        "type": "fairy"
-      },
-      {
-        "move": "Shadow Ball",
-        "percent": "1.802",
-        "type": "ghost"
-      },
-      {
-        "move": "Gravity",
-        "percent": "1.802",
-        "type": "psychic"
-      }
-    ],
-    "spreads": [],
-    "team": [
-      {
-        "pokemon": "Sneasler",
-        "percent": "43.243",
-        "types": [
-          "fighting",
-          "poison"
-        ],
-        "ss": true,
-        "id": 903,
-        "pokemon_trans": "Sneasler",
-        "l": "en"
-      },
-      {
-        "pokemon": "Kingambit",
-        "percent": "40.541",
-        "types": [
-          "dark",
-          "steel"
-        ],
-        "ss": true,
-        "id": 983,
-        "pokemon_trans": "Kingambit",
-        "l": "en"
-      },
-      {
-        "pokemon": "Delphox",
-        "percent": "32.432",
-        "types": [
-          "fire",
-          "psychic"
-        ],
-        "pokemon_trans": "Delphox",
-        "l": "en"
-      },
-      {
-        "pokemon": "Basculegion",
-        "percent": "27.928",
-        "types": [
-          "water",
-          "ghost"
-        ],
-        "ss": true,
-        "id": 902,
-        "pokemon_trans": "Basculegion",
-        "l": "en"
-      },
-      {
-        "pokemon": "Garchomp",
-        "percent": "22.523",
-        "types": [
-          "dragon",
-          "ground"
-        ],
-        "pokemon_trans": "Garchomp",
-        "l": "en"
-      },
-      {
-        "pokemon": "Sinistcha",
-        "percent": "18.018",
-        "types": [
-          "grass",
-          "ghost"
-        ],
-        "ss": true,
-        "id": 1013,
-        "pokemon_trans": "Sinistcha",
-        "l": "en"
-      },
-      {
-        "pokemon": "Kommo-o",
-        "percent": "11.712",
-        "types": [
-          "dragon",
-          "fighting"
-        ],
-        "pokemon_trans": "Kommo-o",
-        "l": "en"
-      },
-      {
-        "pokemon": "Farigiraf",
-        "percent": "11.712",
-        "types": [
-          "normal",
-          "psychic"
-        ],
-        "ss": true,
-        "id": 981,
-        "pokemon_trans": "Farigiraf",
-        "l": "en"
-      },
-      {
-        "pokemon": "Gyarados-Mega",
-        "percent": "9.910",
-        "types": [
-          "water",
-          "dark"
-        ],
-        "pokemon_trans": "Mega Gyarados",
-        "l": "en"
-      },
-      {
-        "pokemon": "Incineroar",
-        "percent": "9.009",
-        "types": [
-          "fire",
-          "dark"
-        ],
-        "pokemon_trans": "Incineroar",
-        "l": "en"
-      },
-      {
-        "pokemon": "Blastoise-Mega",
-        "percent": "9.009",
-        "types": [
-          "water"
-        ],
-        "pokemon_trans": "Mega Blastoise",
-        "l": "en"
-      },
-      {
-        "pokemon": "Meowscarada",
-        "percent": "9.009",
-        "types": [
-          "grass",
-          "dark"
-        ],
-        "ss": true,
-        "id": 908,
-        "pokemon_trans": "Meowscarada",
-        "l": "en"
-      }
-    ],
-    "raw_count": 111,
-    "percent": "1.25",
-    "ranking": "64",
-    "types": [
-      "fairy"
-    ],
-    "stats": {
-      "hp": 95,
-      "atk": 70,
-      "def": 73,
-      "spa": 95,
-      "spd": 90,
-      "spe": 60
-    },
-    "winRate": 0.4804597701149425,
-    "winrate": 0.4804597701149425,
-    "winPercent": "48.046",
-    "Win %": "48.046%",
-    "wins": 209,
-    "losses": 226,
-    "ties": 0,
-    "games": 435,
-    "display_name": null,
-    "name_trans": "Clefable",
-    "l": "en",
-    "format": "championstournaments",
-    "teams": [
-      {
-        "author": "Daredevilzz26",
-        "authorId": "daredevilzz26",
-        "event": "limitless-6a0c246d13f957d6d4b4b555",
-        "link": "https://play.limitlesstcg.com/tournament/6a0c246d13f957d6d4b4b555/player/daredevilzz26/teamlist",
-        "ranking": 56,
-        "record": "8-1",
-        "source": "limitless",
-        "tournamentId": "limitless-6a0c246d13f957d6d4b4b555",
-        "tournamentRanking": 1,
-        "pokemon": [
-          {
-            "name": "Kingambit",
-            "item": "Black Glasses",
-            "item_us": "Black_Glasses",
-            "ability": "Defiant",
-            "moves": [
-              {
-                "name": "Kowtow Cleave",
-                "type": "dark"
-              },
-              {
-                "name": "Sucker Punch",
-                "type": "dark"
-              },
-              {
-                "name": "Swords Dance",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Dark",
-              "Steel"
-            ],
-            "display_name": "Kingambit",
-            "pokedexName": "Kingambit",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Kingambit"
-          },
-          {
-            "name": "Sneasler",
-            "item": "Focus Sash",
-            "item_us": "Focus_Sash",
-            "ability": "Unburden",
-            "moves": [
-              {
-                "name": "Fake Out",
-                "type": "normal"
-              },
-              {
-                "name": "Dire Claw",
-                "type": "poison"
-              },
-              {
-                "name": "Close Combat",
-                "type": "fighting"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fighting",
-              "Poison"
-            ],
-            "display_name": "Sneasler",
-            "pokedexName": "Sneasler",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Sneasler"
-          },
-          {
-            "name": "Delphox-Mega",
-            "item": "Delphoxite",
-            "item_us": "Delphoxite",
-            "ability": "Blaze",
-            "moves": [
-              {
-                "name": "Heat Wave",
-                "type": "fire"
-              },
-              {
-                "name": "Psychic",
-                "type": "psychic"
-              },
-              {
-                "name": "Substitute",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fire",
-              "Psychic"
-            ],
-            "display_name": "Delphox-Mega",
-            "pokedexName": "Delphox-Mega",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Delphox-Mega"
-          },
-          {
-            "name": "Clefable",
-            "item": "Sitrus Berry",
-            "item_us": "Sitrus_Berry",
-            "ability": "Unaware",
-            "moves": [
-              {
-                "name": "Follow Me",
-                "type": "normal"
-              },
-              {
-                "name": "Helping Hand",
-                "type": "normal"
-              },
-              {
-                "name": "Moonblast",
-                "type": "fairy"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fairy"
-            ],
-            "display_name": "Clefable",
-            "pokedexName": "Clefable",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Clefable"
-          },
-          {
-            "name": "Aerodactyl-Mega",
-            "item": "Aerodactylite",
-            "item_us": "Aerodactylite",
-            "ability": "Unnerve",
-            "moves": [
-              {
-                "name": "Dual Wingbeat",
-                "type": "flying"
-              },
-              {
-                "name": "Rock Slide",
-                "type": "rock"
-              },
-              {
-                "name": "Tailwind",
-                "type": "flying"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Rock",
-              "Flying"
-            ],
-            "display_name": "Aerodactyl-Mega",
-            "pokedexName": "Aerodactyl-Mega",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Aerodactyl-Mega"
-          },
-          {
-            "name": "Basculegion",
-            "item": "Choice Scarf",
-            "item_us": "Choice_Scarf",
-            "ability": "Adaptability",
-            "moves": [
-              {
-                "name": "Wave Crash",
-                "type": "water"
-              },
-              {
-                "name": "Flip Turn",
-                "type": "water"
-              },
-              {
-                "name": "Aqua Jet",
-                "type": "water"
-              },
-              {
-                "name": "Last Respects",
-                "type": "ghost"
-              }
-            ],
-            "types": [
-              "Water",
-              "Ghost"
-            ],
-            "display_name": "Basculegion",
-            "pokedexName": "Basculegion",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Basculegion"
-          }
-        ],
-        "tournamentDate": "2026-06-06T06:00:00.000Z",
-        "tournamentLabel": "BFI'26 - Frontier Tournament #2"
-      },
-      {
-        "author": "Pendraggon26",
-        "authorId": "pendraggon26",
-        "event": "limitless-6a0de6e6dfbdf089cbbddec1",
-        "link": "https://play.limitlesstcg.com/tournament/6a0de6e6dfbdf089cbbddec1/player/pendraggon26/teamlist",
-        "ranking": 104,
-        "record": "10-1",
-        "source": "limitless",
-        "tournamentId": "limitless-6a0de6e6dfbdf089cbbddec1",
-        "tournamentRanking": 2,
-        "pokemon": [
-          {
-            "name": "Kingambit",
-            "item": "Black Glasses",
-            "item_us": "Black_Glasses",
-            "ability": "Defiant",
-            "moves": [
-              {
-                "name": "Kowtow Cleave",
-                "type": "dark"
-              },
-              {
-                "name": "Sucker Punch",
-                "type": "dark"
-              },
-              {
-                "name": "Swords Dance",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Dark",
-              "Steel"
-            ],
-            "display_name": "Kingambit",
-            "pokedexName": "Kingambit",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Kingambit"
-          },
-          {
-            "name": "Sneasler",
-            "item": "Focus Sash",
-            "item_us": "Focus_Sash",
-            "ability": "Unburden",
-            "moves": [
-              {
-                "name": "Fake Out",
-                "type": "normal"
-              },
-              {
-                "name": "Dire Claw",
-                "type": "poison"
-              },
-              {
-                "name": "Close Combat",
-                "type": "fighting"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fighting",
-              "Poison"
-            ],
-            "display_name": "Sneasler",
-            "pokedexName": "Sneasler",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Sneasler"
-          },
-          {
-            "name": "Delphox-Mega",
-            "item": "Delphoxite",
-            "item_us": "Delphoxite",
-            "ability": "Blaze",
-            "moves": [
-              {
-                "name": "Heat Wave",
-                "type": "fire"
-              },
-              {
-                "name": "Psychic",
-                "type": "psychic"
-              },
-              {
-                "name": "Substitute",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fire",
-              "Psychic"
-            ],
-            "display_name": "Delphox-Mega",
-            "pokedexName": "Delphox-Mega",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Delphox-Mega"
-          },
-          {
-            "name": "Clefable",
-            "item": "Sitrus Berry",
-            "item_us": "Sitrus_Berry",
-            "ability": "Unaware",
-            "moves": [
-              {
-                "name": "Follow Me",
-                "type": "normal"
-              },
-              {
-                "name": "Helping Hand",
-                "type": "normal"
-              },
-              {
-                "name": "Moonblast",
-                "type": "fairy"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fairy"
-            ],
-            "display_name": "Clefable",
-            "pokedexName": "Clefable",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Clefable"
-          },
-          {
-            "name": "Kommo-o",
-            "item": "Dragon Fang",
-            "item_us": "Dragon_Fang",
-            "ability": "Soundproof",
-            "moves": [
-              {
-                "name": "Clanging Scales",
-                "type": "dragon"
-              },
-              {
-                "name": "Clangorous Soul",
-                "type": "dragon"
-              },
-              {
-                "name": "Aura Sphere",
-                "type": "fighting"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Dragon",
-              "Fighting"
-            ],
-            "display_name": "Kommo-o",
-            "pokedexName": "Kommo-o",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Kommo-o"
-          },
-          {
-            "name": "Basculegion",
-            "item": "Choice Scarf",
-            "item_us": "Choice_Scarf",
-            "ability": "Adaptability",
-            "moves": [
-              {
-                "name": "Wave Crash",
-                "type": "water"
-              },
-              {
-                "name": "Flip Turn",
-                "type": "water"
-              },
-              {
-                "name": "Aqua Jet",
-                "type": "water"
-              },
-              {
-                "name": "Last Respects",
-                "type": "ghost"
-              }
-            ],
-            "types": [
-              "Water",
-              "Ghost"
-            ],
-            "display_name": "Basculegion",
-            "pokedexName": "Basculegion",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Basculegion"
-          }
-        ],
-        "tournamentDate": "2026-05-30T15:00:00.000Z",
-        "tournamentLabel": "AUTOFULL CHAMPIONS SERIES QUALIFIER [120 USD]"
-      },
-      {
-        "author": "Gabeeel",
-        "authorId": "gabeeel",
-        "event": "limitless-6a1784e98c163b8097998b28",
-        "link": "https://play.limitlesstcg.com/tournament/6a1784e98c163b8097998b28/player/gabeeel/teamlist",
-        "ranking": 112,
-        "record": "7-1",
-        "source": "limitless",
-        "tournamentId": "limitless-6a1784e98c163b8097998b28",
-        "tournamentRanking": 1,
-        "pokemon": [
-          {
-            "name": "Blastoise-Mega",
-            "item": "Blastoisinite",
-            "item_us": "Blastoisinite",
-            "ability": "Rain Dish",
-            "moves": [
-              {
-                "name": "Water Spout",
-                "type": "water"
-              },
-              {
-                "name": "Ice Beam",
-                "type": "ice"
-              },
-              {
-                "name": "Shell Smash",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Water"
-            ],
-            "display_name": "Blastoise-Mega",
-            "pokedexName": "Blastoise-Mega",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Blastoise-Mega"
-          },
-          {
-            "name": "Vivillon",
-            "item": "Focus Sash",
-            "item_us": "Focus_Sash",
-            "ability": "Friend Guard",
-            "moves": [
-              {
-                "name": "Pollen Puff",
-                "type": "bug"
-              },
-              {
-                "name": "Rage Powder",
-                "type": "bug"
-              },
-              {
-                "name": "Tailwind",
-                "type": "flying"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Bug",
-              "Flying"
-            ],
-            "display_name": "Vivillon",
-            "pokedexName": "Vivillon",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Vivillon"
-          },
-          {
-            "name": "Clefable",
-            "item": "Leftovers",
-            "item_us": "Leftovers",
-            "ability": "Unaware",
-            "moves": [
-              {
-                "name": "Moonblast",
-                "type": "fairy"
-              },
-              {
-                "name": "Follow Me",
-                "type": "normal"
-              },
-              {
-                "name": "Life Dew",
-                "type": "water"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fairy"
-            ],
-            "display_name": "Clefable",
-            "pokedexName": "Clefable",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Clefable"
-          },
-          {
-            "name": "Meowscarada",
-            "item": "Choice Scarf",
-            "item_us": "Choice_Scarf",
-            "ability": "Protean",
-            "moves": [
-              {
-                "name": "Flower Trick",
-                "type": "grass"
-              },
-              {
-                "name": "Knock Off",
-                "type": "dark"
-              },
-              {
-                "name": "Sucker Punch",
-                "type": "dark"
-              },
-              {
-                "name": "U-turn",
-                "type": "bug"
-              }
-            ],
-            "types": [
-              "Grass",
-              "Dark"
-            ],
-            "display_name": "Meowscarada",
-            "pokedexName": "Meowscarada",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Meowscarada"
-          },
-          {
-            "name": "Luxray",
-            "item": "Sitrus Berry",
-            "item_us": "Sitrus_Berry",
-            "ability": "Intimidate",
-            "moves": [
-              {
-                "name": "Wild Charge",
-                "type": "electric"
-              },
-              {
-                "name": "Volt Switch",
-                "type": "electric"
-              },
-              {
-                "name": "Snarl",
-                "type": "dark"
-              },
-              {
-                "name": "Baby-Doll Eyes",
-                "type": "fairy"
-              }
-            ],
-            "types": [
-              "Electric"
-            ],
-            "display_name": "Luxray",
-            "pokedexName": "Luxray",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Luxray"
-          },
-          {
-            "name": "Ceruledge",
-            "item": "Passho Berry",
-            "item_us": "Passho_Berry",
-            "ability": "Flash Fire",
-            "moves": [
-              {
-                "name": "Bitter Blade",
-                "type": "fire"
-              },
-              {
-                "name": "Shadow Sneak",
-                "type": "ghost"
-              },
-              {
-                "name": "Swords Dance",
-                "type": "normal"
-              },
-              {
-                "name": "Protect",
-                "type": "normal"
-              }
-            ],
-            "types": [
-              "Fire",
-              "Ghost"
-            ],
-            "display_name": "Ceruledge",
-            "pokedexName": "Ceruledge",
-            "pokedexUrl": "/pokedex/gen9championsvgc2026regma/Ceruledge"
-          }
-        ],
-        "tournamentDate": "2026-05-29T23:00:00.000Z",
-        "tournamentLabel": "VGC UU Regulation M-A Weekly #4"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What are the best moves for Clefable in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "The top moves for Clefable in Pokemon Champions VGC 2026 Tournaments are Follow Me (95.495%), Protect (84.685%), Moonblast (80.180%), Helping Hand (44.144%). These represent the highest usage percentages on the competitive ladder."
-      },
-      {
-        "question": "What are the best teammates for Clefable?",
-        "answer": "Clefable synergizes well with Sneasler (43.243%), Kingambit (40.541%), Delphox (32.432%), Basculegion (27.928%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
-      },
-      {
-        "question": "What item should I use on Clefable?",
-        "answer": "The most popular items for Clefable are Sitrus Berry (44.144%), Clefablite (23.423%), Leftovers (14.414%). The best choice depends on your team composition and strategy."
-      },
-      {
-        "question": "What ability is best for Clefable?",
-        "answer": "The most common abilities for Clefable are Unaware (72.973%) and Magic Guard (22.523%). The choice often depends on your team's strategy."
-      },
-      {
-        "question": "What is Clefable's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Clefable has a 48% winrate in Pokemon Champions VGC 2026 Tournaments, based on 209 wins and 226 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
-      },
-      {
-        "question": "Is Clefable good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Clefable is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
-      }
-    ]
-  },
-  {
     "name": "Scizor",
     "abilities": [
       {
@@ -127674,12 +126728,12 @@
       "spd": 80,
       "spe": 65
     },
-    "winRate": 0.4627228525121556,
-    "winrate": 0.4627228525121556,
-    "winPercent": "46.272",
-    "Win %": "46.272%",
-    "wins": 285,
-    "losses": 331,
+    "winRate": 0.45948136142625606,
+    "winrate": 0.45948136142625606,
+    "winPercent": "45.948",
+    "Win %": "45.948%",
+    "wins": 283,
+    "losses": 333,
     "ties": 1,
     "games": 617,
     "display_name": null,
@@ -128109,11 +127163,11 @@
       },
       {
         "question": "What is Scizor's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Scizor has a 46.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 285 wins and 331 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Scizor has a 45.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 283 wins and 333 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Scizor good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Scizor is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Scizor is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -128325,14 +127379,14 @@
       "spd": 80,
       "spe": 90
     },
-    "winRate": 0.39019607843137255,
-    "winrate": 0.39019607843137255,
-    "winPercent": "39.020",
-    "Win %": "39.020%",
-    "wins": 199,
-    "losses": 311,
+    "winRate": 0.39299610894941633,
+    "winrate": 0.39299610894941633,
+    "winPercent": "39.300",
+    "Win %": "39.300%",
+    "wins": 202,
+    "losses": 312,
     "ties": 0,
-    "games": 510,
+    "games": 514,
     "display_name": null,
     "name_trans": "Kangaskhan",
     "l": "en",
@@ -128557,11 +127611,11 @@
       },
       {
         "question": "What is Kangaskhan's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kangaskhan has a 39% winrate in Pokemon Champions VGC 2026 Tournaments, based on 199 wins and 311 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Kangaskhan has a 39.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 202 wins and 312 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Kangaskhan good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Kangaskhan is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 39% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Kangaskhan is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 39.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -128804,14 +127858,14 @@
       "spd": 110,
       "spe": 60
     },
-    "winRate": 0.4764595103578154,
-    "winrate": 0.4764595103578154,
-    "winPercent": "47.646",
-    "Win %": "47.646%",
-    "wins": 253,
-    "losses": 278,
+    "winRate": 0.47619047619047616,
+    "winrate": 0.47619047619047616,
+    "winPercent": "47.619",
+    "Win %": "47.619%",
+    "wins": 250,
+    "losses": 275,
     "ties": 0,
-    "games": 531,
+    "games": 525,
     "display_name": null,
     "name_trans": "Oranguru",
     "l": "en",
@@ -129038,7 +128092,7 @@
       },
       {
         "question": "What is Oranguru's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Oranguru has a 47.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 253 wins and 278 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Oranguru has a 47.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 250 wins and 275 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Oranguru good in Pokemon Champions VGC 2026 Tournaments?",
@@ -129329,14 +128383,14 @@
       "spd": 115,
       "spe": 80
     },
-    "winRate": 0.45054945054945056,
-    "winrate": 0.45054945054945056,
-    "winPercent": "45.055",
-    "Win %": "45.055%",
-    "wins": 246,
-    "losses": 300,
+    "winRate": 0.45297504798464494,
+    "winrate": 0.45297504798464494,
+    "winPercent": "45.298",
+    "Win %": "45.298%",
+    "wins": 236,
+    "losses": 285,
     "ties": 0,
-    "games": 546,
+    "games": 521,
     "display_name": null,
     "name_trans": "Gallade",
     "l": "en",
@@ -129361,11 +128415,11 @@
       },
       {
         "question": "What is Gallade's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Gallade has a 45.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 246 wins and 300 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Gallade has a 45.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 236 wins and 285 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Gallade good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Gallade is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Gallade is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 45.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -129981,14 +129035,14 @@
       "spd": 110,
       "spe": 30
     },
-    "winRate": 0.4891518737672584,
-    "winrate": 0.4891518737672584,
-    "winPercent": "48.915",
-    "Win %": "48.915%",
-    "wins": 248,
-    "losses": 259,
+    "winRate": 0.49796747967479676,
+    "winrate": 0.49796747967479676,
+    "winPercent": "49.797",
+    "Win %": "49.797%",
+    "wins": 245,
+    "losses": 247,
     "ties": 0,
-    "games": 507,
+    "games": 492,
     "display_name": null,
     "name_trans": "Snorlax",
     "l": "en",
@@ -130413,11 +129467,11 @@
       },
       {
         "question": "What is Snorlax's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Snorlax has a 48.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 248 wins and 259 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Snorlax has a 49.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 245 wins and 247 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Snorlax good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Snorlax is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 48.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Snorlax is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -130805,14 +129859,14 @@
       "spd": 75,
       "spe": 142
     },
-    "winRate": 0.403921568627451,
-    "winrate": 0.403921568627451,
-    "winPercent": "40.392",
-    "Win %": "40.392%",
-    "wins": 206,
+    "winRate": 0.4050880626223092,
+    "winrate": 0.4050880626223092,
+    "winPercent": "40.509",
+    "Win %": "40.509%",
+    "wins": 207,
     "losses": 304,
     "ties": 0,
-    "games": 510,
+    "games": 511,
     "display_name": null,
     "name_trans": "Dragapult",
     "l": "en",
@@ -130839,11 +129893,11 @@
       },
       {
         "question": "What is Dragapult's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Dragapult has a 40.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 206 wins and 304 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Dragapult has a 40.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 207 wins and 304 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Dragapult good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Dragapult is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Dragapult is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -131180,14 +130234,14 @@
       "spd": 60,
       "spe": 110
     },
-    "winRate": 0.40040650406504064,
-    "winrate": 0.40040650406504064,
-    "winPercent": "40.041",
-    "Win %": "40.041%",
-    "wins": 197,
-    "losses": 295,
+    "winRate": 0.39293139293139295,
+    "winrate": 0.39293139293139295,
+    "winPercent": "39.293",
+    "Win %": "39.293%",
+    "wins": 189,
+    "losses": 292,
     "ties": 0,
-    "games": 492,
+    "games": 481,
     "display_name": null,
     "name_trans": "Zoroark-Hisui",
     "l": "en",
@@ -131614,11 +130668,11 @@
       },
       {
         "question": "What is Zoroark-Hisui's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Zoroark-Hisui has a 40% winrate in Pokemon Champions VGC 2026 Tournaments, based on 197 wins and 295 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Zoroark-Hisui has a 39.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 189 wins and 292 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Zoroark-Hisui good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Zoroark-Hisui is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Zoroark-Hisui is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 39.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -131919,14 +130973,14 @@
       "spd": 85,
       "spe": 115
     },
-    "winRate": 0.3333333333333333,
-    "winrate": 0.3333333333333333,
-    "winPercent": "33.333",
-    "Win %": "33.333%",
+    "winRate": 0.36363636363636365,
+    "winrate": 0.36363636363636365,
+    "winPercent": "36.364",
+    "Win %": "36.364%",
     "wins": 8,
-    "losses": 16,
+    "losses": 14,
     "ties": 0,
-    "games": 24,
+    "games": 22,
     "display_name": null,
     "name_trans": "Starmie",
     "l": "en",
@@ -131951,11 +131005,11 @@
       },
       {
         "question": "What is Starmie's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Starmie has a 33.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 8 wins and 16 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Starmie has a 36.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 8 wins and 14 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Starmie good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Starmie is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 33.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Starmie is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 36.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -132210,14 +131264,14 @@
       "spd": 80,
       "spe": 50
     },
-    "winRate": 0.46635730858468677,
-    "winrate": 0.46635730858468677,
-    "winPercent": "46.636",
-    "Win %": "46.636%",
-    "wins": 201,
-    "losses": 230,
+    "winRate": 0.47073170731707314,
+    "winrate": 0.47073170731707314,
+    "winPercent": "47.073",
+    "Win %": "47.073%",
+    "wins": 193,
+    "losses": 217,
     "ties": 0,
-    "games": 431,
+    "games": 410,
     "display_name": null,
     "name_trans": "Azumarill",
     "l": "en",
@@ -132242,11 +131296,11 @@
       },
       {
         "question": "What is Azumarill's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Azumarill has a 46.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 201 wins and 230 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Azumarill has a 47.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 193 wins and 217 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Azumarill good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Azumarill is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Azumarill is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -132522,14 +131576,14 @@
       "spd": 70,
       "spe": 112
     },
-    "winRate": 0.387409200968523,
-    "winrate": 0.387409200968523,
-    "winPercent": "38.741",
-    "Win %": "38.741%",
-    "wins": 160,
-    "losses": 253,
+    "winRate": 0.3891509433962264,
+    "winrate": 0.3891509433962264,
+    "winPercent": "38.915",
+    "Win %": "38.915%",
+    "wins": 165,
+    "losses": 259,
     "ties": 0,
-    "games": 413,
+    "games": 424,
     "display_name": "Mega Lucario",
     "name_trans": "Mega Lucario",
     "l": "en",
@@ -133156,11 +132210,11 @@
       },
       {
         "question": "What is Mega Lucario's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Lucario has a 38.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 160 wins and 253 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Lucario has a 38.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 165 wins and 259 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Lucario good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Lucario is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 38.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Lucario is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 38.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -133431,14 +132485,14 @@
       "spd": 65,
       "spe": 85
     },
-    "winRate": 0.5539906103286385,
-    "winrate": 0.5539906103286385,
-    "winPercent": "55.399",
-    "Win %": "55.399%",
-    "wins": 118,
-    "losses": 95,
+    "winRate": 0.5570776255707762,
+    "winrate": 0.5570776255707762,
+    "winPercent": "55.708",
+    "Win %": "55.708%",
+    "wins": 122,
+    "losses": 97,
     "ties": 0,
-    "games": 213,
+    "games": 219,
     "display_name": null,
     "name_trans": "Samurott-Hisui",
     "l": "en",
@@ -134266,359 +133320,11 @@
       },
       {
         "question": "What is Samurott-Hisui's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Samurott-Hisui has a 55.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 118 wins and 95 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Samurott-Hisui has a 55.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 122 wins and 97 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Samurott-Hisui good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Samurott-Hisui is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
-      }
-    ]
-  },
-  {
-    "name": "Tyranitar",
-    "abilities": [
-      {
-        "ability": "Sand Stream",
-        "percent": "96.203"
-      },
-      {
-        "ability": "Unnerve",
-        "percent": "3.797"
-      }
-    ],
-    "items": [
-      {
-        "item": "Focus Sash",
-        "item_us": "Focus_Sash",
-        "percent": "37.975"
-      },
-      {
-        "item": "Chople Berry",
-        "item_us": "Chople_Berry",
-        "percent": "30.380"
-      },
-      {
-        "item": "Choice Scarf",
-        "item_us": "Choice_Scarf",
-        "percent": "8.861"
-      },
-      {
-        "item": "Passho Berry",
-        "item_us": "Passho_Berry",
-        "percent": "7.595"
-      },
-      {
-        "item": "Lum Berry",
-        "item_us": "Lum_Berry",
-        "percent": "5.063"
-      },
-      {
-        "item": "Hard Stone",
-        "item_us": "Hard_Stone",
-        "percent": "3.797"
-      },
-      {
-        "item": "Leftovers",
-        "item_us": "Leftovers",
-        "percent": "2.532"
-      },
-      {
-        "item": "Roseli Berry",
-        "item_us": "Roseli_Berry",
-        "percent": "1.266"
-      },
-      {
-        "item": "Bright Powder",
-        "item_us": "Bright_Powder",
-        "percent": "1.266"
-      },
-      {
-        "item": "Shuca Berry",
-        "item_us": "Shuca_Berry",
-        "percent": "1.266"
-      }
-    ],
-    "moves": [
-      {
-        "move": "Rock Slide",
-        "percent": "96.203",
-        "type": "rock"
-      },
-      {
-        "move": "Knock Off",
-        "percent": "88.608",
-        "type": "dark"
-      },
-      {
-        "move": "Protect",
-        "percent": "86.076",
-        "type": "normal"
-      },
-      {
-        "move": "Low Kick",
-        "percent": "44.304",
-        "type": "fighting"
-      },
-      {
-        "move": "Ice Punch",
-        "percent": "26.582",
-        "type": "ice"
-      },
-      {
-        "move": "High Horsepower",
-        "percent": "12.658",
-        "type": "ground"
-      },
-      {
-        "move": "Superpower",
-        "percent": "8.861",
-        "type": "fighting"
-      },
-      {
-        "move": "Stone Edge",
-        "percent": "6.329",
-        "type": "rock"
-      },
-      {
-        "move": "Crunch",
-        "percent": "6.329",
-        "type": "dark"
-      },
-      {
-        "move": "Earthquake",
-        "percent": "5.063",
-        "type": "ground"
-      },
-      {
-        "move": "Thunder Punch",
-        "percent": "3.797",
-        "type": "electric"
-      },
-      {
-        "move": "Dragon Dance",
-        "percent": "3.797",
-        "type": "dragon"
-      },
-      {
-        "move": "Brick Break",
-        "percent": "2.532",
-        "type": "fighting"
-      },
-      {
-        "move": "Breaking Swipe",
-        "percent": "1.266",
-        "type": "dragon"
-      },
-      {
-        "move": "Hard Press",
-        "percent": "1.266",
-        "type": "steel"
-      },
-      {
-        "move": "Fire Punch",
-        "percent": "1.266",
-        "type": "fire"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "percent": "1.266",
-        "type": "ground"
-      },
-      {
-        "move": "Curse",
-        "percent": "1.266",
-        "type": "ghost"
-      },
-      {
-        "move": "Iron Head",
-        "percent": "1.266",
-        "type": "steel"
-      }
-    ],
-    "spreads": [],
-    "team": [
-      {
-        "pokemon": "Garchomp",
-        "percent": "31.646",
-        "types": [
-          "dragon",
-          "ground"
-        ],
-        "pokemon_trans": "Garchomp",
-        "l": "en"
-      },
-      {
-        "pokemon": "Venusaur-Mega",
-        "percent": "24.051",
-        "types": [
-          "grass",
-          "poison"
-        ],
-        "pokemon_trans": "Mega Venusaur",
-        "l": "en"
-      },
-      {
-        "pokemon": "Corviknight",
-        "percent": "22.785",
-        "types": [
-          "flying",
-          "steel"
-        ],
-        "ss": true,
-        "id": 823,
-        "pokemon_trans": "Corviknight",
-        "l": "en"
-      },
-      {
-        "pokemon": "Excadrill",
-        "percent": "20.253",
-        "types": [
-          "ground",
-          "steel"
-        ],
-        "pokemon_trans": "Excadrill",
-        "l": "en"
-      },
-      {
-        "pokemon": "Sneasler",
-        "percent": "20.253",
-        "types": [
-          "fighting",
-          "poison"
-        ],
-        "ss": true,
-        "id": 903,
-        "pokemon_trans": "Sneasler",
-        "l": "en"
-      },
-      {
-        "pokemon": "Whimsicott",
-        "percent": "18.987",
-        "types": [
-          "grass",
-          "fairy"
-        ],
-        "pokemon_trans": "Whimsicott",
-        "l": "en"
-      },
-      {
-        "pokemon": "Rotom-Heat",
-        "percent": "18.987",
-        "types": [
-          "electric",
-          "fire"
-        ],
-        "pokemon_trans": "Rotom-Heat",
-        "l": "en"
-      },
-      {
-        "pokemon": "Farigiraf",
-        "percent": "16.456",
-        "types": [
-          "normal",
-          "psychic"
-        ],
-        "ss": true,
-        "id": 981,
-        "pokemon_trans": "Farigiraf",
-        "l": "en"
-      },
-      {
-        "pokemon": "Incineroar",
-        "percent": "16.456",
-        "types": [
-          "fire",
-          "dark"
-        ],
-        "pokemon_trans": "Incineroar",
-        "l": "en"
-      },
-      {
-        "pokemon": "Sinistcha",
-        "percent": "15.190",
-        "types": [
-          "grass",
-          "ghost"
-        ],
-        "ss": true,
-        "id": 1013,
-        "pokemon_trans": "Sinistcha",
-        "l": "en"
-      },
-      {
-        "pokemon": "Basculegion",
-        "percent": "15.190",
-        "types": [
-          "water",
-          "ghost"
-        ],
-        "ss": true,
-        "id": 902,
-        "pokemon_trans": "Basculegion",
-        "l": "en"
-      },
-      {
-        "pokemon": "Milotic",
-        "percent": "13.924",
-        "types": [
-          "water"
-        ],
-        "pokemon_trans": "Milotic",
-        "l": "en"
-      }
-    ],
-    "raw_count": 79,
-    "percent": "0.89",
-    "ranking": "77",
-    "types": [
-      "rock",
-      "dark"
-    ],
-    "stats": {
-      "hp": 100,
-      "atk": 134,
-      "def": 110,
-      "spa": 95,
-      "spd": 100,
-      "spe": 61
-    },
-    "winRate": 0.400990099009901,
-    "winrate": 0.400990099009901,
-    "winPercent": "40.099",
-    "Win %": "40.099%",
-    "wins": 162,
-    "losses": 242,
-    "ties": 0,
-    "games": 404,
-    "display_name": null,
-    "name_trans": "Tyranitar",
-    "l": "en",
-    "format": "championstournaments",
-    "teams": [],
-    "faq": [
-      {
-        "question": "What are the best moves for Tyranitar in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "The top moves for Tyranitar in Pokemon Champions VGC 2026 Tournaments are Rock Slide (96.203%), Knock Off (88.608%), Protect (86.076%), Low Kick (44.304%). These represent the highest usage percentages on the competitive ladder."
-      },
-      {
-        "question": "What are the best teammates for Tyranitar?",
-        "answer": "Tyranitar synergizes well with Garchomp (31.646%), Venusaur-Mega (24.051%), Corviknight (22.785%), Excadrill (20.253%). These Pokemon frequently appear on teams together and cover each other's weaknesses."
-      },
-      {
-        "question": "What item should I use on Tyranitar?",
-        "answer": "The most popular items for Tyranitar are Focus Sash (37.975%), Chople Berry (30.380%), Choice Scarf (8.861%). The best choice depends on your team composition and strategy."
-      },
-      {
-        "question": "What ability is best for Tyranitar?",
-        "answer": "The most common abilities for Tyranitar are Sand Stream (96.203%) and Unnerve (3.797%). The choice often depends on your team's strategy."
-      },
-      {
-        "question": "What is Tyranitar's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tyranitar has a 40.1% winrate in Pokemon Champions VGC 2026 Tournaments, based on 162 wins and 242 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
-      },
-      {
-        "question": "Is Tyranitar good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Tyranitar is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.1% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Samurott-Hisui is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 55.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -134867,14 +133573,14 @@
       "spd": 80,
       "spe": 135
     },
-    "winRate": 0.46365914786967416,
-    "winrate": 0.46365914786967416,
-    "winPercent": "46.366",
-    "Win %": "46.366%",
-    "wins": 185,
-    "losses": 214,
+    "winRate": 0.46272493573264784,
+    "winrate": 0.46272493573264784,
+    "winPercent": "46.272",
+    "Win %": "46.272%",
+    "wins": 180,
+    "losses": 209,
     "ties": 0,
-    "games": 399,
+    "games": 389,
     "display_name": "Mega Manectric",
     "name_trans": "Mega Manectric",
     "l": "en",
@@ -135100,11 +133806,11 @@
       },
       {
         "question": "What is Mega Manectric's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Manectric has a 46.4% winrate in Pokemon Champions VGC 2026 Tournaments, based on 185 wins and 214 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Manectric has a 46.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 180 wins and 209 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Manectric good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Manectric is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.4% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Manectric is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -135694,14 +134400,14 @@
       "spd": 85,
       "spe": 125
     },
-    "winRate": 0.4771084337349398,
-    "winrate": 0.4771084337349398,
-    "winPercent": "47.711",
-    "Win %": "47.711%",
-    "wins": 198,
-    "losses": 217,
+    "winRate": 0.47570332480818417,
+    "winrate": 0.47570332480818417,
+    "winPercent": "47.570",
+    "Win %": "47.570%",
+    "wins": 186,
+    "losses": 205,
     "ties": 0,
-    "games": 415,
+    "games": 391,
     "display_name": null,
     "name_trans": "Weavile",
     "l": "en",
@@ -135726,11 +134432,11 @@
       },
       {
         "question": "What is Weavile's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Weavile has a 47.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 198 wins and 217 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Weavile has a 47.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 186 wins and 205 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Weavile good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Weavile is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Weavile is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -136033,14 +134739,14 @@
       "spd": 103,
       "spe": 29
     },
-    "winRate": 0.4199475065616798,
-    "winrate": 0.4199475065616798,
-    "winPercent": "41.995",
-    "Win %": "41.995%",
-    "wins": 160,
-    "losses": 221,
+    "winRate": 0.41878172588832485,
+    "winrate": 0.41878172588832485,
+    "winPercent": "41.878",
+    "Win %": "41.878%",
+    "wins": 165,
+    "losses": 229,
     "ties": 0,
-    "games": 381,
+    "games": 394,
     "display_name": null,
     "name_trans": "Hatterene",
     "l": "en",
@@ -136469,11 +135175,11 @@
       },
       {
         "question": "What is Hatterene's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Hatterene has a 42% winrate in Pokemon Champions VGC 2026 Tournaments, based on 160 wins and 221 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Hatterene has a 41.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 165 wins and 229 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Hatterene good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Hatterene is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 42% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Hatterene is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 41.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -137294,14 +136000,14 @@
       "spd": 142,
       "spe": 35
     },
-    "winRate": 0.5397196261682243,
-    "winrate": 0.5397196261682243,
-    "winPercent": "53.972",
-    "Win %": "53.972%",
-    "wins": 231,
-    "losses": 197,
+    "winRate": 0.5388127853881278,
+    "winrate": 0.5388127853881278,
+    "winPercent": "53.881",
+    "Win %": "53.881%",
+    "wins": 236,
+    "losses": 202,
     "ties": 0,
-    "games": 428,
+    "games": 438,
     "display_name": null,
     "name_trans": "Toxapex",
     "l": "en",
@@ -138130,11 +136836,11 @@
       },
       {
         "question": "What is Toxapex's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Toxapex has a 54% winrate in Pokemon Champions VGC 2026 Tournaments, based on 231 wins and 197 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Toxapex has a 53.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 236 wins and 202 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Toxapex good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Toxapex is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 54% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Toxapex is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 53.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -138442,14 +137148,14 @@
       "spd": 90,
       "spe": 80
     },
-    "winRate": 0.4965986394557823,
-    "winrate": 0.4965986394557823,
-    "winPercent": "49.660",
-    "Win %": "49.660%",
-    "wins": 73,
-    "losses": 74,
+    "winRate": 0.49295774647887325,
+    "winrate": 0.49295774647887325,
+    "winPercent": "49.296",
+    "Win %": "49.296%",
+    "wins": 70,
+    "losses": 72,
     "ties": 0,
-    "games": 147,
+    "games": 142,
     "display_name": null,
     "name_trans": "Chandelure",
     "l": "en",
@@ -138474,11 +137180,11 @@
       },
       {
         "question": "What is Chandelure's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Chandelure has a 49.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 73 wins and 74 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Chandelure has a 49.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 70 wins and 72 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Chandelure good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Chandelure is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Chandelure is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 49.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -140459,14 +139165,14 @@
       "spd": 132,
       "spe": 42
     },
-    "winRate": 0.4782608695652174,
-    "winrate": 0.4782608695652174,
-    "winPercent": "47.826",
-    "Win %": "47.826%",
-    "wins": 132,
-    "losses": 144,
+    "winRate": 0.4767025089605735,
+    "winrate": 0.4767025089605735,
+    "winPercent": "47.670",
+    "Win %": "47.670%",
+    "wins": 133,
+    "losses": 146,
     "ties": 0,
-    "games": 276,
+    "games": 279,
     "display_name": null,
     "name_trans": "Araquanid",
     "l": "en",
@@ -141093,11 +139799,11 @@
       },
       {
         "question": "What is Araquanid's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Araquanid has a 47.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 132 wins and 144 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Araquanid has a 47.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 133 wins and 146 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Araquanid good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Araquanid is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Araquanid is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -141392,14 +140098,14 @@
       "spd": 60,
       "spe": 80
     },
-    "winRate": 0.509009009009009,
-    "winrate": 0.509009009009009,
-    "winPercent": "50.901",
-    "Win %": "50.901%",
-    "wins": 169,
-    "losses": 163,
+    "winRate": 0.5117994100294986,
+    "winrate": 0.5117994100294986,
+    "winPercent": "51.180",
+    "Win %": "51.180%",
+    "wins": 173,
+    "losses": 165,
     "ties": 1,
-    "games": 333,
+    "games": 339,
     "display_name": null,
     "name_trans": "Mamoswine",
     "l": "en",
@@ -142028,11 +140734,11 @@
       },
       {
         "question": "What is Mamoswine's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mamoswine has a 50.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 169 wins and 163 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mamoswine has a 51.2% winrate in Pokemon Champions VGC 2026 Tournaments, based on 173 wins and 165 losses with 1 ties. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mamoswine good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mamoswine is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 50.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mamoswine is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 51.2% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -142261,14 +140967,14 @@
       "spd": 80,
       "spe": 50
     },
-    "winRate": 0.41452991452991456,
-    "winrate": 0.41452991452991456,
-    "winPercent": "41.453",
-    "Win %": "41.453%",
-    "wins": 97,
-    "losses": 137,
+    "winRate": 0.40869565217391307,
+    "winrate": 0.40869565217391307,
+    "winPercent": "40.870",
+    "Win %": "40.870%",
+    "wins": 94,
+    "losses": 136,
     "ties": 0,
-    "games": 234,
+    "games": 230,
     "display_name": "Mega Aggron",
     "name_trans": "Mega Aggron",
     "l": "en",
@@ -142293,11 +140999,11 @@
       },
       {
         "question": "What is Mega Aggron's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Aggron has a 41.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 97 wins and 137 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Aggron has a 40.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 94 wins and 136 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Aggron good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Aggron is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 41.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Aggron is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -142587,14 +141293,14 @@
       "spd": 65,
       "spe": 45
     },
-    "winRate": 0.47783251231527096,
-    "winrate": 0.47783251231527096,
-    "winPercent": "47.783",
-    "Win %": "47.783%",
-    "wins": 97,
-    "losses": 106,
+    "winRate": 0.4669811320754717,
+    "winrate": 0.4669811320754717,
+    "winPercent": "46.698",
+    "Win %": "46.698%",
+    "wins": 99,
+    "losses": 113,
     "ties": 0,
-    "games": 203,
+    "games": 212,
     "display_name": null,
     "name_trans": "Conkeldurr",
     "l": "en",
@@ -142619,11 +141325,11 @@
       },
       {
         "question": "What is Conkeldurr's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Conkeldurr has a 47.8% winrate in Pokemon Champions VGC 2026 Tournaments, based on 97 wins and 106 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Conkeldurr has a 46.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 99 wins and 113 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Conkeldurr good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Conkeldurr is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 47.8% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Conkeldurr is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -142970,14 +141676,14 @@
       "spd": 71,
       "spe": 122
     },
-    "winRate": 0.35294117647058826,
-    "winrate": 0.35294117647058826,
-    "winPercent": "35.294",
-    "Win %": "35.294%",
+    "winRate": 0.3673469387755102,
+    "winrate": 0.3673469387755102,
+    "winPercent": "36.735",
+    "Win %": "36.735%",
     "wins": 18,
-    "losses": 33,
+    "losses": 31,
     "ties": 0,
-    "games": 51,
+    "games": 49,
     "display_name": null,
     "name_trans": "Greninja",
     "l": "en",
@@ -143002,11 +141708,11 @@
       },
       {
         "question": "What is Greninja's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Greninja has a 35.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 18 wins and 33 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Greninja has a 36.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 18 wins and 31 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Greninja good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Greninja is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 35.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Greninja is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 36.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -143346,14 +142052,14 @@
       "spd": 81,
       "spe": 104
     },
-    "winRate": 0.44324324324324327,
-    "winrate": 0.44324324324324327,
-    "winPercent": "44.324",
-    "Win %": "44.324%",
+    "winRate": 0.4270833333333333,
+    "winrate": 0.4270833333333333,
+    "winPercent": "42.708",
+    "Win %": "42.708%",
     "wins": 82,
-    "losses": 103,
+    "losses": 110,
     "ties": 0,
-    "games": 185,
+    "games": 192,
     "display_name": null,
     "name_trans": "Meowstic",
     "l": "en",
@@ -143378,11 +142084,11 @@
       },
       {
         "question": "What is Meowstic's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Meowstic has a 44.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 82 wins and 103 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Meowstic has a 42.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 82 wins and 110 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Meowstic good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Meowstic is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 44.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Meowstic is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 42.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -143657,14 +142363,14 @@
       "spd": 80,
       "spe": 95
     },
-    "winRate": 0.4072398190045249,
-    "winrate": 0.4072398190045249,
-    "winPercent": "40.724",
-    "Win %": "40.724%",
-    "wins": 90,
-    "losses": 131,
+    "winRate": 0.4026548672566372,
+    "winrate": 0.4026548672566372,
+    "winPercent": "40.265",
+    "Win %": "40.265%",
+    "wins": 91,
+    "losses": 135,
     "ties": 0,
-    "games": 221,
+    "games": 226,
     "display_name": null,
     "name_trans": "Arcanine",
     "l": "en",
@@ -143689,11 +142395,11 @@
       },
       {
         "question": "What is Arcanine's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Arcanine has a 40.7% winrate in Pokemon Champions VGC 2026 Tournaments, based on 90 wins and 131 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Arcanine has a 40.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 91 wins and 135 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Arcanine good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Arcanine is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.7% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Arcanine is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 40.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -144925,14 +143631,14 @@
       "spd": 100,
       "spe": 81
     },
-    "winRate": 0.46332046332046334,
-    "winrate": 0.46332046332046334,
-    "winPercent": "46.332",
-    "Win %": "46.332%",
-    "wins": 120,
-    "losses": 139,
+    "winRate": 0.4689922480620155,
+    "winrate": 0.4689922480620155,
+    "winPercent": "46.899",
+    "Win %": "46.899%",
+    "wins": 121,
+    "losses": 137,
     "ties": 0,
-    "games": 259,
+    "games": 258,
     "display_name": null,
     "name_trans": "Gyarados",
     "l": "en",
@@ -145158,11 +143864,11 @@
       },
       {
         "question": "What is Gyarados's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Gyarados has a 46.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 120 wins and 139 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Gyarados has a 46.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 121 wins and 137 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Gyarados good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Gyarados is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Gyarados is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 46.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -145751,14 +144457,14 @@
       "spd": 105,
       "spe": 75
     },
-    "winRate": 0.4148936170212766,
-    "winrate": 0.4148936170212766,
-    "winPercent": "41.489",
-    "Win %": "41.489%",
-    "wins": 78,
-    "losses": 110,
+    "winRate": 0.41304347826086957,
+    "winrate": 0.41304347826086957,
+    "winPercent": "41.304",
+    "Win %": "41.304%",
+    "wins": 76,
+    "losses": 108,
     "ties": 0,
-    "games": 188,
+    "games": 184,
     "display_name": "Mega Heracross",
     "name_trans": "Mega Heracross",
     "l": "en",
@@ -145984,11 +144690,11 @@
       },
       {
         "question": "What is Mega Heracross's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Heracross has a 41.5% winrate in Pokemon Champions VGC 2026 Tournaments, based on 78 wins and 110 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Mega Heracross has a 41.3% winrate in Pokemon Champions VGC 2026 Tournaments, based on 76 wins and 108 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Mega Heracross good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Mega Heracross is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 41.5% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Mega Heracross is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 41.3% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   },
@@ -146250,14 +144956,14 @@
       "spd": 80,
       "spe": 110
     },
-    "winRate": 0.3055555555555556,
-    "winrate": 0.3055555555555556,
-    "winPercent": "30.556",
-    "Win %": "30.556%",
-    "wins": 55,
-    "losses": 125,
+    "winRate": 0.31868131868131866,
+    "winrate": 0.31868131868131866,
+    "winPercent": "31.868",
+    "Win %": "31.868%",
+    "wins": 58,
+    "losses": 124,
     "ties": 0,
-    "games": 180,
+    "games": 182,
     "display_name": null,
     "name_trans": "Raichu",
     "l": "en",
@@ -146282,11 +144988,11 @@
       },
       {
         "question": "What is Raichu's winrate in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Raichu has a 30.6% winrate in Pokemon Champions VGC 2026 Tournaments, based on 55 wins and 125 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
+        "answer": "Raichu has a 31.9% winrate in Pokemon Champions VGC 2026 Tournaments, based on 58 wins and 124 losses. Winrates are aggregated from Limitless tours over the past 4 weeks."
       },
       {
         "question": "Is Raichu good in Pokemon Champions VGC 2026 Tournaments?",
-        "answer": "Raichu is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 30.6% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
+        "answer": "Raichu is currently ranked in the Pokemon Champions VGC 2026 Tournaments metagame. Check the usage percentage, 31.9% winrate, and teammates section to see how well it performs. The data is aggregated from thousands of high-level ranked battles."
       }
     ]
   }
