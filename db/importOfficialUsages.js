@@ -72,7 +72,7 @@ const saveTierUsage = async (
   percent,
   provider = "showdown"
 ) => {
-  percent = parseFloat(itemData.percent);
+  percent = parseFloat(percent);
   if (isNaN(percent) || percent < 1) {
     percent = null;
   } else {
