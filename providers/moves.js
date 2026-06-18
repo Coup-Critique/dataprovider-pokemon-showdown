@@ -13,6 +13,7 @@ const makeMoveObject = (rawObject, gen) => ({
   type: rawObject.type,
   priority: rawObject.priority,
   flags: rawObject.flags,
+  target: rawObject.target,
   gen,
 });
 
@@ -29,6 +30,16 @@ for (let gen = 1; gen <= LAST_GEN; gen++) {
       return makeMoveObject(move, gen);
     });
   movesCollection.push(...movesFromShowdown);
+}
+
+// After for Dex mod
+const championsDex = Dex.mod("champions");
+
+for (const move of movesCollection) {
+  if (move.gen == LAST_GEN) {
+    const champMove = championsDex.moves.get(move.usageName);
+    move.champions = champMove.exists && !champMove.isNonstandard;
+  }
 }
 
 module.exports = movesCollection;

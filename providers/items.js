@@ -32,6 +32,14 @@ for (let gen = 1; gen <= LAST_GEN; gen++) {
     itemsCollection.push(makeItemObject(itemFromShowdown, gen));
 }
 
-// const items = Object.values(itemsCollection);
+// After for Dex mod
+const championsDex = Dex.mod("champions");
+
+for (const item of itemsCollection) {
+  if (item.gen == LAST_GEN && item.name !== "No Item") {
+    const champItem = championsDex.items.get(item.usageName);
+    item.champions = champItem.exists && !champItem.isNonstandard;
+  }
+}
 
 module.exports = itemsCollection;
