@@ -6,9 +6,9 @@
 		"playable": false
 	},
 	{
-		"name": "Champions Duo Règlement M-A",
+		"name": "Champions Duo Règlement M-B",
 		"shortName": "Champions Duo",
-		"usageName": "championsvgc2026regma",
+		"usageName": "championsvgc2026regmb",
 		"playable": true,
 		"official": true,
 		"champions": true,
@@ -20,9 +20,9 @@
 		]
 	},
 	{
-		"name": "Champions Solo Règlement M-A",
+		"name": "Champions Solo Règlement M-B",
 		"shortName": "Champions Solo",
-		"usageName": "championsbssregma",
+		"usageName": "championsbssregmb",
 		"champions": true,
 		"official": true,
 		"main": true,
