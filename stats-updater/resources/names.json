@@ -196,5 +196,9 @@
   "gen9sketchmons": "[Gen 9] Sketchmons",
   "gen9champions4v4doublesuu": "[Gen 9 Champions] 4v4 Doubles UU",
   "gen8nationaldexubers": "[Gen 8] National Dex Ubers",
-  "gen9championsrandombattle": "[Gen 9 Champions] Random Battle"
+  "gen9championsrandombattle": "[Gen 9 Champions] Random Battle",
+  "gen9championsbssregmb": "[Gen 9 Champions] BSS Reg M-B",
+  "gen9championsvgc2026regmb": "[Gen 9 Champions] VGC 2026 Reg M-B",
+  "gen9championsvgc2026regmbbo3": "[Gen 9 Champions] VGC 2026 Reg M-B (Bo3)",
+  "gen9championsdoublescustomgame": "[Gen 9 Champions] Doubles Custom Game"
 }
