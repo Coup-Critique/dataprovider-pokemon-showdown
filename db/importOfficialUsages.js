@@ -107,6 +107,8 @@ const getEntityByUsageName = async (tableName, gen, usageName) => {
 
 const getPokemonByUsageName = async (gen, usageName) => {
   if (isChampions && usageName === "Floette") usageName = "Floette-Eternal";
+  if (isChampions && usageName === "Floette-Eternal-Mega")
+    usageName = "Floette-Mega";
   return await getEntityByUsageName("pokemon", gen, usageName);
 };
 
