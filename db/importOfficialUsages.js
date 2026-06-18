@@ -10,6 +10,8 @@ const itemsJson = loadResource("JSON", "items.json");
 const gen = LAST_GEN;
 let isChampions = false;
 
+const clampPercent = (percent) => Math.min(100, percent);
+
 const pokemonsByNameGen = new Map();
 for (const p of pokemonsJson) {
   pokemonsByNameGen.set(`${p.name}|${p.gen}`, p);
@@ -70,10 +72,16 @@ const saveTierUsage = async (
   percent,
   provider = "showdown"
 ) => {
+  percent = parseFloat(itemData.percent);
+  if (isNaN(percent) || percent < 1) {
+    percent = null;
+  } else {
+    percent = clampPercent(percent);
+  }
   return await knex("tierUsage").insert({
     tierId,
     pokemonId,
-    percent: percent || null,
+    percent,
     rank,
     provider,
   });
@@ -131,7 +139,7 @@ const importAbilities = async (gen, usageData, tierUsageId) => {
     await knex("usage_ability").insert({
       tierUsageId,
       abilityId: ability.id,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
@@ -151,7 +159,7 @@ const importItems = async (gen, usageData, tierUsageId) => {
     await knex("usage_item").insert({
       tierUsageId,
       itemId: item.id,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
@@ -171,7 +179,7 @@ const importMoves = async (gen, usageData, tierUsageId) => {
     await knex("usage_move").insert({
       tierUsageId,
       moveId: move.id,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
@@ -186,7 +194,7 @@ const importTeraTypes = async (gen, usageData, tierUsageId) => {
     await knex("usageTera").insert({
       tierUsageId,
       typeId: tera.id,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
@@ -201,7 +209,7 @@ const importSpreads = async (usageData, tierUsageId) => {
       tierUsageId,
       natureId: nature.id,
       evs: spreadData.evs,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
@@ -215,7 +223,7 @@ const importTeammates = async (gen, usageData, tierUsageId) => {
     await knex("teamMate").insert({
       tierUsageId,
       pokemonId: pokemon.id,
-      percent,
+      percent: clampPercent(percent),
     });
   }
 };
