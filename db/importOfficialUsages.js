@@ -70,7 +70,8 @@ const saveTierUsage = async (
   pokemonId,
   rank,
   percent,
-  provider = "showdown"
+  provider = "showdown",
+  winrate = null
 ) => {
   percent = parseFloat(percent);
   if (isNaN(percent) || percent < 1) {
@@ -78,12 +79,19 @@ const saveTierUsage = async (
   } else {
     percent = clampPercent(percent);
   }
+  winrate = parseFloat(winrate);
+  if (isNaN(winrate)) {
+    winrate = null;
+  } else {
+    winrate = clampPercent(winrate);
+  }
   return await knex("tierUsage").insert({
     tierId,
     pokemonId,
     percent,
     rank,
     provider,
+    winrate,
   });
 };
 
@@ -247,7 +255,8 @@ const processPokemonsTierUsages = async (gen, tier, officialData) => {
       pokemon.id,
       pokemonData.ranking,
       pokemonData.percent,
-      tier.champions ? "champions" : "home"
+      tier.champions ? "champions" : "home",
+      tier.champions ? pokemonData.winPercent : null
     );
     const tierUsageId = newUsage[0];
 
