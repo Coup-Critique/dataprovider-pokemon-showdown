@@ -202,4 +202,5 @@
   gen9championsvgc2026regmbbo3: "[Gen 9 Champions] VGC 2026 Reg M-B (Bo3)",
   gen9championsdoublescustomgame: "[Gen 9 Champions] Doubles Custom Game",
   gen9championsnatdexdraft: "[Gen 9 Champions] NatDex Draft",
+  gen4platinumou: "[Gen 4] Platinum OU",
 };
