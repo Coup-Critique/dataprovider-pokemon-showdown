@@ -203,4 +203,6 @@
   gen9championsdoublescustomgame: "[Gen 9 Champions] Doubles Custom Game",
   gen9championsnatdexdraft: "[Gen 9 Champions] NatDex Draft",
   gen4platinumou: "[Gen 4] Platinum OU",
+  gen6randombattleb12p6noteampreview:
+    "[Gen 6] Random Battle (B12P6, No Team Preview)",
 };
