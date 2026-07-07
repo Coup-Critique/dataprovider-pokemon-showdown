@@ -3,6 +3,7 @@ const fs = require("fs");
 const { loadResource, LIBS } = require("../libs/fileLoader");
 const { LAST_GEN } = loadResource(LIBS, "util");
 const months = require("../usages/months.json").list || [];
+const lastMonth = months[months.length - 1];
 const tiers = require("../json/tiers.json");
 
 const officialTiersMapping = {
@@ -47,81 +48,79 @@ getEligibleTiers = () => {
 };
 
 (async () => {
-  const periods = Array.isArray(months) ? months : [];
+  const period = lastMonth;
 
   const eligibleTiers = getEligibleTiers();
 
-  for (const period of periods) {
-    const officialsDir = path.join(
-      __dirname,
-      "..",
-      "usages",
-      "months",
-      period,
-      "officials"
-    );
-    ensureDir(officialsDir);
+  const officialsDir = path.join(
+    __dirname,
+    "..",
+    "usages",
+    "months",
+    period,
+    "officials"
+  );
+  ensureDir(officialsDir);
 
-    for (const tier of eligibleTiers) {
-      const tierKey = getTierKey(tier);
-      if (!tierKey) {
-        console.error({
-          period,
-          tier: tier.usageName,
-          error: "Tier non trouvé",
-        });
-        continue;
-      }
+  for (const tier of eligibleTiers) {
+    const tierKey = getTierKey(tier);
+    if (!tierKey) {
+      console.error({
+        period,
+        tier: tier.usageName,
+        error: "Tier non trouvé",
+      });
+      continue;
+    }
 
-      const url = getPikalyticsTierUrl(tierKey, period);
+    const url = getPikalyticsTierUrl(tierKey, period);
+    let response = null;
+    let payload = [];
+    try {
+      response = await fetch(url);
+      payload = await response.json();
+    } catch (error) {
+      console.error("failed for tier " + tierKey + " on period " + period);
+      continue;
+    }
+    console.log("run " + tierKey + " on period " + period);
+
+    const top100 = payload.slice(0, 100);
+    const pokemonData = [];
+    for (const pokemon of top100) {
+      const url = getPikalyticsPokemonDataUrl(tierKey, period, pokemon.name);
+      await wait(1000);
       let response = null;
-      let payload = [];
+      let payload = null;
       try {
         response = await fetch(url);
         payload = await response.json();
+        pokemonData.push(
+          pokemon.percent ? { ...payload, percent: pokemon.percent } : payload
+        );
       } catch (error) {
-        console.error("failed for tier " + tierKey + " on period " + period);
+        console.error({
+          url,
+          period,
+          pokemon: pokemon.name,
+          tier: tier.usageName,
+          error: error.message,
+          response,
+        });
         continue;
       }
-      console.log("run " + tierKey + " on period " + period);
-
-      const top100 = payload.slice(0, 100);
-      const pokemonData = [];
-      for (const pokemon of top100) {
-        const url = getPikalyticsPokemonDataUrl(tierKey, period, pokemon.name);
-        await wait(1000);
-        let response = null;
-        let payload = null;
-        try {
-          response = await fetch(url);
-          payload = await response.json();
-          pokemonData.push(
-            pokemon.percent ? { ...payload, percent: pokemon.percent } : payload
-          );
-        } catch (error) {
-          console.error({
-            url,
-            period,
-            pokemon: pokemon.name,
-            tier: tier.usageName,
-            error: error.message,
-            response,
-          });
-          continue;
-        }
-      }
-
-      const filePath = path.join(officialsDir, `${tier.usageName}.json`);
-      fs.writeFileSync(filePath, JSON.stringify(pokemonData, null, 2));
-
-      console.log({
-        url,
-        success: true,
-        period,
-        tier: tier.usageName,
-        filePath,
-        count: top100.length,
-      });
     }
+
+    const filePath = path.join(officialsDir, `${tier.usageName}.json`);
+    fs.writeFileSync(filePath, JSON.stringify(pokemonData, null, 2));
+
+    console.log({
+      url,
+      success: true,
+      period,
+      tier: tier.usageName,
+      filePath,
+      count: top100.length,
+    });
   }
 })();
