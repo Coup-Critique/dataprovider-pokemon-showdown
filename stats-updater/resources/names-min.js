@@ -211,4 +211,7 @@
   gen9mixandmegadoubles: "[Gen 9] Mix and Mega Doubles",
   gen9nationaldexubersunobtainableformes:
     "[Gen 9] National Dex Ubers (!Unobtainable Formes)",
+  gen9championsrandomdoublesbattle: "[Gen 9 Champions] Random Doubles Battle",
+  gen9mixandmegalimitedsupplyrandombattle:
+    "[Gen 9] Mix and Mega: Limited Supply Random Battle",
 };
