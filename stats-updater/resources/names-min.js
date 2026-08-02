@@ -214,4 +214,6 @@
   gen9championsrandomdoublesbattle: "[Gen 9 Champions] Random Doubles Battle",
   gen9mixandmegalimitedsupplyrandombattle:
     "[Gen 9] Mix and Mega: Limited Supply Random Battle",
+  gen9nationaldexmonoletter: "[Gen 9] National Dex Monoletter",
+  gen9aaadraft: "[Gen 9] AAA Draft",
 };
