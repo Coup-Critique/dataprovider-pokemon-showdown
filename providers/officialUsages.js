@@ -2,9 +2,10 @@ const path = require("path");
 const fs = require("fs");
 const { loadResource, LIBS } = require("../libs/fileLoader");
 const { LAST_GEN } = loadResource(LIBS, "util");
+const tiers = require("../json/tiers.json");
 const months = require("../usages/months.json").list || [];
 const lastMonth = months[months.length - 1];
-const tiers = require("../json/tiers.json");
+const periodsToTry = [...months].reverse();
 
 const officialTiersMapping = {
   championsvgc: "championstournaments", // champions double
@@ -39,6 +40,31 @@ const getTierKey = ({ name = "", usageName = "" }) => {
   return null;
 };
 
+/**
+ * Récupère le classement d'un tier sur la période la plus récente qui
+ * renvoie effectivement des données.
+ * @returns {Promise<{period: string, url: string, payload: Array}|null>}
+ */
+const fetchTierRanking = async (tierKey) => {
+  for (const period of periodsToTry) {
+    const url = getPikalyticsTierUrl(tierKey, period);
+    let payload = null;
+    try {
+      const response = await fetch(url);
+      payload = await response.json();
+    } catch (error) {
+      console.error("failed for tier " + tierKey + " on period " + period);
+      continue;
+    }
+    if (!Array.isArray(payload) || !payload.length) {
+      console.log("no data for tier " + tierKey + " on period " + period);
+      continue;
+    }
+    return { period, url, payload };
+  }
+  return null;
+};
+
 getEligibleTiers = () => {
   return tiers.filter(({ main, gen = [], usageName, name }) => {
     if (!main) return false;
@@ -48,42 +74,43 @@ getEligibleTiers = () => {
 };
 
 (async () => {
-  const period = lastMonth;
-
   const eligibleTiers = getEligibleTiers();
-
-  const officialsDir = path.join(
-    __dirname,
-    "..",
-    "usages",
-    "months",
-    period,
-    "officials"
-  );
-  ensureDir(officialsDir);
 
   for (const tier of eligibleTiers) {
     const tierKey = getTierKey(tier);
     if (!tierKey) {
       console.error({
-        period,
+        period: lastMonth,
         tier: tier.usageName,
         error: "Tier non trouvé",
       });
       continue;
     }
 
-    const url = getPikalyticsTierUrl(tierKey, period);
-    let response = null;
-    let payload = [];
-    try {
-      response = await fetch(url);
-      payload = await response.json();
-    } catch (error) {
-      console.error("failed for tier " + tierKey + " on period " + period);
+    const result = await fetchTierRanking(tierKey);
+    if (!result) {
+      console.error({
+        tier: tier.usageName,
+        periods: periodsToTry,
+        error: "Aucune donnée sur les périodes testées",
+      });
       continue;
     }
+    const { period, url, payload } = result;
     console.log("run " + tierKey + " on period " + period);
+
+    // Les données sont écrites dans le dossier du mois dont elles viennent
+    // réellement. C'est l'import qui remonte au mois précédent si le
+    // dernier mois n'a rien.
+    const officialsDir = path.join(
+      __dirname,
+      "..",
+      "usages",
+      "months",
+      period,
+      "officials"
+    );
+    ensureDir(officialsDir);
 
     const top100 = payload.slice(0, 100);
     const pokemonData = [];

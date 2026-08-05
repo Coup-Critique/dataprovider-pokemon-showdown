@@ -1,7 +1,11 @@
 const { loadResource, LIBS } = require("../libs/fileLoader");
-const { LAST_GEN, folderUsage, withoutSpaces } = loadResource(LIBS, "util");
+const { LAST_GEN, withoutSpaces } = loadResource(LIBS, "util");
 const { knex } = require("./db");
 const fs = require("fs");
+const months = require("../usages/months.json").list || [];
+// Du plus récent au plus ancien : si le dernier mois n'a pas de données
+// (Pikalytics ne les avait pas encore publiées), on remonte au précédent.
+const periodsToTry = [...months].reverse();
 const tiers = loadResource("JSON", "tiers.json");
 const pokemonsJson = loadResource("JSON", "pokemons.json");
 const learnsJson = loadResource("JSON", "learns.json");
@@ -54,8 +58,36 @@ const getPokemonMoves = (pokemonName, gen) => {
   };
 };
 
-const getDataFilePath = (tierUsageName) => {
-  return `${folderUsage}/officials/${tierUsageName}.json`;
+const getDataFilePath = (period, tierUsageName) => {
+  return `usages/months/${period}/officials/${tierUsageName}.json`;
+};
+
+/**
+ * Charge les usages d'un tier depuis le mois le plus récent qui en contient
+ * réellement : un fichier absent, vide ou illisible fait passer au précédent.
+ * @returns {{period: string, dataFilePath: string, officialData: Array}|null}
+ */
+const loadOfficialData = (tierUsageName) => {
+  for (const period of periodsToTry) {
+    const dataFilePath = getDataFilePath(period, tierUsageName);
+    if (!fs.existsSync(dataFilePath)) {
+      console.log(`${dataFilePath} doesn't exist : skipping...`);
+      continue;
+    }
+    let officialData = null;
+    try {
+      officialData = JSON.parse(fs.readFileSync(dataFilePath));
+    } catch (e) {
+      console.log(`${dataFilePath} cannot be parsed : skipping...`);
+      continue;
+    }
+    if (!Array.isArray(officialData) || !officialData.length) {
+      console.log(`${dataFilePath} is empty : skipping...`);
+      continue;
+    }
+    return { period, dataFilePath, officialData };
+  }
+  return null;
 };
 
 const getTierByName = async (tierName) => {
@@ -303,15 +335,17 @@ const importOfficialUsages = async (tierName) => {
       return;
     }
 
-    const dataFilePath = getDataFilePath(tierName);
-    console.log(`Loading ${dataFilePath}...`);
-
-    if (!fs.existsSync(dataFilePath)) {
-      console.log(`${dataFilePath} doesn't exist : skipping...`);
+    const data = loadOfficialData(tierName);
+    if (!data) {
+      console.log(
+        `No data found for ${tierName} in ${periodsToTry.join(
+          ", "
+        )} : skipping...`
+      );
       return;
     }
-
-    const officialData = JSON.parse(fs.readFileSync(dataFilePath));
+    const { period, dataFilePath, officialData } = data;
+    console.log(`Loading ${dataFilePath} (period ${period})...`);
 
     // Clear usages
     await clearTierUsages(gen, tier);
