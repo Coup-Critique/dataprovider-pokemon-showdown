@@ -5,8 +5,7 @@ const { LAST_GEN } = loadResource(LIBS, "util");
 const tiers = require("../json/tiers.json");
 const months = require("../usages/months.json").list || [];
 const lastMonth = months[months.length - 1];
-// On remonte jusqu'à 6 mois en arrière si le mois courant n'a pas de données
-const MAX_MONTHS_BACK = 6;
+const MAX_MONTHS_BACK = 4;
 const periodsToTry = Array.from({ length: MAX_MONTHS_BACK }, (_, i) => {
   const date = new Date(`${lastMonth}-01T00:00:00Z`);
   date.setUTCMonth(date.getUTCMonth() - i);

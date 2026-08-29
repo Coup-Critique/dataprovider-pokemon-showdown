@@ -52,7 +52,7 @@ exports.parseMonthsList = function (str) {
       months.push(data);
     }
   }
-  return { months: months.slice(-2) };
+  return { months: months.slice(-4) };
 };
 
 exports.parseFormatsList = function (str) {
