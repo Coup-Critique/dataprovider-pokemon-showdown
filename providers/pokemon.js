@@ -57,6 +57,9 @@ const makePokemonObject = (
     weighthg: weight,
     baseStats,
     prevo,
+    requiredItem,
+    requiredItems,
+    battleOnly,
   },
   gen,
   cosmetic = false
@@ -80,6 +83,15 @@ const makePokemonObject = (
     weight,
     baseForm: getBaseForm({ name, changesFrom, baseSpecies }),
     prevo: prevo || null,
+    // Objet impose par la forme : gemme mega, Rusted Sword, plaque d'Arceus...
+    ...((requiredItem || requiredItems?.[0]) && {
+      requiredItem: requiredItem || requiredItems[0],
+    }),
+    // Forme qui ne s'obtient qu'en combat (mega, primale, Ultra...) : forme d'origine.
+    // Son talent n'est pas choisissable, c'est celui de la forme d'origine qui est joue.
+    ...(battleOnly && {
+      battleOnly: Array.isArray(battleOnly) ? battleOnly[0] : battleOnly,
+    }),
     gen,
     ability_1: abilities["0"],
     ability_2: abilities["1"] || abilities["S"],

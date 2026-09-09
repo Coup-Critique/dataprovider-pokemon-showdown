@@ -53,8 +53,34 @@ const withoutSpaces = (s) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase();
 
+const selectAbilityUsages = (
+  abilities,
+  { formeAbilities = [], baseAbilities = [] } = {}
+) => {
+  const entries = [];
+  for (const abilityData of abilities || []) {
+    const percent = parseFloat(abilityData.percent ?? abilityData.usage);
+    if (isNaN(percent) || percent < 1) continue;
+    const name = abilityData.ability ?? abilityData.name;
+    const fromBase = baseAbilities.includes(name);
+    if (!fromBase && !formeAbilities.includes(name)) continue;
+    entries.push({ name, percent, fromBase });
+  }
+
+  const kept = entries.some((entry) => entry.fromBase)
+    ? entries.filter((entry) => entry.fromBase)
+    : entries;
+  const total = kept.reduce((sum, entry) => sum + entry.percent, 0);
+
+  return kept.map(({ name, percent }) => ({
+    name,
+    percent: total ? Math.round((percent * 10000) / total) / 100 : percent,
+  }));
+};
+
 module.exports = {
   writeFile,
+  selectAbilityUsages,
   isStandard,
   removeParenthesis,
   LAST_GEN,

@@ -1,5 +1,8 @@
 const { loadResource, LIBS } = require("../libs/fileLoader");
-const { LAST_GEN, withoutSpaces } = loadResource(LIBS, "util");
+const { LAST_GEN, withoutSpaces, selectAbilityUsages } = loadResource(
+  LIBS,
+  "util"
+);
 const { knex } = require("./db");
 const fs = require("fs");
 const months = require("../usages/months.json").list || [];
@@ -47,6 +50,12 @@ const getPokemonAbilities = (pokemonName, gen) => {
   const p = pokemonsByNameGen.get(`${pokemonName}|${gen}`);
   if (!p) return [];
   return [p.ability_1, p.ability_2, p.ability_hidden].filter(Boolean);
+};
+
+const getBaseFormeAbilities = (pokemonName, gen) => {
+  const p = pokemonsByNameGen.get(`${pokemonName}|${gen}`);
+  if (!p?.battleOnly) return [];
+  return getPokemonAbilities(p.battleOnly, gen);
 };
 
 const getPokemonMoves = (pokemonName, gen) => {
@@ -165,17 +174,14 @@ const getNatureByName = async (name) => {
 };
 
 const importAbilities = async (gen, usageData, tierUsageId) => {
-  const validAbilities = getPokemonAbilities(usageData.name, gen);
-  for (const abilityData of usageData.abilities || []) {
-    if (!validAbilities.includes(abilityData.ability)) continue;
-    const ability = await getEntityByUsageName(
-      "ability",
-      gen,
-      abilityData.ability
-    );
+  const kept = selectAbilityUsages(usageData.abilities, {
+    formeAbilities: getPokemonAbilities(usageData.name, gen),
+    baseAbilities: getBaseFormeAbilities(usageData.name, gen),
+  });
+
+  for (const { name, percent } of kept) {
+    const ability = await getEntityByUsageName("ability", gen, name);
     if (!ability) continue;
-    const percent = parseFloat(abilityData.percent);
-    if (isNaN(percent) || percent < 1) continue;
     await knex("usage_ability").insert({
       tierUsageId,
       abilityId: ability.id,

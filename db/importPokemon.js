@@ -20,7 +20,7 @@ Promise.all(
       ability_hidden: "ability_hidden_id",
       usageName: "usage_name",
     },
-    ignoreColumns: ["baseForm", "prevo"],
+    ignoreColumns: ["baseForm", "prevo", "requiredItem"],
     relations: {
       type_1_id: { table: "type", refColumn: "name" },
       type_2_id: { table: "type", refColumn: "name" },
@@ -38,6 +38,7 @@ Promise.all(
         replaceColumns: {
           prevo: "pre_evo_id",
           baseForm: "base_form_id",
+          requiredItem: "required_item_id",
         },
         ignoreColumns: [
           "type_1",
@@ -50,6 +51,7 @@ Promise.all(
         relations: {
           base_form_id: { table: "pokemon", refColumn: "name" },
           pre_evo_id: { table: "pokemon", refColumn: "name" },
+          required_item_id: { table: "item", refColumn: "name" },
         },
       })
     );
