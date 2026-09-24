@@ -76,6 +76,9 @@ progressBar.start(learns.length, 0);
             return true;
           } catch (e) {
             if (e.code === "ER_DUP_ENTRY") {
+              await knex("pokemonMove")
+                .where({ pokemonId, moveId, gen })
+                .update({ championsAdd, championsLoss });
               return false;
             }
             throw new Error(e);
