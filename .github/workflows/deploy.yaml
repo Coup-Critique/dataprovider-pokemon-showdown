@@ -28,7 +28,7 @@ jobs: #this section contains the tasks / jobs that must be executed
       - name: "NodeJS setup"
         uses: actions/setup-node@v3
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Change version into package.json
         run: >
