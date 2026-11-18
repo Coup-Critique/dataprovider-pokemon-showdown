@@ -1,12 +1,13 @@
 const { LAST_GEN, isStandard } = require("../libs/util");
 const { Dex } = require("../pokemon-showdown/dist/sim/index.js");
 
-const makeMoveObject = (rawObject, gen) => ({
+const makeMoveObject = (rawObject, gen, text) => ({
   usageName: rawObject.id,
   name: rawObject.name,
   category: rawObject.category,
-  description: rawObject.desc,
-  shortDescription: rawObject.shortDesc,
+  description: text.desc,
+  descriptionEn: text.desc,
+  shortDescription: text.shortDesc,
   power: rawObject.basePower,
   pp: rawObject.pp,
   accuracy: rawObject.accuracy,
@@ -19,15 +20,16 @@ const makeMoveObject = (rawObject, gen) => ({
 
 let movesCollection = [];
 for (let gen = 1; gen <= LAST_GEN; gen++) {
-  const movesFromShowdown = Dex.mod(`gen${gen}`)
-    .moves.all()
+  const dex = Dex.mod(`gen${gen}`);
+  const movesFromShowdown = dex.moves
+    .all()
     .filter((move) => isStandard(move, gen, move.num > 0))
     .map((move) => {
       if (/Hidden Power (\w+)/.test(move.name)) {
         move.name = `Hidden Power [${move.type}]`;
         move.id = ("hiddenpower" + move.type).toLowerCase();
       }
-      return makeMoveObject(move, gen);
+      return makeMoveObject(move, gen, dex.text.get(move));
     });
   movesCollection.push(...movesFromShowdown);
 }
