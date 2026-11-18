@@ -5,13 +5,15 @@ let itemsCollection = range(1, LAST_GEN).map((gen) => ({
   usageName: "noitem",
   name: "No Item",
   description: "Pas d'objet tenu",
+  descriptionEn: "No held item",
   gen,
 }));
 
-const makeItemObject = (rawObject, gen) => ({
+const makeItemObject = (rawObject, gen, text) => ({
   usageName: rawObject.id,
   name: rawObject.name,
-  description: rawObject.desc,
+  description: text.desc,
+  descriptionEn: text.desc,
   gen,
   itemUserId: rawObject.itemUser?.[0] ?? null,
   megaId: rawObject.megaStone ? Object.values(rawObject.megaStone)[0] : null,
@@ -20,8 +22,9 @@ const makeItemObject = (rawObject, gen) => ({
 });
 
 for (let gen = 1; gen <= LAST_GEN; gen++) {
-  const itemsFromShowdown = Dex.mod(`gen${gen}`)
-    .items.all()
+  const dex = Dex.mod(`gen${gen}`);
+  const itemsFromShowdown = dex.items
+    .all()
     .filter(
       (item) =>
         isStandard(item, gen, item.num > 0) &&
@@ -29,7 +32,9 @@ for (let gen = 1; gen <= LAST_GEN; gen++) {
         !/TR\d+/.test(item.name)
     );
   for (const itemFromShowdown of itemsFromShowdown)
-    itemsCollection.push(makeItemObject(itemFromShowdown, gen));
+    itemsCollection.push(
+      makeItemObject(itemFromShowdown, gen, dex.text.get(itemFromShowdown))
+    );
 }
 
 // After for Dex mod

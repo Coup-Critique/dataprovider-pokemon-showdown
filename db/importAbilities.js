@@ -7,6 +7,7 @@ Promise.all(
     hasGen: true,
     ignoreColumns: ["shortDescription"],
     noOverrideColumns: ["description"],
+    fillEmptyColumns: ["descriptionEn"],
   })
 )
   .then((results) => console.log(resultRecords("ability", results)))
