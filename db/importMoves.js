@@ -18,6 +18,7 @@ Promise.all(
       typeId: { table: "type", refColumn: "name" },
     },
     noOverrideColumns: ["description"],
+    fillEmptyColumns: ["descriptionEn"],
   })
 )
   .then((results) => console.log(resultRecords("move", results)))

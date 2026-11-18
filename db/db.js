@@ -8,13 +8,15 @@ require("dotenv").config();
  * @param {{ identifier: ?string, hasGen: boolean,
  *           replaceColumns: ?object, relations: ?object,
  *           ignoreColumns: string[],
- *           noOverrideColumns: string[]  }} options
+ *           noOverrideColumns: string[],
+ *           fillEmptyColumns: string[]  }} options
  * Options parameters :
  * - identifier : column name that will have the identifier role (check row's existance)
  * - hasGen : does data have gen ? (special processing)
  * - replaceColumns : columns name that must be replaced by other precised
  * - relations : column mapping across tables
  * - noOverideColumns : columns that mustn't be updated
+ * - fillEmptyColumns : columns only written when empty in database
  * @returns
  */
 module.exports.insertOrUpdate = (
@@ -28,6 +30,7 @@ module.exports.insertOrUpdate = (
     relations = null,
     ignoreColumns = [],
     noOverrideColumns = [],
+    fillEmptyColumns = [],
   } = {}
 ) => {
   return objectArray.map(async (entry) => {
@@ -86,6 +89,15 @@ module.exports.insertOrUpdate = (
         if (noOverrideColumns.length > 0) {
           for (const column of noOverrideColumns) {
             if (entry[column]) delete entry[column];
+          }
+        }
+        if (fillEmptyColumns.length > 0) {
+          const current = await knex(tableName)
+            .where("id", row.id)
+            .first(fillEmptyColumns);
+          for (const column of fillEmptyColumns) {
+            if (current?.[column] != null && current[column] !== "")
+              delete entry[column];
           }
         }
         await knex(tableName).update(entry).where("id", row.id);

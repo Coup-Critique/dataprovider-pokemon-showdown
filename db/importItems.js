@@ -6,6 +6,7 @@ Promise.all(
   insertOrUpdate(knex, "item", items, {
     hasGen: true,
     noOverrideColumns: ["description"],
+    fillEmptyColumns: ["descriptionEn"],
     relations: {
       itemUserId: { table: "pokemon", refColumn: "name" },
       megaId: { table: "pokemon", refColumn: "name" },
