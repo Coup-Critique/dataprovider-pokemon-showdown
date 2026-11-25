@@ -236,4 +236,6 @@
   gen9nationaldexmonotypeubers: "[Gen 9] National Dex Monotype Ubers",
   gen9resetmonsrandombattle: "[Gen 9] Resetmons Random Battle",
   gen9resetmons: "[Gen 9] Resetmons",
+  gen9championsrosterranchrumble: "[Gen 9 Champions] Roster Ranch Rumble",
+  gen9championsnationaldex: "[Gen 9 Champions] National Dex",
 };
